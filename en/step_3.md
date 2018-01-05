@@ -24,13 +24,13 @@ todo - also offer the option to download the sprite
 
 --- hint ---
 
-+ Select the 'Scripts' tab and have a look at the `Control`{:class="blockcontrol"} and `Motion`{:class="blockmotion"} blocks.
++ Select the 'Scripts' tab and have a look at the `Events`{:class="blockevents"} and `Motion`{:class="blockmotion"} blocks.
 
 --- /hint ---
 
 --- hint ---
 
-+ When the `green flag is clicked`{:class="blockcontrol"}, make your skier sprite `go to the x & y`{:class="blockmotion"} co-ordinates at the top of the screen and `point in the direction`{:class="blockmotion"} of 90 degrees.
++ When the `green flag is clicked`{:class="blockevents"}, make your skier sprite `go to the x & y`{:class="blockmotion"} co-ordinates at the top of the screen and `point in the direction`{:class="blockmotion"} of 90 degrees.
 
 --- /hint ---
 
