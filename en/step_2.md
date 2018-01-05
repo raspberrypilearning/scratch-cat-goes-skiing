@@ -6,9 +6,9 @@
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://jumpto.cc/scratch-on) or [offline](jumpto.cc/scratch-off))
++ Scratch 2.0 (either [online](http://jumpto.cc/scratch-on) or [offline](http://jumpto.cc/scratch-off))
 
 ### Additional Resources
 
 + A pre-built Scratch the Skier sprite is available to [download](https://todolink).
-+ The completed project is [online] or available to [download](https://todolink).
++ The completed project is [online](https://todolink) or available to [download](https://todolink).

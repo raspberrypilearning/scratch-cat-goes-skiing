@@ -1,7 +1,14 @@
 ## Create a skier
 
-Open new scratch project
++ Create a new empty scratch project
+
 [[[generic-scratch-new-project]]]
+
++ Create a new sprite for your skier
+
+[[[generic-scratch-draw-sprite]]]
+
+![skier sprite](images/skier_sprite.png)
 
 + Create the background
 + Delete the cat sprite
