@@ -10,7 +10,9 @@
 
 [[[generic-scratch-draw-sprite]]]
 
-todo - also offer the option to download the sprite
+If you are short on time you can [download](resources/skiing_cat.sprite2) this pre-made sprite and add it into your project.
+
+[[[generic-scratch-add-sprite-from-file]]]
 
 + Paint a new backdrop for your ski slope - fill the background grey and add some straight lines
 
