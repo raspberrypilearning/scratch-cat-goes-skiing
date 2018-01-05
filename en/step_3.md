@@ -21,13 +21,24 @@ todo - also offer the option to download the sprite
 + Add the code to your skier sprite so it appears at the top of the slope and points downhill when the flag is pressed.
 
 --- hints ---
+
 --- hint ---
-When the `green flag is clicked`, you'll need to make your skier sprite `goto` an `x`, `y` which puts it at the top of the slope and `point` it in the `direction` of `90` degrees.
+
++ Have a look at the `Control`{:class="blockcontrol"} and `Motion`{:class="blockmotion"} blocks.
+
+--- hint ---
+
++ When the `when green flag clicked`{:class="blockcontrol"}, make your skier sprite `go to x: (0) y: (100)`{:class="blockmotion"}  and `point in direction (90 v)`{:class="blockmotion"}.
+
 --- /hint ---
 --- hint ---
+
 Use:
+
 ```blocks
-	go to x 0 y 0
+	when green flag clicked
+	go to x: (0) y: (100)
+	point in direction (90 v)
 ```
 
 --- /hint ---
