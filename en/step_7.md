@@ -1,4 +1,5 @@
-### Adding a score
+## Crashing
 
-+ create a variable for score
-+ each time you get past a tree, you should add 1 to the score
++ adding block to test if the skier has hit the obstacle
++ adding a 2nd costume to your sprite to show he has crashed
+
