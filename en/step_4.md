@@ -17,14 +17,17 @@ You will use the left and right arrow keys to control the skier, making them go 
 --- hint ---
 
 + An `Events`{:class="blockevents"} block will allow you to run a script when a key is pressed.
-+ `Pointing`{:class="blockmotion"} the skier sprite to 105 degress will turn it to the left.
-+ Changing the sprite's `x`{:class="blockmotion"} position by `-10` will make it move to the left.
++ `Pointing`{:class="blockmotion"} the skier sprite to `105`{:class="blockmotion"} degress will turn it to the left.
++ Changing the sprite's `x`{:class="blockmotion"} position by `-10`{:class="blockmotion"} will make it move to the left.
 
 --- /hint ---
 
 --- hint ---
 
-+ When the `left arrow is pressed`{:class="blockevents"}, `point it in direction 105`{:class="blockmotion"} and `change x by -10`{:class="blockmotion"}.
++ When the `left arrow is pressed`{:class="blockevents"}: 
+
+  + `point in direction - 105`{:class="blockmotion"}
+  + `change x by -10`{:class="blockmotion"}.
 
 --- /hint ---
 
