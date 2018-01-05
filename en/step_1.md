@@ -1,25 +1,28 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+Create a game so that Scratch the cat can go skiing.
 
 ### What you will make
 
-Add something here to showcase here, for example:
+Using Scratch you will create a game so a character you create can go skiing. You will have to avoid obstacles on the slope if you want to become a champion skier. 
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/196157667/?autostart=false" frameborder="0"></iframe>
+  <img src="images/skiing-final.png">
 </div>
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+You can then make the game your own by adding obstacles, jumps, powerup or anything else you can think of!
 
 ### What you will learn
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}
+
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### Additional information for educators
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratch-goes-skiing/print){:target="_blank"}.
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.

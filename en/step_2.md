@@ -2,12 +2,13 @@
 
 ### Hardware
 
-+ List hardware here, or delete section.
++ Computer capable of running Scratch 2.0
 
 ### Software
 
-+ List software here, or delete section.
++ Scratch 2.0 (either [online](http://jumpto.cc/scratch-on) or [offline](jumpto.cc/scratch-off))
 
 ### Additional Resources
 
-+ List additional resources, or delete section.
++ A pre-built Scratch the Skier sprite is available to [download](https://todolink).
++ The completed project is [online] or available to [download](https://todolink).
