@@ -24,18 +24,19 @@ todo - also offer the option to download the sprite
 
 --- hint ---
 
-+ Have a look at the `Control`{:class="blockcontrol"} and `Motion`{:class="blockmotion"} blocks.
++ Select the 'Scripts' tab and have a look at the `Control`{:class="blockcontrol"} and `Motion`{:class="blockmotion"} blocks.
 
 --- /hint ---
 
 --- hint ---
 
-+ When the `green flag is clicked`{:class="blockcontrol"}, make your skier sprite `go to x & y`{:class="blockmotion"} co-ordinates at the top of the screen and `point in the direction`{:class="blockmotion"} of 90 degrees.
++ When the `green flag is clicked`{:class="blockcontrol"}, make your skier sprite `go to the x & y`{:class="blockmotion"} co-ordinates at the top of the screen and `point in the direction`{:class="blockmotion"} of 90 degrees.
 
 --- /hint ---
+
 --- hint ---
 
-Use:
+This is what your code should look like:
 
 ```blocks
 	when green flag clicked
@@ -44,17 +45,10 @@ Use:
 ```
 
 --- /hint ---
---- hint ---
-This is what your code should look like:
-![screenshot](images/ghost-appear-code.png)
---- /hint ---
+
 --- /hints ---
 
 + Test and save your project.
 
 [[[generic-scratch-saving]]]
-
-+ Delete the cat sprite
-+ Create a skier icon with 2 costumes, 1 skiing, 1 fallen over (or download the cat one) 
-+ Set the initial position, costume and direction
 
