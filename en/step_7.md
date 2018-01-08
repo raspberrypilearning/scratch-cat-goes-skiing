@@ -57,7 +57,7 @@ The update skier code should look like this:
 ```blocks
 when green flag clicked
 wait until <touching [Tree2 v] ?>
-switch costume to [costume2 v]
+switch costume to [fallenover v]
 stop [all v]
 ```
 
@@ -65,7 +65,9 @@ stop [all v]
 
 --- /hints ---
 
-If the skier hits the obstacle the costume will change and the game will stop, but there is a problem, the next time you run the game, the skier will still be wearing the fallen over costume.
+If the skier hits the obstacle the costume will change and the game will stop. 
+
+There is a now problem with your game, the next time you run it, the skier will still be wearing the fallen over costume.
 
 + Set the skier's costume back to *skiing* when the game starts.
 
@@ -73,7 +75,7 @@ If the skier hits the obstacle the costume will change and the game will stop, b
 
 --- hint ---
 
-+ When the `green flag is clicked`{:class="blockevents"}, switch{:class="blocklooks"} to the first costume.
++ When the `green flag is clicked`{:class="blockevents"}, `switch`{:class="blocklooks"} to the first costume.
 
 --- /hint ---
 
@@ -81,11 +83,13 @@ If the skier hits the obstacle the costume will change and the game will stop, b
 
 The update code should be:
 
+```blocks
 when green flag clicked
-switch costume to [costume1 v]
+switch costume to [skiing v]
 wait until <touching [Tree2 v] ?>
-switch costume to [costume2 v]
+switch costume to [fallenover v]
 stop [all v]
+```
 
 --- /hint ---
 

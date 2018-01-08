@@ -11,7 +11,7 @@ Using Scratch you will create a game so a character you create can go skiing. Yo
   <img src="images/skiing-final.png">
 </div>
 
-You can then make the game your own by adding obstacles, jumps, powerup or anything else you can think of!
+You can then make the game your own by adding obstacles, jumps, gates or anything else you can think of!
 
 ### What you will learn
 
@@ -25,4 +25,3 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratch-goes-skiing/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.

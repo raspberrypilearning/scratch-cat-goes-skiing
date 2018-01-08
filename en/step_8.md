@@ -15,12 +15,16 @@ Each time the skier makes it past an obstacle they should earn points.
 
 --- /hint ---
 
+--- hint ---
+
 The code should look like this:
 
 ```blocks
 when green flag clicked
 set [score v] to [0]
 ```
+
+--- /hint ---
 
 --- /hints ---
 
@@ -30,13 +34,13 @@ set [score v] to [0]
 
 --- hint ---
 
-Have a look at the obstacle script - if it disappears the skier must have got past it.
+Have a look at the obstacle script - if the sprite reaches the top of the screen the skier must have got past it.
 
 --- /hint ---
 
 --- hint ---
 
-At the end of the forever{:class="blockcontrol"} loop, change score by 1{:block="classdata"}.
+At the end of the `forever`{:class="blockcontrol"} loop, `change score by 1`{:block="classdata"}.
 
 --- /hint ---
 
@@ -44,6 +48,7 @@ At the end of the forever{:class="blockcontrol"} loop, change score by 1{:block=
 
 The update obstackle script should look like this:
 
+```blocks
 when green flag clicked
 set [score v] to [0]
 forever 
@@ -55,6 +60,7 @@ forever
     wait (0.5) secs
     change [score v] by (1)
 end
+```
 
 --- /hint ---
 

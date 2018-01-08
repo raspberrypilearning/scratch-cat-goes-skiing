@@ -1,21 +1,27 @@
 ## Adding an obstacle
 
-Obstacles to avoid will make your game more exciting and give a sense of movement by appearing at bottom and traveling up the screen.
+Obstacles to avoid will make your game more challenging and give a sense of movement as they appear at bottom of the screen and traveling up.
 
 ![obstacle](images/skier_obstacle.png)
 
-+ Add in a new sprite from the library for an obstacle (anything you think might be found on a ski slope) 
++ Add in a new sprite from the library for an obstacle (anything you think might be found on a ski slope).
 
 [[[generic-scratch-sprite-from-library]]]
 
 + Can you code an obstacle for the skier to avoid?
 
     + It should appear at the bottom of the slope
-    + Move up the stage
+    + Move up the screen
     + Disappear when it reaches the top
     + Wait for 1 second and then repeat
 
 --- hints ---
+
+--- hint ---
+
+`show`{:class="blocklooks"} and `hide` will make a sprite appear and disappear while `goto`{:class="blockmotion"} and `glide to`{:class="blockmotion"} will make make a sprite move.
+
+--- /hint ---
 
 --- hint ---
 

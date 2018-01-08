@@ -2,7 +2,7 @@
 
 The obstacle always appears in the same place on the screen, to make the game more challenging the obstacles should appeared in a different random position every time.
 
-+ Can you add the code to create a random `x`{:class="blockmotion"} position, which is used when the sprite appears and when it is moved to the top of the screen?
++ Can you add the code to create a random `x`{:class="blockmotion"} position, which is used when the obstacle appears and when it is moved to the top of the screen?
 
 [[[generic-scratch-add-variable]]]
 
