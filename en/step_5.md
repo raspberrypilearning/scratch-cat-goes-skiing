@@ -2,7 +2,7 @@
 
 Obstacles to avoid will make your game more challenging and give a sense of movement as they appear at bottom of the screen and traveling up.
 
-![obstacle](images/skier_obstacle.png)
+![obstacle](images/skier_obstacle_moving.gif)
 
 + Add in a new sprite from the library for an obstacle (anything you think might be found on a ski slope).
 
