@@ -32,7 +32,8 @@ stop [all v]
 
 ![skier sprite fallen costume](images/skier_sprite_fallen.png)
 
-[[[ generic-scratch-add-costume ]]]
+[[[generic-scratch-add-costume]]]
+
 
 + Change the skier's costume when it crashes into the obstacle.
 
