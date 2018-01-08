@@ -42,7 +42,7 @@ Have a look at the obstacle script - if the sprite reaches the top of the screen
 
 --- hint ---
 
-At the end of the `forever`{:class="blockcontrol"} loop, `change score by 1`{:block="classdata"}.
+At the end of the `forever`{:class="blockcontrol"} loop, `change score by 1`{:block="blockdata"}.
 
 --- /hint ---
 
