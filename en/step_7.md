@@ -2,9 +2,15 @@
 
 If the skier crashes into an obstacle they should fall over and the game should end.
 
-+ Modify the skier sprite to `stop all` if it `touches` the obstacle.
++ Change the game so it ends if the skier crashes.
 
 --- hints ---
+
+--- hint ---
+
++ Modify the skier sprite to `stop all` if it `touches` the obstacle.
+
+--- /hint ---
 
 --- hint ---
 
@@ -34,8 +40,7 @@ stop [all v]
 
 [[[generic-scratch-add-costume]]]
 
-
-+ Change the skier's costume when it crashes into the obstacle.
++ Change the skier's costume when it crashes.
 
 --- hints ---
 
