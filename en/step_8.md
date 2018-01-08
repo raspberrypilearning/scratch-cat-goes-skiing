@@ -68,23 +68,3 @@ end
 
 --- /hints ---
 
-## Challenges
-
---- challenge ---
-
---- collapse ---
-
----
-title: Scratch goes skiing challenges
----
-
-1. Create a better background
-1. Make it harder or easier by changing the speed of the obstacles
-1. Add a 2nd and 3rd obstacle
-1. Add a set of gates that the skier scores extra points for going through
-1. Add sounds, perhaps a crash when an obstacle is hit
-
---- /collapse ---
-
---- /challenge ---
-
