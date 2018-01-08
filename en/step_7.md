@@ -8,7 +8,7 @@ If the skier crashes into an obstacle they should fall over and the game should 
 
 --- hint ---
 
-+ Modify the skier sprite to `stop all` if it `touches` the obstacle.
++ Modify the skier sprite to `stop all`{:class="blockcontrol"} if it `touches`{:class="blocksensing"} the obstacle.
 
 --- /hint ---
 
@@ -34,7 +34,7 @@ stop [all v]
 
 --- /hints ---
 
-+ Create a **fallen over** new costume for your skier.
++ Create a new *fallen over* costume for your skier.
 
 ![skier sprite fallen costume](images/skier_sprite_fallen.png)
 
@@ -65,9 +65,9 @@ stop [all v]
 
 --- /hints ---
 
-If you run and test your game, if the skier hits the obstacle the costume will change and the game will stop. However there is a problem - the next time you run the game, the skier will still be wearing the fallen over costume.
+If the skier hits the obstacle the costume will change and the game will stop, but there is a problem, the next time you run the game, the skier will still be wearing the fallen over costume.
 
-+ Set the skier's costume back to **skiing** when the game starts.
++ Set the skier's costume back to *skiing* when the game starts.
 
 --- hints ---
 
