@@ -2,6 +2,8 @@
 
 Each time the skier makes it past an obstacle they should earn points.
 
+![score](images/score.png)
+
 + Create a variable for the score and display it.
 
 [[[generic-scratch-add-variable]]]
