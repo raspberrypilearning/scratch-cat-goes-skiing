@@ -2,7 +2,7 @@
 
 You will use the left and right arrow keys to control the skier, making them go left and right across the slope.
 
-![skier going left](images/skier_left.png)
+![skier moving](images/skier_moving.gif)
 
 + Can you make the skier move and point to the left? 
 
