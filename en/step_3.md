@@ -10,7 +10,7 @@
 
 [[[generic-scratch-draw-sprite]]]
 
-If you are short on time you can [download](resources/skiing_cat.sprite2) this pre-made sprite and add it into your project.
+You can also [download](resources/skiing_cat.sprite2) a pre-made sprite and add it into your project.
 
 [[[generic-scratch-add-sprite-from-file]]]
 

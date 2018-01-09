@@ -1,8 +1,3 @@
-<div class="p-hero-buttons">
-  [Offline Completed Project](resources/scratch_goes_skiing.sb2){:download='scratch_goes_skiing.sb2'}
-  [Online Completed Project](http://scratch.mit.edu/projects/196098177/#editor){:target="_blank"}
-</div>
-
 --- challenge ---
 
 ## Adding more obstacles
