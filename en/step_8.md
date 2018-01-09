@@ -4,7 +4,7 @@ Each time the skier makes it past an obstacle they should earn points.
 
 ![score](images/score.png)
 
-+ Create a variable for the score and display it.
++ Create a variable for the score, set it to zero at the start of the game and display it.
 
 [[[generic-scratch-add-variable]]]
 
@@ -42,7 +42,7 @@ Have a look at the obstacle script - if the sprite reaches the top of the screen
 
 --- hint ---
 
-At the end of the `forever`{:class="blockcontrol"} loop, `change score by 1`{:block="blockdata"}.
+At the end of the `forever`{:class="blockcontrol"} loop, `change score by 1`{:class="blockdata"}.
 
 --- /hint ---
 

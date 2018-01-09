@@ -4,14 +4,14 @@ Create a game so that Scratch the cat can go skiing.
 
 ### What you will make
 
-Using Scratch you will create a game so a character you create can go skiing. You will have to avoid obstacles on the slope if you want to become a champion skier. 
+Using Scratch you will create a game where a character, you create, will go skiing. You will have to avoid obstacles on the slope to score points to become a champion skier. 
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/196157667/?autostart=false" frameborder="0"></iframe>
   <img src="images/skiing-final.png">
 </div>
 
-You can then make the game your own by adding obstacles, jumps, gates or anything else you can think of!
+You can then make the game your own by adding more obstacles, jumps, gates or anything else you can think of!
 
 ### What you will learn
 

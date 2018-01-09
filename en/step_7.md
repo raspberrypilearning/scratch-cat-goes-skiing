@@ -46,7 +46,7 @@ stop [all v]
 
 --- hint ---
 
-After the skier has touched{:class="blocksensing"} the obstacle, switch{:class="blocklooks"} to the new costume.
+After the skier has `touched`{:class="blocksensing"} the obstacle, `switch`{:class="blocklooks"} to the new costume.
 
 --- /hint ---
 
@@ -75,7 +75,7 @@ There is a now problem with your game, the next time you run it, the skier will 
 
 --- hint ---
 
-+ When the `green flag is clicked`{:class="blockevents"}, `switch`{:class="blocklooks"} to the first costume.
++ When the `green flag is clicked`{:class="blockevents"}, `switch`{:class="blocklooks"} to the *skiing* costume.
 
 --- /hint ---
 
