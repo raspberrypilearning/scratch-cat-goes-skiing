@@ -10,5 +10,7 @@ When you add a new obstacle you will need to think about:
 1. What happens when the skier crashes into it?
 1. Increasing the score when they get past it?
 
+Go back to the instructions in this project where you created the first obstacle if you need help.
+
 --- /challenge ---
 

@@ -2,6 +2,8 @@
 
 If the skier crashes into an obstacle they should fall over and the game should end.
 
+![skier crashed](images/skier_crash.png)
+
 + Change the skier sprite to `wait until it is touching`{:class="blocksensing"} the obstacle and then to `stop all`{:class="blockcontrol"}.
 
 ```blocks

@@ -48,6 +48,7 @@ Add the `next costume`{:class="blocklooks"} block before the `show`{:class="bloc
 
 ```blocks
     next costume
+    show
 ```
 
 --- /hint ---

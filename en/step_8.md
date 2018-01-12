@@ -15,7 +15,7 @@ set [score v] to [0]
 
 + Change the code so that when the player gets past the obstacle the score increases by 1.
 
-The update obstackle script should look like this:
+The update obstacle script should look like this:
 
 ```blocks
 when green flag clicked
