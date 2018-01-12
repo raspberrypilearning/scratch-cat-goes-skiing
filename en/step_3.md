@@ -26,6 +26,8 @@ Download the 'Skiing' Scratch starter project from [rpf.io/skiingoff](resources/
 
 + Add the code to your skier sprite so it appears at the top of the slope and points downhill `when the flag is clicked`{:class="blockcontrol"}.
 
+![skier on slope](images/skier_on_the_slope.png)
+
 ```blocks
 	when green flag clicked
 	go to x: (0) y: (100)
@@ -35,5 +37,3 @@ Download the 'Skiing' Scratch starter project from [rpf.io/skiingoff](resources/
 + Test and save your project.
 
 [[[generic-scratch-saving]]]
-
-![skier on slope](images/skier_on_the_slope.png)

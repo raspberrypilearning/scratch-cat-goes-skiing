@@ -8,12 +8,12 @@ Obstacles to avoid will make your game more challenging and give a sense of move
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ You now need to add the code so the obstacle:
++ You now need to add the code to make the obstacle:
 
-    1. appears at the bottom of the slope
-    1. moves up the screen
-    1. disappears when it reaches the top
-    1. waits for 1 second and thens repeat
+    1. `go to`{:class="blockmotion"} the bottom of the slope and `appear`{:class="blocklooks"}
+    1. `glide`{:class="blockmotion"} up the screen
+    1. `disappear`{:class="blocklooks"} when it reaches the top
+    1. `wait`{:class="blockcontrol"} for 1 second and then repeat
 
 ```blocks
     when green flag clicked
