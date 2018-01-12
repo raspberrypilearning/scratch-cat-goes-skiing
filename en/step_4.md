@@ -4,13 +4,13 @@ You will use the left and right arrow keys to control the skier, making them go 
 
 ![skier moving](images/skier_moving.gif)
 
-+ Can you make the skier move and point to the left? 
++ First make the skier move and point to the left? 
 
     Your code should:
 
-    + Start when the left arrow is pressed
-    + Change the angle the sprite is pointed
-    + Move the sprite to the left
+    1. Start when the left arrow is pressed
+    1. Change the angle the sprite is pointed
+    1. Move the sprite to the left
 
 --- hints ---
 
@@ -26,8 +26,8 @@ You will use the left and right arrow keys to control the skier, making them go 
 
 + When the `left arrow is pressed`{:class="blockevents"}: 
 
-  + `point in direction - 105`{:class="blockmotion"}
-  + `change x by -10`{:class="blockmotion"}.
+    1. `point in direction - 105`{:class="blockmotion"}
+    1. `change x by -10`{:class="blockmotion"}.
 
 --- /hint ---
 
@@ -51,8 +51,10 @@ This is what your code should look like:
 
 --- hint ---
 
-+ `Pointing`{:class="blockmotion"} the skier sprite to 75 degress will turn it to the right.
-+ Changing the sprite's `x`{:class="blockmotion"} position by `10` will make it move to the right.
++ When the `right arrow is pressed`{:class="blockevents"}: 
+
+    1. `Pointing`{:class="blockmotion"} the skier sprite to 75 degress will turn it to the right.
+    1. Changing the sprite's `x`{:class="blockmotion"} position by `10` will make it move to the right.
 
 --- /hint ---
 

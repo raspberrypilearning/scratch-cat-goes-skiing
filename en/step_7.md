@@ -36,6 +36,8 @@ stop [all v]
 
 + Create a new *fallen over* costume for your skier.
 
+If you downloaded the pre-made sprite, it already has a *fallen over* which you can re-use.
+
 ![skier sprite fallen costume](images/skier_sprite_fallen.png)
 
 [[[generic-scratch-add-costume]]]

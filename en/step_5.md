@@ -10,10 +10,10 @@ Obstacles to avoid will make your game more challenging and give a sense of move
 
 + You now need to add the code so the obstacle:
 
-    + appears at the bottom of the slope
-    + moves up the screen
-    + disappears when it reaches the top
-    + waits for 1 second and thens repeat
+    1. appears at the bottom of the slope
+    1. moves up the screen
+    1. disappears when it reaches the top
+    1. waits for 1 second and thens repeat
 
 --- hints ---
 
@@ -27,11 +27,11 @@ Obstacles to avoid will make your game more challenging and give a sense of move
 
 + When the `green flag is clicked`{:class="blockevents"}, `Loop forever`{:class="blockcontrol"}:
 
-    + `Show`{:class="blocklooks"} the sprite
-    + Make the sprite `go to`{:class="blockmotion"} the bottom of the slope `x = 0, y = -180`{:class="blockmotion"}
-    + Make the sprite `glide to`{:class="blockmotion"} the top of the slope `x = 0, y = 180`{:class="blockmotion"}
-    + `Hide`{:class="blocklooks"} the sprite
-    + `Wait for 1 second`{:class="blockcontrol"}
+    1. `Show`{:class="blocklooks"} the sprite
+    1. Make the sprite `go to`{:class="blockmotion"} the bottom of the slope `x = 0, y = -180`{:class="blockmotion"}
+    1. Make the sprite `glide to`{:class="blockmotion"} the top of the slope `x = 0, y = 180`{:class="blockmotion"}
+    1. `Hide`{:class="blocklooks"} the sprite
+    1. `Wait for 1 second`{:class="blockcontrol"}
 
 --- /hint ---
 

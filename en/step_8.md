@@ -30,7 +30,7 @@ set [score v] to [0]
 
 --- /hints ---
 
-+ Can you change the code, so that when the player gets past the obstacle the score increases by 1?
++ Change the code so that when the player gets past the obstacle the score increases by 1.
 
 --- hints ---
 
