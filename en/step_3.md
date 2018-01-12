@@ -1,8 +1,6 @@
-## Get started
+## Getting started
 
 + Open the starter project.
-
-![starter projects](images/starter_project.png)
 
 --- collapse ---
 ---
@@ -17,6 +15,8 @@ title: I'm using Scratch offline
 ---
 Download the 'Skiing' Scratch starter project from [rpf.io/skiingoff](resources/scratch_goes_skiing_starter.sb2) and then open it using the offline editor.
 --- /collapse ---
+
+![starter projects](images/starter_project.png)
 
 + Paint a new backdrop for your ski slope, fill the background grey and add some straight lines
 

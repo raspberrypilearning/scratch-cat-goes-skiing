@@ -13,7 +13,7 @@ site_areas:
 steps:
   - title: Introduction
   - title: What you will need
-  - title: Create a skier
+  - title: Getting started
   - title: Controlling the skier
   - title: Adding an obstacle
   - title: Randomising

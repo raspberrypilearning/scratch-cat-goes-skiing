@@ -38,7 +38,7 @@ The sprite you have chosen may only have 1 costume so perhaps chose another one 
 
 --- hint ---
 
-Are there any `Looks`{:class="blocklooks"} which you could use to change the costume.
+Are there any `Looks`{:class="blocklooks"} blocks which you could use to change the costume.
 
 --- /hint ---
 

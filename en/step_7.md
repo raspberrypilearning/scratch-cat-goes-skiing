@@ -10,7 +10,7 @@ If the skier crashes into an obstacle they should fall over and the game should 
     stop [all v]
 ```
 
-+ When the skier crashes you should also `switch custom`{:class="blocklooks"} to `fallenover`.
++ When the skier crashes you should also `switch custom to fallenover`{:class="blocklooks"}.
 
 The update code should look like this:
 
