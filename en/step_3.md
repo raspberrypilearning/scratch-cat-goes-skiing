@@ -36,4 +36,4 @@ Download the 'Skiing' Scratch starter project from [rpf.io/skiingoff](resources/
 
 [[[generic-scratch-saving]]]
 
-![skier on slope](images/skier_on_slope.png)
+![skier on slope](images/skier_on_the_slope.png)
