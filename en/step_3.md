@@ -1,18 +1,20 @@
 ## Create a skier
 
-+ Create a new empty scratch project
++ Open the starter project.
 
-[[[generic-scratch-new-project]]]
+--- collapse ---
+---
+title: I'm using Scratch online
+---
+Open the 'Skiing' Scratch starter project at [rpf.io/skiingon](https://scratch.mit.edu/projects/197488855/#editor){:target="_blank"}.
+--- /collapse ---
 
-+ Create a new sprite for your skier
-
-![skier sprite](images/skier_sprite.png)
-
-[[[generic-scratch-draw-sprite]]]
-
-You can also [download](resources/skiing_cat.sprite2) a pre-made sprite and add it into your project.
-
-[[[generic-scratch-add-sprite-from-file]]]
+--- collapse ---
+---
+title: I'm using Scratch offline
+---
+Download the 'Skiing' Scratch starter project from [rpf.io/skiingoff](resources/scratch_goes_skiing_starter.sb2) and then open it using the offline editor.
+--- /collapse ---
 
 + Paint a new backdrop for your ski slope, fill the background grey and add some straight lines
 
@@ -22,33 +24,11 @@ You can also [download](resources/skiing_cat.sprite2) a pre-made sprite and add 
 
 + Add the code to your skier sprite so it appears at the top of the slope and points downhill when the flag is pressed.
 
---- hints ---
-
---- hint ---
-
-+ Select the 'Scripts' tab and have a look at the `Events`{:class="blockevents"} and `Motion`{:class="blockmotion"} blocks.
-
---- /hint ---
-
---- hint ---
-
-+ When the `green flag is clicked`{:class="blockevents"}, make your skier sprite `go to the x & y`{:class="blockmotion"} co-ordinates at the top of the screen and `point in the direction`{:class="blockmotion"} of 90 degrees.
-
---- /hint ---
-
---- hint ---
-
-This is what your code should look like:
-
 ```blocks
 	when green flag clicked
 	go to x: (0) y: (100)
 	point in direction (90 v)
 ```
-
---- /hint ---
-
---- /hints ---
 
 + Test and save your project.
 

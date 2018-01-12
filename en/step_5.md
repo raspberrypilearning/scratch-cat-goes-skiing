@@ -15,30 +15,6 @@ Obstacles to avoid will make your game more challenging and give a sense of move
     1. disappears when it reaches the top
     1. waits for 1 second and thens repeat
 
---- hints ---
-
---- hint ---
-
-`show`{:class="blocklooks"} and `hide`{:class="blocklooks"} will make a sprite appear and disappear while `goto`{:class="blockmotion"} and `glide to`{:class="blockmotion"} will make make a sprite move.
-
---- /hint ---
-
---- hint ---
-
-+ When the `green flag is clicked`{:class="blockevents"}, `Loop forever`{:class="blockcontrol"}:
-
-    1. `Show`{:class="blocklooks"} the sprite
-    1. Make the sprite `go to`{:class="blockmotion"} the bottom of the slope `x = 0, y = -180`{:class="blockmotion"}
-    1. Make the sprite `glide to`{:class="blockmotion"} the top of the slope `x = 0, y = 180`{:class="blockmotion"}
-    1. `Hide`{:class="blocklooks"} the sprite
-    1. `Wait for 1 second`{:class="blockcontrol"}
-
---- /hint ---
-
---- hint ---
-
-+ The code should look like this:
-
 ```blocks
     forever 
         go to x: (0) y: (-180)
@@ -49,6 +25,33 @@ Obstacles to avoid will make your game more challenging and give a sense of move
     end
 ```
 
+--- challenge ---
+
+## Change the obstacles costume
+
+Can you make the obstacles costume change each time it appears? 
+
+The sprite you have chosen may only have 1 costume so perhaps chose another one if it does.
+
+--- hints ---
+
+--- hint ---
+
+Are there any Looks{:class="blocklooks"} which you could use to change the costume.
+
+--- /hint ---
+
+--- hint ---
+
+Add the next costume{:class="blocklooks"} block before the show{:class="blocklooks"}
+
+```blocks
+next costume
+```
+
 --- /hint ---
 
 --- /hints ---
+
+--- /challenge ---
+

@@ -6,9 +6,10 @@
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://jumpto.cc/scratch-on) or [offline](http://jumpto.cc/scratch-off))
++ Scratch 2.0 (either Online [rpf.io/scratchon](http://rpf.io/scratchon) or Offline [rpf.io/scratchoff](http://rpf.io/scratchon))
 
 ### Additional Resources
 
-+ A pre-built Scratch the Skier sprite is available to [download](resources/skiing_cat.sprite2).
++ A Scratch starter project is available to [download](resources/scratch_goes_skiing_starter.sb2)
++ A pre-built Scratch Cat the Skier sprite is available to [download](resources/skiing_cat.sprite2).
 

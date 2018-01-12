@@ -6,34 +6,11 @@ You will use the left and right arrow keys to control the skier, making them go 
 
 + First make the skier move and point to the left? 
 
-    Your code should:
+    Your code will:
 
     1. Start when the left arrow is pressed
     1. Change the angle the sprite is pointed
     1. Move the sprite to the left
-
---- hints ---
-
---- hint ---
-
-+ An `Events`{:class="blockevents"} block will allow you to run a script when a key is pressed.
-+ `Pointing`{:class="blockmotion"} the skier sprite to `105`{:class="blockmotion"} degress will turn it to the left.
-+ Changing the sprite's `x`{:class="blockmotion"} position by `-10`{:class="blockmotion"} will make it move to the left.
-
---- /hint ---
-
---- hint ---
-
-+ When the `left arrow is pressed`{:class="blockevents"}: 
-
-    1. `point in direction - 105`{:class="blockmotion"}
-    1. `change x by -10`{:class="blockmotion"}.
-
---- /hint ---
-
---- hint ---
-
-This is what your code should look like:
 
 ```blocks
     when [left arrow v] key pressed
@@ -41,22 +18,9 @@ This is what your code should look like:
     change x by (-10)
 ```
 
---- /hint ---
-
---- /hints ---
-
-+ Make the skier move to the right when the right arrow key is pressed.
++ Repeat the above step to make the skier move to the right when the right arrow key is pressed.
 
 --- hints ---
-
---- hint ---
-
-+ When the `right arrow is pressed`{:class="blockevents"}: 
-
-    1. `Pointing`{:class="blockmotion"} the skier sprite to 75 degress will turn it to the right.
-    1. Changing the sprite's `x`{:class="blockmotion"} position by `10` will make it move to the right.
-
---- /hint ---
 
 --- hint ---
 

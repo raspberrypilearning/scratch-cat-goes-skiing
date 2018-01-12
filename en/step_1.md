@@ -1,25 +1,23 @@
 ## Introduction
 
-Create a game so that Scratch the cat can go skiing.
+You are going to create a skiing game where you have to avoid random obstacles to score points.
 
 ### What you will make
 
-Using Scratch you will create a game where a character, you create, will go skiing. You will have to avoid obstacles on the slope to score points to become a champion skier. 
+Click the green flag to start and use the left and right arrows to avoid the obstacles.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/196157667/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/197495229/?autostart=false" frameborder="0"></iframe>
   <img src="images/skiing-final.png">
 </div>
-
-You can then make the game your own by adding more obstacles, jumps, gates or anything else you can think of!
 
 ### What you will learn
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}
-
 + [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
+
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}
 
 ### Additional information for educators
 

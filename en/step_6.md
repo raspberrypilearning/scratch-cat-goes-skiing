@@ -2,27 +2,15 @@
 
 The obstacle always appears in the same place on the screen, to make the game challenging the obstacles should appeared in a different position every time.
 
-+ Add the code to your obstacle to create a random `x`{:class="blockmotion"} position, use it when the obstacle appears and again when it is moved to the top of the screen?
++ Add a variable called `obstacle_x`.
 
 [[[generic-scratch-add-variable]]]
 
---- hints ---
++ Add the code to your obstacle to create a random `x`{:class="blockmotion"} position, use it when the obstacle appears and again when it is moved to the top of the screen?
 
---- hint ---
-
-+ `Make a variable`{:class="blockdata"} to hold the random `x`{:class="blockmotion"} position so it can be used in the `go to`{:class="blockmotion"} and `glide`{:class="blockmotion"} blocks.
-
---- /hint ---
-
---- hint ---
-
-+ `Make a variable`{:class="blockdata"} called `obstacle_x`{:class="blockdata"}
 + At the start of the `forever loop`{:class="blockcontrol"}, `set obstacle_x`{:class="blockdata"} to a `random number`{:class="blockoperators"}
+
 + Use the `obstacle_x`{:class="blockdata"} variable in the `go to`{:class="blockmotion"} and `glide`{:class="blockmotion"} blocks
-
---- /hint ---
-
---- hint ---
 
 Your code should look like this:
 
@@ -38,6 +26,3 @@ forever
 end
 ```
 
---- /hint ---
-
---- /hints ---

@@ -4,49 +4,16 @@ Each time the skier makes it past an obstacle they should earn points.
 
 ![score](images/score.png)
 
-+ Create a variable for the score, set it to zero at the start of the game and display it.
++ `Make a variable`{:class="blockdata"} called `score`, set it to zero at the start of the game and display it.
 
 [[[generic-scratch-add-variable]]]
-
---- hints ---
-
---- hint ---
-
-+ `Make a variable`{:class="blockdata"} called `score`{:class="blockdata"}
-+ When the `green flag is clicked`{:class="blockevents"} `set the score to 0`{:class="blockdata}
-
---- /hint ---
-
---- hint ---
-
-The code should look like this:
 
 ```blocks
 when green flag clicked
 set [score v] to [0]
 ```
 
---- /hint ---
-
---- /hints ---
-
 + Change the code so that when the player gets past the obstacle the score increases by 1.
-
---- hints ---
-
---- hint ---
-
-Have a look at the obstacle script - if the sprite reaches the top of the screen the skier must have got past it.
-
---- /hint ---
-
---- hint ---
-
-At the end of the `forever`{:class="blockcontrol"} loop, `change score by 1`{:class="blockdata"}.
-
---- /hint ---
-
---- hint ---
 
 The update obstackle script should look like this:
 
@@ -63,8 +30,3 @@ forever
     change [score v] by (1)
 end
 ```
-
---- /hint ---
-
---- /hints ---
-
