@@ -13,7 +13,7 @@ when green flag clicked
 set [score v] to [0]
 ```
 
-+ Change the code so that when the player gets past the obstacle the score increases by 1.
++ Change the code so that when the player gets past the obstacle it `changes score by 1`{:class="blockdata"}.
 
 The update obstacle script should look like this:
 

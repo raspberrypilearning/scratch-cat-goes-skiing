@@ -14,7 +14,7 @@ If the skier crashes into an obstacle they should fall over and the game should 
 
 + When the skier crashes you should also `switch custom to fallenover`{:class="blocklooks"}.
 
-The update code should look like this:
+The updated code should look like this:
 
 ```blocks
     when green flag clicked
