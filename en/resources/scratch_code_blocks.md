@@ -60,6 +60,13 @@ score_code1.png
 ```blocks
 when green flag clicked
 set [score v] to [0]
+```
+
+score_code2.png
+
+```blocks
+when green flag clicked
+set [score v] to [0]
 forever 
     set [obstacle_x v] to (pick random (-200) to (200))
     go to x: (obstacle_x) y: (-180)
