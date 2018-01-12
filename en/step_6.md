@@ -8,7 +8,9 @@ The obstacle always appears in the same place on the screen, to make the game ch
 
 + At the start of the `forever loop`{:class="blockcontrol"}, `set obstacle_x`{:class="blockdata"} to a `random number`{:class="blockoperators"}
 
+<div style="text-align:center" markdown="1">
 ![obstacle code set variable](images/obstacle_code1.png)
+</div>
 
 + Use the `obstacle_x`{:class="blockdata"} variable in the `go to`{:class="blockmotion"} and `glide`{:class="blockmotion"} blocks
 
