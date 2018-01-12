@@ -32,15 +32,11 @@ Obstacles to avoid will make your game more challenging and give a sense of move
 
 Can you make the obstacles costume change each time it appears? 
 
-The sprite you have chosen may only have 1 costume so perhaps chose another one if it does.
+The sprite you have chosen may only have 1 costume so perhaps chose another one if it does or create your own 2nd costume.
+
+[[[generic-scratch-add-costume]]]
 
 --- hints ---
-
---- hint ---
-
-Are there any `Looks`{:class="blocklooks"} blocks which you could use to change the costume.
-
---- /hint ---
 
 --- hint ---
 
