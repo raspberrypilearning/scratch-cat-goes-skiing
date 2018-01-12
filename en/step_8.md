@@ -4,7 +4,7 @@ Each time the skier makes it past an obstacle they should earn points.
 
 ![score](images/score.png)
 
-+ `Make a variable`{:class="blockdata"} called `score`, set it to zero at the start of the game and display it.
++ `Make a variable`{:class="blockdata"} called `score`{:class="blockdata"} and set it to zero at the start of the game.
 
 [[[generic-scratch-add-variable]]]
 

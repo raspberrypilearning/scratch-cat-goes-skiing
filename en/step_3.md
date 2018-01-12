@@ -1,6 +1,8 @@
-## Create a skier
+## Get started
 
 + Open the starter project.
+
+![starter projects](images/starter_project.png)
 
 --- collapse ---
 ---
@@ -34,3 +36,4 @@ Download the 'Skiing' Scratch starter project from [rpf.io/skiingoff](resources/
 
 [[[generic-scratch-saving]]]
 
+![skier on slope](images/skier_on_slope.png)

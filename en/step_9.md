@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Adding more obstacles
+## Challenge: Adding more obstacles
 
 ![more obstacles](images/skiing-final.png)
 

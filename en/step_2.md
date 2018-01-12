@@ -11,5 +11,5 @@
 ### Additional Resources
 
 + A Scratch starter project is available to [download](resources/scratch_goes_skiing_starter.sb2)
-+ A pre-built Scratch Cat the Skier sprite is available to [download](resources/skiing_cat.sprite2).
++ The Scratch Cat the Skier sprite is available to [download](resources/skiing_cat.sprite2).
 
