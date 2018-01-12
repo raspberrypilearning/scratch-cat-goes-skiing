@@ -10,10 +10,10 @@ Obstacles to avoid will make your game more challenging and give a sense of move
 
 + You now need to add the code to make the obstacle:
 
-    1. `go to`{:class="blockmotion"} the bottom of the slope and `appear`{:class="blocklooks"}
+    1. `go to`{:class="blockmotion"} the bottom of the slope and `show`{:class="blocklooks"}
     1. `glide`{:class="blockmotion"} up the screen
-    1. `disappear`{:class="blocklooks"} when it reaches the top
-    1. `wait`{:class="blockcontrol"} for 1 second and then repeat
+    1. `hide`{:class="blocklooks"} when it reaches the top
+    1. `wait for 1 second`{:class="blockcontrol"} and then repeat
 
 ```blocks
     when green flag clicked
