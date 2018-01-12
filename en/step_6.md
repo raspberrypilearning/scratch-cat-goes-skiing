@@ -8,28 +8,8 @@ The obstacle always appears in the same place on the screen, to make the game ch
 
 + At the start of the `forever loop`{:class="blockcontrol"}, `set obstacle_x`{:class="blockdata"} to a `random number`{:class="blockoperators"}
 
-```blocks
-    when green flag clicked
-    forever 
-        set [obstacle_x v] to (pick random (-200) to (200))
-        go to x: (0) y: (-180)
-        show
-        glide (1) secs to x: (0) y: (180)
-        hide
-        wait (1) secs
-    end
-```
+![obstacle code set variable](images/obstacle_code1.png)
+
 + Use the `obstacle_x`{:class="blockdata"} variable in the `go to`{:class="blockmotion"} and `glide`{:class="blockmotion"} blocks
 
-```blocks
-    when green flag clicked
-    forever 
-        set [obstacle_x v] to (pick random (-200) to (200))
-        go to x: (obstacle_x) y: (-180)
-        show
-        glide (1) secs to x: (obstacle_x) y: (180)
-        hide
-        wait (1) secs
-    end
-```
-
+![obstacle code use variable](images/obstacke_code2.png)
