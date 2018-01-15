@@ -2,14 +2,14 @@
 
 ### Hardware
 
-+ Computer capable of running Scratch 2.0
++ A computer capable of running Scratch 2.0
 
 ### Software
 
-+ Scratch 2.0 (either Online [rpf.io/scratchon](http://rpf.io/scratchon) or Offline [rpf.io/scratchoff](http://rpf.io/scratchon))
++ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchon))
 
-### Additional Resources
+### Additional resources
 
-+ A Scratch starter project is available to [download](resources/scratch_goes_skiing_starter.sb2)
-+ The Scratch Cat the Skier sprite is available to [download](resources/skiing_cat.sprite2).
++ A Scratch starter project is available for [download here](resources/scratch_goes_skiing_starter.sb2)
++ The skiing Scratch cat sprite is available for [download here](resources/skiing_cat.sprite2)
 
