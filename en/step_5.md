@@ -1,19 +1,19 @@
 ## Adding an obstacle
 
-Obstacles to avoid will make your game more challenging and give a sense of movement as they appear at bottom of the screen and travel up.
+Having obstacles to avoid will make your game more challenging, and they will create a sense of movement as they appear at bottom of the screen and travel upwards.
 
 ![obstacle](images/skier_obstacle_moving.gif)
 
-+ Add in a new sprite for an obstacle (anything you think might be found on a ski slope).
++ Choose a sprite from the library that will serve as an obstacle — it can be anything you think might be found on a ski slope. Add this new sprite.
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ You now need to add the code to make the obstacle:
++ You now need to add code to the sprite to make it move:
 
-    1. `go to`{:class="blockmotion"} the bottom of the slope and `show`{:class="blocklooks"}
-    1. `glide`{:class="blockmotion"} up the screen
-    1. `hide`{:class="blocklooks"} when it reaches the top
-    1. `wait for 1 second`{:class="blockcontrol"} and then repeat
+    1. `Go to`{:class="blockmotion"} the bottom of the slope and `show`{:class="blocklooks"}
+    1. `Glide`{:class="blockmotion"} up the screen
+    1. `Hide`{:class="blocklooks"} when it reaches the top
+    1. `Wait for 1 second`{:class="blockcontrol"} and then repeat
 
 ```blocks
     when green flag clicked
@@ -28,11 +28,11 @@ Obstacles to avoid will make your game more challenging and give a sense of move
 
 --- challenge ---
 
-## Challenge: Change the obstacles costume
+## Challenge: change the obstacle's costume
 
-Can you make the obstacles costume change each time it appears? 
+Can you make the obstacle's costume change each time it appears? 
 
-The sprite you have chosen may only have 1 costume so perhaps chose another one if it does or create your own 2nd costume.
+The sprite you have chosen may only have one costume. If that's the case, you could use another sprite, or create your own second costume for the one you've chosen.
 
 [[[generic-scratch-add-costume]]]
 
@@ -40,7 +40,7 @@ The sprite you have chosen may only have 1 costume so perhaps chose another one 
 
 --- hint ---
 
-Add the `next costume`{:class="blocklooks"} block before the `show`{:class="blocklooks"}
+Add the `next costume`{:class="blocklooks"} block before the `show`{:class="blocklooks"}.
 
 ```blocks
     next costume
