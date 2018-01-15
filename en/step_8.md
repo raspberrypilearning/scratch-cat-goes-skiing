@@ -1,6 +1,6 @@
 ## Adding a score
 
-Each time the skier makes it past an obstacle they should earn points.
+Each time the skier sprite makes it past an obstacle, they should earn points.
 
 ![score](images/score.png)
 
@@ -10,8 +10,8 @@ Each time the skier makes it past an obstacle they should earn points.
 
 ![score code set variable](images/score_code1.png)
 
-+ Change the code so that when the player gets past the obstacle it `changes score by 1`{:class="blockdata"}.
++ Change the code so that when the sprite gets past the obstacle, it `changes score by 1`{:class="blockdata"}.
 
-The update obstacle script should look like this:
+The updated script for the sprite should look like this:
 
 ![score code add 1](images/score_code2.png)
