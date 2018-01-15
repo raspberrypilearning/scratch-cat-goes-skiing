@@ -1,10 +1,10 @@
 ## Introduction
 
-You are going to create a skiing game where you have to avoid random obstacles to score points.
+You are going to use Scratch to create a skiing game in which you have to avoid randomly appearing obstacles to score points.
 
 ### What you will make
 
-Click the green flag to start and use the left and right arrows to avoid the obstacles.
+Click the green flag to start, and use the left and right arrows to avoid the obstacles.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/197495229/?autostart=false" frameborder="0"></iframe>
