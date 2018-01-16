@@ -14,9 +14,9 @@ The updated code should look like this:
 
 ![crash code switch costume to fallen](images/crash_code2.png)
 
-+ Save and test your code. Now, if the skier hits the obstacle, the costume will change and the game will stop. 
++ Save and test your code. When the skier hits the obstacle, the costume should change and the game should stop. 
 
-However, is a now problem with your game: the next time you run it, the skier will still be wearing the `fallenover` costume.
+However, there is a now problem with your game: the next time you run it, the skier will still be wearing the `fallenover` costume.
 
 + Edit the skier's so that their costume changes back to `skiing` when the game starts by `switching the custom to skiing`{:class="blocklooks"}.
 
