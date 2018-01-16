@@ -1,12 +1,10 @@
 ## Controlling the skier
 
-You will use the left and right arrow keys to control the skier sprite, making them go left and right across the slope.
+You will use the left and right arrow keys to control the skier sprite, making it go left and right across the slope.
 
 ![skier moving](images/skier_moving.gif)
 
-+ First, make the skier move and point to the left. 
-
-    Your code needs to:
++ First, make the skier move and point to the left. Your code needs to:
 
     1. Start `when the left arrow key is pressed`{:class="blockevents"}
     1. Change the angle in the sprite is `pointed`{:class="blockmotion"}
