@@ -1,6 +1,6 @@
 ## Random obstacle
 
-At the moment, the obstacle sprite always appears in the same place on the screen. To make the game more challenging, obstacles should appear in a different position every time.
+At the moment, the obstacle sprite always appears in the same place on the screen, so it's very easy to avoid. To make the game more challenging, obstacles should appear in a different position every time.
 
 + Make a variable called `obstacle_x`{:class="blockdata"}.
 
