@@ -1,6 +1,6 @@
 ## Adding an obstacle
 
-Having obstacles to avoid will make your game more challenging, and they will create a sense of movement as they appear at bottom of the screen and travel upwards.
+Having obstacles to avoid will make your game more challenging, and making them appear at bottom of the screen and travel upwards will create a sense of movement.
 
 ![obstacle](images/skier_obstacle_moving.gif)
 
@@ -32,7 +32,7 @@ Having obstacles to avoid will make your game more challenging, and they will cr
 
 Can you make the obstacle's costume change each time it appears? 
 
-The sprite you have chosen may only have one costume. If that's the case, you could use another sprite, or create your own second costume for the one you've chosen.
+If the sprite you have chosen has only have one costume, you could use another sprite or create your own second costume for the one you already have.
 
 [[[generic-scratch-add-costume]]]
 
