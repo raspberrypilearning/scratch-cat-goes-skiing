@@ -4,7 +4,7 @@ All contributions are assumed to be licensed under the same licence as the sourc
 
 ## Issues
 
-If you find a mistake, bug, or other problem, please [open an issue](https://github.com/raspberrypilearning/scratch-goes-skiing/issues) in this repository.
+If you find a mistake, bug, or other problem, please [open an issue](https://github.com/raspberrypilearning/scratch-cat-goes-skiing/issues) in this repository.
 
 ## Pull requests
 
