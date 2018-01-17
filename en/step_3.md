@@ -6,14 +6,14 @@
 ---
 title: I'm using Scratch online
 ---
-Open the starter project [here](https://scratch.mit.edu/projects/197488855/#editor){:target="_blank"}.
+Open the starter project [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
 --- /collapse ---
 
 --- collapse ---
 ---
 title: I'm using Scratch offline
 ---
-Download the starter project [here](resources/scratch_goes_skiing_starter.sb2), and then open it using the offline Scratch editor.
+Download the starter project [rpf.io/skiingoff](http://rpf.io/skiingoff), and then open it using the offline Scratch editor.
 --- /collapse ---
 
 ![starter projects](images/starter_project.png)

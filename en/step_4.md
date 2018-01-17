@@ -7,7 +7,7 @@ You will use the left and right arrow keys to control the skier sprite, making i
 + First, make the skier move and point to the left. Your code needs to:
 
     1. Start `when the left arrow key is pressed`{:class="blockevents"}
-    1. Change the angle in the sprite is `pointed`{:class="blockmotion"}
+    1. Change the angle the sprite is `pointed`{:class="blockmotion"}
     1. Move the sprite to the left by `changing x`{:class="blockmotion"}
 
 ```blocks
@@ -16,7 +16,7 @@ You will use the left and right arrow keys to control the skier sprite, making i
     change x by (-10)
 ```
 
-+ Use block similar to the ones above to make the sprite move to the right `when the right arrow key is pressed`{:class="blockevents"}.
++ Use blocks similar to the ones above to make the sprite move to the right `when the right arrow key is pressed`{:class="blockevents"}.
 
 --- hints ---
 
