@@ -18,6 +18,6 @@ The updated code should look like this:
 
 However, there is a now problem with your game: the next time you run it, the skier will still be wearing the `fallenover` costume.
 
-+ Edit the skier's so that their costume changes back to `skiing` when the game starts by `switching the custom to skiing`{:class="blocklooks"}.
++ Edit the skier's so that their costume changes back to `skiing` when the game starts by `switching the costume to skiing`{:class="blocklooks"}.
 
 ![crash code switch costume to skiing](images/crash_code3.png)
