@@ -33,3 +33,5 @@ This is what your code should look like:
 --- /hint ---
 
 --- /hints ---
+
++ Test your program
