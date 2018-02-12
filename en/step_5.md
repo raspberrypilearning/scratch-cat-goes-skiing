@@ -32,7 +32,7 @@ Having obstacles to avoid will make your game more challenging, and making them 
 
 Can you make the obstacle's costume change each time it appears? 
 
-If the sprite you have chosen has only have one costume, you could use another sprite or create your own second costume for the one you already have.
+If the sprite you have chosen has only have one costume, you could choose a costume from the library, use another sprite or create your own second costume for the one you already have.
 
 [[[generic-scratch-add-costume]]]
 

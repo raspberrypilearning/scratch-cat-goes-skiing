@@ -4,11 +4,11 @@ If the skier crashes into an obstacle, it should fall over and the game should e
 
 ![skier crashed](images/skier_crash.png)
 
-+ Change the code for the skier sprite to `wait until it is touching`{:class="blocksensing"} the obstacle, and to then `stop all`{:class="blockcontrol"}.
++ Change the code for the skier sprite to `wait until`{:class="blockcontrol"} it is `touching`{:class="blocksensing"} the obstacle, and to then `stop all`{:class="blockcontrol"}.
 
 ![crash code wait and stop](images/crash_code1.png)
 
-+ When the skier crashes, you should also `switch custume to fallenover`{:class="blocklooks"}.
++ When the skier crashes, you should also `switch costume to fallenover`{:class="blocklooks"}.
 
 The updated code should look like this:
 

@@ -6,7 +6,7 @@
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Additional resources
 

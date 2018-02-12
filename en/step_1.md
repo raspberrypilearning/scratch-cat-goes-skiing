@@ -21,5 +21,5 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ### Additional information for educators
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratch-goes-skiing/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}.
 
