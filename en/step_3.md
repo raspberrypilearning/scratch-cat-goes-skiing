@@ -1,5 +1,7 @@
 ## Getting started
 
+--- task ---
+
 + Open the starter project.
 
 --- collapse ---
@@ -17,6 +19,8 @@ Download the starter project [rpf.io/skiingoff](http://rpf.io/skiingoff), and th
 --- /collapse ---
 
 ![starter projects](images/starter_project.png)
+
+--- /task ---
 
 --- task ---
 
