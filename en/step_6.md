@@ -4,7 +4,7 @@ At the moment, the obstacle sprite always appears in the same place on the scree
 
 --- task ---
 
-+ Make a variable called `obstacle_x`{:class="blockdata"}.
+Make a variable called `obstacle_x`{:class="blockdata"}.
 
 [[[generic-scratch-add-variable]]]
 
@@ -12,7 +12,7 @@ At the moment, the obstacle sprite always appears in the same place on the scree
 
 --- task ---
 
-+ At the start of the `forever loop`{:class="blockcontrol"}, `set obstacle_x`{:class="blockdata"} to a `random number`{:class="blockoperators"}.
+At the start of the `forever loop`{:class="blockcontrol"}, `set obstacle_x`{:class="blockdata"} to a `random number`{:class="blockoperators"}.
 
 ![obstacle code set variable](images/obstacle_code1.png)
 
@@ -20,7 +20,7 @@ At the moment, the obstacle sprite always appears in the same place on the scree
 
 --- task ---
 
-+ Use the `obstacle_x`{:class="blockdata"} variable in the `go to`{:class="blockmotion"} block and the `glide`{:class="blockmotion"} block.
+Use the `obstacle_x`{:class="blockdata"} variable in the `go to`{:class="blockmotion"} block and the `glide`{:class="blockmotion"} block.
 
 ![obstacle code use variable](images/obstacle_code2.png)
 

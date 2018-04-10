@@ -6,13 +6,13 @@ Each time the skier sprite makes it past an obstacle, they should earn points.
 
 --- task ---
 
-+ `Make a variable`{:class="blockdata"} called `score`{:class="blockdata"} 
+`Make a variable`{:class="blockdata"} called `score`{:class="blockdata"} 
 
 --- /task ---
 
 --- task ---
 
-+ Add a script to the obstacle sprite to set `score`{:class="blockdata"} to zero at the start of the game.
+Add a script to the obstacle sprite to set `score`{:class="blockdata"} to zero at the start of the game.
 
 [[[generic-scratch-add-variable]]]
 
@@ -22,7 +22,7 @@ Each time the skier sprite makes it past an obstacle, they should earn points.
 
 --- task ---
 
-+ Change the code so that when the obstacle gets to the top of the screen, it `changes score by 1`{:class="blockdata"}.
+Change the code so that when the obstacle gets to the top of the screen, it `changes score by 1`{:class="blockdata"}.
 
 The updated script for the sprite should look like this:
 
@@ -32,6 +32,6 @@ The updated script for the sprite should look like this:
 
 --- task ---
 
-+ Play the game, see how many points you can score.
+Play the game, see how many points you can score.
 
 --- /task ---
