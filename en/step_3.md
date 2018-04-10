@@ -2,7 +2,7 @@
 
 --- task ---
 
-+ Open the starter project.
+Open the starter project.
 
 --- collapse ---
 ---
@@ -24,7 +24,7 @@ Download the starter project [rpf.io/skiingoff](http://rpf.io/skiingoff), and th
 
 --- task ---
 
-+ Paint a new backdrop for your ski slope: fill the background grey, and add some straight lines.
+Paint a new backdrop for your ski slope: fill the background grey, and add some straight lines.
 
 ![ski slope backdrop](images/backdrop.png)
 
@@ -34,7 +34,7 @@ Download the starter project [rpf.io/skiingoff](http://rpf.io/skiingoff), and th
 
 --- task ---
 
-+ Add code to your skiing cat sprite so that it appears at the top of the slope and faces downhill `when the flag is clicked`{:class="blockevents"}.
+Add code to your skiing cat sprite so that it appears at the top of the slope and faces downhill `when the flag is clicked`{:class="blockevents"}.
 
 ![skier on slope](images/skier_on_the_slope.png)
 
@@ -48,7 +48,7 @@ Download the starter project [rpf.io/skiingoff](http://rpf.io/skiingoff), and th
 
 --- task ---
 
-+ Save and test your project.
+Save and test your project.
 
 [[[generic-scratch-saving]]]
 

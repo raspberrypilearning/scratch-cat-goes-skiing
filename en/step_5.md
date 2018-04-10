@@ -6,7 +6,7 @@ Having obstacles to avoid will make your game more challenging, and making them 
 
 --- task ---
 
-+ Choose a sprite from the library that will serve as an obstacle — it can be anything you think might be found on a ski slope. Add this new sprite.
+Choose a sprite from the library that will serve as an obstacle — it can be anything you think might be found on a ski slope. Add this new sprite.
 
 [[[generic-scratch-sprite-from-library]]]
 
@@ -14,7 +14,7 @@ Having obstacles to avoid will make your game more challenging, and making them 
 
 --- task ---
 
-+ You now need to add code to the sprite to make it move:
+You now need to add code to the sprite to make it move:
 
     1. `Go to`{:class="blockmotion"} the bottom of the slope and `show`{:class="blocklooks"}
     1. `Glide`{:class="blockmotion"} up the screen

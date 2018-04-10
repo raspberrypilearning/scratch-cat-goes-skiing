@@ -6,7 +6,7 @@ You will use the left and right arrow keys to control the skier sprite, making i
 
 --- task ---
 
-+ First, make the skier move and point to the left. Your code needs to:
+First, make the skier move and point to the left. Your code needs to:
 
     1. Start `when the left arrow key is pressed`{:class="blockevents"}
     1. Change the angle the sprite is `pointed`{:class="blockmotion"}
@@ -22,7 +22,7 @@ You will use the left and right arrow keys to control the skier sprite, making i
 
 --- task ---
 
-+ Use blocks similar to the ones above to make the sprite move to the right `when the right arrow key is pressed`{:class="blockevents"}.
+Use blocks similar to the ones above to make the sprite move to the right `when the right arrow key is pressed`{:class="blockevents"}.
 
 --- hints ---
 
@@ -44,6 +44,6 @@ This is what your code should look like:
 
 --- task ---
 
-+ Test your program
+Test your program
 
 --- /task ---
