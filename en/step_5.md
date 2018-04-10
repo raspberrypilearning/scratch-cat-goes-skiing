@@ -16,10 +16,10 @@ Choose a sprite from the library that will serve as an obstacle — it can be an
 
 You now need to add code to the sprite to make it move:
 
-    1. `Go to`{:class="blockmotion"} the bottom of the slope and `show`{:class="blocklooks"}
-    1. `Glide`{:class="blockmotion"} up the screen
-    1. `Hide`{:class="blocklooks"} when it reaches the top
-    1. `Wait for 1 second`{:class="blockcontrol"} and then repeat
+1. `Go to`{:class="blockmotion"} the bottom of the slope and `show`{:class="blocklooks"}
+1. `Glide`{:class="blockmotion"} up the screen
+1. `Hide`{:class="blocklooks"} when it reaches the top
+1. `Wait for 1 second`{:class="blockcontrol"} and then repeat
 
 ```blocks
     when green flag clicked

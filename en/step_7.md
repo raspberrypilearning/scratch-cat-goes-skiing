@@ -28,11 +28,11 @@ Save and test your code. When the skier hits the obstacle, the costume should ch
 
 --- /task ---
 
-However, there is a now problem with your game: the next time you run it, the skier will still be wearing the `fallenover` costume.
+However, there is a now problem with your game: the next time you run it, the skier will still be wearing the `fallenover`{:class="blocklooks"} costume.
 
 --- task ---
 
-Edit the skier's so that their costume changes back to `skiing` when the game starts by `switching the costume to skiing`{:class="blocklooks"}.
+Edit the skier's so that their costume changes back to `skiing`{:class="blocklooks"} when the game starts by `switching the costume to skiing`{:class="blocklooks"}.
 
 ![crash code switch costume to skiing](images/crash_code3.png)
 
