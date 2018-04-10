@@ -16,6 +16,18 @@ At the moment, the obstacle sprite always appears in the same place on the scree
 
 ![obstacle code set variable](images/obstacle_code1.png)
 
+```blocks
+    when green flag clicked
+    forever 
+        + set [obstacle_x v] to (pick random (-200) to (200))
+        go to x: (0) y: (-180)
+        show
+        glide (1) secs to x: (0) y: (180)
+        hide
+        wait (1) secs
+    end
+```
+
 --- /task ---
 
 --- task ---
