@@ -4,6 +4,8 @@ You will use the left and right arrow keys to control the skier sprite, making i
 
 ![skier moving](images/skier_moving.gif)
 
+--- task ---
+
 + First, make the skier move and point to the left. Your code needs to:
 
     1. Start `when the left arrow key is pressed`{:class="blockevents"}
@@ -15,6 +17,10 @@ You will use the left and right arrow keys to control the skier sprite, making i
     point in direction (105 v)
     change x by (-10)
 ```
+
+--- /task ---
+
+--- task ---
 
 + Use blocks similar to the ones above to make the sprite move to the right `when the right arrow key is pressed`{:class="blockevents"}.
 
@@ -34,4 +40,10 @@ This is what your code should look like:
 
 --- /hints ---
 
+--- /task ---
+
+--- task ---
+
 + Test your program
+
+--- /task ---

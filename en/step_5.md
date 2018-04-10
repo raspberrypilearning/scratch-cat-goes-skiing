@@ -4,9 +4,15 @@ Having obstacles to avoid will make your game more challenging, and making them 
 
 ![obstacle](images/skier_obstacle_moving.gif)
 
+--- task ---
+
 + Choose a sprite from the library that will serve as an obstacle — it can be anything you think might be found on a ski slope. Add this new sprite.
 
 [[[generic-scratch-sprite-from-library]]]
+
+--- /task ---
+
+--- task ---
 
 + You now need to add code to the sprite to make it move:
 
@@ -25,6 +31,8 @@ Having obstacles to avoid will make your game more challenging, and making them 
         wait (1) secs
     end
 ```
+
+--- /task ---
 
 --- challenge ---
 
