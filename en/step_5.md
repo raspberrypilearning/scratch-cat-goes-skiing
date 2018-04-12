@@ -1,63 +1,27 @@
-## Adding an obstacle
+## Random obstacle
 
-Having obstacles to avoid will make your game more challenging, and making them appear at bottom of the screen and travel upwards will create a sense of movement.
-
-![obstacle](images/skier_obstacle_moving.gif)
+At the moment, the obstacle sprite always appears in the same place on the screen, so it's very easy to avoid. To make the game more challenging, obstacles should appear in a different position every time.
 
 --- task ---
 
-Choose a sprite from the library that will serve as an obstacle — it can be anything you think might be found on a ski slope. Add this new sprite.
+Make a variable called `obstacle_x`{:class="blockdata"}.
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch-add-variable]]]
 
 --- /task ---
 
 --- task ---
 
-You now need to add code to the sprite to make it move:
+At the start of the `forever loop`{:class="blockcontrol"}, `set obstacle_x`{:class="blockdata"} to a `random number`{:class="blockoperators"}.
 
-1. `Go to`{:class="blockmotion"} the bottom of the slope and `show`{:class="blocklooks"}
-1. `Glide`{:class="blockmotion"} up the screen
-1. `Hide`{:class="blocklooks"} when it reaches the top
-1. `Wait for 1 second`{:class="blockcontrol"} and then repeat
-
-```blocks
-    when green flag clicked
-    forever 
-        go to x: (0) y: (-180)
-        show
-        glide (1) secs to x: (0) y: (180)
-        hide
-        wait (1) secs
-    end
-```
+![obstacle code set variable](images/obstacle_code1.png)
 
 --- /task ---
 
---- challenge ---
+--- task ---
 
-## Challenge: change the obstacle's costume
+Use the `obstacle_x`{:class="blockdata"} variable in the `go to`{:class="blockmotion"} block and the `glide`{:class="blockmotion"} block.
 
-Can you make the obstacle's costume change each time it appears? 
+![obstacle code use variable](images/obstacle_code2.png)
 
-If the sprite you have chosen has only have one costume, you could choose a costume from the library, use another sprite or create your own second costume for the one you already have.
-
-[[[generic-scratch-add-costume]]]
-
---- hints ---
-
---- hint ---
-
-Add the `next costume`{:class="blocklooks"} block before the `show`{:class="blocklooks"}.
-
-```blocks
-    next costume
-    show
-```
-
---- /hint ---
-
---- /hints ---
-
---- /challenge ---
-
+--- /task ---

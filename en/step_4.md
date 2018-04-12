@@ -1,49 +1,63 @@
-## Controlling the skier
+## Adding an obstacle
 
-You will use the left and right arrow keys to control the skier sprite, making it go left and right across the slope.
+Having obstacles to avoid will make your game more challenging, and making them appear at bottom of the screen and travel upwards will create a sense of movement.
 
-![skier moving](images/skier_moving.gif)
+![obstacle](images/skier_obstacle_moving.gif)
 
 --- task ---
 
-First, make the skier move and point to the left. Your code needs to:
+Choose a sprite from the library that will serve as an obstacle — it can be anything you think might be found on a ski slope. Add this new sprite.
 
-1. Start `when the left arrow key is pressed`{:class="blockevents"}
-1. Change the angle the sprite is `pointed`{:class="blockmotion"}
-1. Move the sprite to the left by `changing x`{:class="blockmotion"}
-
-```blocks
-    when [left arrow v] key pressed
-    point in direction (105 v)
-    change x by (-10)
-```
+[[[generic-scratch-sprite-from-library]]]
 
 --- /task ---
 
 --- task ---
 
-Use blocks similar to the ones above to make the sprite move to the right `when the right arrow key is pressed`{:class="blockevents"}.
+You now need to add code to the sprite to make it move:
+
+1. `Go to`{:class="blockmotion"} the bottom of the slope and `show`{:class="blocklooks"}
+1. `Glide`{:class="blockmotion"} up the screen
+1. `Hide`{:class="blocklooks"} when it reaches the top
+1. `Wait for 1 second`{:class="blockcontrol"} and then repeat
+
+```blocks
+    when green flag clicked
+    forever 
+        go to x: (0) y: (-180)
+        show
+        glide (1) secs to x: (0) y: (180)
+        hide
+        wait (1) secs
+    end
+```
+
+--- /task ---
+
+--- challenge ---
+
+## Challenge: change the obstacle's costume
+
+Can you make the obstacle's costume change each time it appears? 
+
+If the sprite you have chosen has only have one costume, you could choose a costume from the library, use another sprite or create your own second costume for the one you already have.
+
+[[[generic-scratch-add-costume]]]
 
 --- hints ---
 
 --- hint ---
 
-This is what your code should look like:
+Add the `next costume`{:class="blocklooks"} block before the `show`{:class="blocklooks"}.
 
 ```blocks
-    when [right arrow v] key pressed
-    point in direction (75 v)
-    change x by (10)
+    next costume
+    show
 ```
 
 --- /hint ---
 
 --- /hints ---
 
---- /task ---
+--- /challenge ---
 
---- task ---
-
-Test your program
-
---- /task ---
