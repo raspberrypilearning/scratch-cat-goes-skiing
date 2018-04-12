@@ -1,55 +1,49 @@
-## Getting started
+## Controlling the skier
+
+You will use the left and right arrow keys to control the skier sprite, making it go left and right across the slope.
+
+![skier moving](images/skier_moving.gif)
 
 --- task ---
 
-Open the starter project.
+First, make the skier move and point to the left. Your code needs to:
 
---- collapse ---
----
-title: I'm using Scratch online
----
-Open the starter project [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
---- /collapse ---
-
---- collapse ---
----
-title: I'm using Scratch offline
----
-Download the starter project [rpf.io/skiingoff](http://rpf.io/skiingoff), and then open it using the offline Scratch editor.
---- /collapse ---
-
-![starter projects](images/starter_project.png)
-
---- /task ---
-
---- task ---
-
-Paint a new backdrop for your ski slope: fill the background grey, and add some straight lines.
-
-![ski slope backdrop](images/backdrop.png)
-
-[[[generic-scratch-paint-new-backdrop]]]
-
---- /task ---
-
---- task ---
-
-Add code to your skiing cat sprite so that it appears at the top of the slope and faces downhill `when the flag is clicked`{:class="blockevents"}.
-
-![skier on slope](images/skier_on_the_slope.png)
+1. Start `when the left arrow key is pressed`{:class="blockevents"}
+1. Change the angle the sprite is `pointed`{:class="blockmotion"}
+1. Move the sprite to the left by `changing x`{:class="blockmotion"}
 
 ```blocks
-	when green flag clicked
-	go to x: (0) y: (100)
-	point in direction (90 v)
+    when [left arrow v] key pressed
+    point in direction (105 v)
+    change x by (-10)
 ```
 
 --- /task ---
 
 --- task ---
 
-Save and test your project.
+Use blocks similar to the ones above to make the sprite move to the right `when the right arrow key is pressed`{:class="blockevents"}.
 
-[[[generic-scratch-saving]]]
+--- hints ---
+
+--- hint ---
+
+This is what your code should look like:
+
+```blocks
+    when [right arrow v] key pressed
+    point in direction (75 v)
+    change x by (10)
+```
+
+--- /hint ---
+
+--- /hints ---
+
+--- /task ---
+
+--- task ---
+
+Test your program
 
 --- /task ---

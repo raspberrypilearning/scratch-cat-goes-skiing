@@ -1,27 +1,39 @@
-## Random obstacle
+## Crashing
 
-At the moment, the obstacle sprite always appears in the same place on the screen, so it's very easy to avoid. To make the game more challenging, obstacles should appear in a different position every time.
+If the skier crashes into an obstacle, it should fall over and the game should end.
+
+![skier crashed](images/skier_crash.png)
 
 --- task ---
 
-Make a variable called `obstacle_x`{:class="blockdata"}.
+Change the code for the skier sprite to `wait until`{:class="blockcontrol"} it is `touching`{:class="blocksensing"} the obstacle, and to then `stop all`{:class="blockcontrol"}.
 
-[[[generic-scratch-add-variable]]]
+![crash code wait and stop](images/crash_code1.png)
 
 --- /task ---
 
 --- task ---
 
-At the start of the `forever loop`{:class="blockcontrol"}, `set obstacle_x`{:class="blockdata"} to a `random number`{:class="blockoperators"}.
+When the skier crashes, you should also `switch costume to fallenover`{:class="blocklooks"}.
 
-![obstacle code set variable](images/obstacle_code1.png)
+The updated code should look like this:
+
+![crash code switch costume to fallen](images/crash_code2.png)
 
 --- /task ---
 
 --- task ---
 
-Use the `obstacle_x`{:class="blockdata"} variable in the `go to`{:class="blockmotion"} block and the `glide`{:class="blockmotion"} block.
+Save and test your code. When the skier hits the obstacle, the costume should change and the game should stop. 
 
-![obstacle code use variable](images/obstacle_code2.png)
+--- /task ---
+
+However, there is a now problem with your game: the next time you run it, the skier will still be wearing the `fallenover`{:class="blocklooks"} costume.
+
+--- task ---
+
+Edit the skier's so that their costume changes back to `skiing`{:class="blocklooks"} when the game starts by `switching the costume to skiing`{:class="blocklooks"}.
+
+![crash code switch costume to skiing](images/crash_code3.png)
 
 --- /task ---

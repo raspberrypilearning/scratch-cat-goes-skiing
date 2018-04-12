@@ -1,39 +1,37 @@
-## Crashing
+## Adding a score
 
-If the skier crashes into an obstacle, it should fall over and the game should end.
+Each time the skier sprite makes it past an obstacle, they should earn points.
 
-![skier crashed](images/skier_crash.png)
+![score](images/score.png)
 
 --- task ---
 
-Change the code for the skier sprite to `wait until`{:class="blockcontrol"} it is `touching`{:class="blocksensing"} the obstacle, and to then `stop all`{:class="blockcontrol"}.
-
-![crash code wait and stop](images/crash_code1.png)
+`Make a variable`{:class="blockdata"} called `score`{:class="blockdata"} 
 
 --- /task ---
 
 --- task ---
 
-When the skier crashes, you should also `switch costume to fallenover`{:class="blocklooks"}.
+Add a script to the obstacle sprite to set `score`{:class="blockdata"} to zero at the start of the game.
 
-The updated code should look like this:
+[[[generic-scratch-add-variable]]]
 
-![crash code switch costume to fallen](images/crash_code2.png)
+![score code set variable](images/score_code1.png)
 
 --- /task ---
 
 --- task ---
 
-Save and test your code. When the skier hits the obstacle, the costume should change and the game should stop. 
+Change the code so that when the obstacle gets to the top of the screen, it `changes score by 1`{:class="blockdata"}.
+
+The updated script for the sprite should look like this:
+
+![score code add 1](images/score_code2.png)
 
 --- /task ---
 
-However, there is a now problem with your game: the next time you run it, the skier will still be wearing the `fallenover`{:class="blocklooks"} costume.
-
 --- task ---
 
-Edit the skier's so that their costume changes back to `skiing`{:class="blocklooks"} when the game starts by `switching the costume to skiing`{:class="blocklooks"}.
-
-![crash code switch costume to skiing](images/crash_code3.png)
+Play the game, see how many points you can score.
 
 --- /task ---

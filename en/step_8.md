@@ -1,37 +1,18 @@
-## Adding a score
+--- challenge ---
 
-Each time the skier sprite makes it past an obstacle, they should earn points.
+## Challenge: adding more obstacles
 
-![score](images/score.png)
+Add more sprites from the library as obstacles to make your game trickier!
 
---- task ---
+![more obstacles](images/skiing-final.png)
 
-`Make a variable`{:class="blockdata"} called `score`{:class="blockdata"} 
+When you add a new obstacle, you will need to think about:
 
---- /task ---
+1. Which sprite to use
+1. What happens when the skier crashes into it
+1. Whether to increase the score (and by how much) when the skier makes it past
 
---- task ---
+If you need help, go back to the step in this project where you created the first obstacle.
 
-Add a script to the obstacle sprite to set `score`{:class="blockdata"} to zero at the start of the game.
+--- /challenge ---
 
-[[[generic-scratch-add-variable]]]
-
-![score code set variable](images/score_code1.png)
-
---- /task ---
-
---- task ---
-
-Change the code so that when the obstacle gets to the top of the screen, it `changes score by 1`{:class="blockdata"}.
-
-The updated script for the sprite should look like this:
-
-![score code add 1](images/score_code2.png)
-
---- /task ---
-
---- task ---
-
-Play the game, see how many points you can score.
-
---- /task ---
