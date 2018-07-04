@@ -12,7 +12,7 @@ You are going to use Scratch to create a skiing game in which you have to avoid 
 
 --- print-only ---
 
-![complete project](images/showcase-static.gif)
+![complete project](images/showcase_static.gif)
 
 --- /print-only ---
 
