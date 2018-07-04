@@ -4,6 +4,8 @@
 
 Open the starter project.
 
+--- no-print ---
+
 --- collapse ---
 ---
 title: I'm using Scratch online
@@ -17,6 +19,16 @@ title: I'm using Scratch offline
 ---
 Download the starter project [rpf.io/skiingoff](http://rpf.io/skiingoff), and then open it using the offline Scratch editor.
 --- /collapse ---
+
+--- /no-print ---
+
+--- print-only ---
+
+I'm using Scratch online - [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
+
+I'm using Scratch offline, download the starter project - [rpf.io/skiingoff](http://rpf.io/skiingoff)
+
+--- /print-only ---
 
 ![starter projects](images/starter_project.png)
 
