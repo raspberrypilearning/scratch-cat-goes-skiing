@@ -4,7 +4,17 @@ You are going to use Scratch to create a skiing game in which you have to avoid 
 
 ### What you will make
 
+--- no-print ---
+
 ![complete project](images/showcase.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![complete project](images/showcase-static.gif)
+
+--- /print-only ---
 
 --- collapse ---
 
@@ -36,4 +46,8 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 --- /collapse ---
 
+--- no-print ---
+
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}.
+
+--- /no-print ---
