@@ -2,7 +2,17 @@
 
 Having obstacles to avoid will make your game more challenging, and making them appear at bottom of the screen and travel upwards will create a sense of movement.
 
+--- no-print ---
+
 ![obstacle](images/skier_obstacle_moving.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![obstacle](images/skier_obstacle.png)
+
+--- /print-only ---
 
 --- task ---
 
