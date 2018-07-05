@@ -1,27 +1,27 @@
-## Random obstacle
+--- challenge ---
 
-At the moment, the obstacle sprite always appears in the same place on the screen, so it's very easy to avoid. To make the game more challenging, obstacles should appear in a different position every time.
+## Challenge: change the obstacle's costume
 
---- task ---
+Can you make the obstacle's costume change each time it appears? 
 
-Make a variable called `obstacle_x`{:class="blockdata"}.
+If the sprite you have chosen has only have one costume, you could choose a costume from the library, use another sprite or create your own second costume for the one you already have.
 
-[[[generic-scratch-add-variable]]]
+[[[generic-scratch-add-costume]]]
 
---- /task ---
+--- hints ---
 
---- task ---
+--- hint ---
 
-At the start of the `forever loop`{:class="blockcontrol"}, `set obstacle_x`{:class="blockdata"} to a `random number`{:class="blockoperators"}.
+Add the `next costume`{:class="blocklooks"} block before the `show`{:class="blocklooks"}.
 
-![obstacle code set variable](images/obstacle_code1.png)
+```blocks
+    next costume
+    show
+```
 
---- /task ---
+--- /hint ---
 
---- task ---
+--- /hints ---
 
-Use the `obstacle_x`{:class="blockdata"} variable in the `go to`{:class="blockmotion"} block and the `glide`{:class="blockmotion"} block.
+--- /challenge ---
 
-![obstacle code use variable](images/obstacle_code2.png)
-
---- /task ---
