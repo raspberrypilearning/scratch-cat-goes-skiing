@@ -1,5 +1,3 @@
---- challenge ---
-
 ## Challenge: change the obstacle's costume
 
 Can you make the obstacle's costume change each time it appears? 
@@ -22,6 +20,4 @@ Add the `next costume`{:class="blocklooks"} block before the `show`{:class="bloc
 --- /hint ---
 
 --- /hints ---
-
---- /challenge ---
 
