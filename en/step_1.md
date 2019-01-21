@@ -15,7 +15,7 @@ You are going to use Scratch to create a skiing game in which you have to avoid 
 Click on the green flag to start. Use the left and right arrow keys to control the skier.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/skiing-final.png">
 </div>
 
