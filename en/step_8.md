@@ -16,7 +16,10 @@ Add a script to the obstacle sprite to set `score`{:class="blockdata"} to zero a
 
 [[[generic-scratch-add-variable]]]
 
-![score code set variable](images/score_code1.png)
+```blocks
+when green flag clicked
+set [score v] to [0]
+```
 
 --- /task ---
 
@@ -26,8 +29,19 @@ Change the code so that when the obstacle gets to the top of the screen, it `cha
 
 The updated script for the sprite should look like this:
 
-![score code add 1](images/score_code2.png)
-
+```blocks
+when green flag clicked
+set [score v] to [0]
+forever 
+    set [obstacle_x v] to (pick random (-200) to (200))
+    go to x: (obstacle_x) y: (-180)
+    show
+    glide (1) secs to x: (obstacle_x) y: (180)
+    hide
+    wait (0.5) secs
++   change [score v] by (1)
+end
+```
 --- /task ---
 
 --- task ---

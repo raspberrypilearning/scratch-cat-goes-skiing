@@ -13,9 +13,9 @@ First, make the skier move and point to the left. Your code needs to:
 1. Move the sprite to the left by `changing x`{:class="blockmotion"}
 
 ```blocks
-    when [left arrow v] key pressed
-    point in direction (105 v)
-    change x by (-10)
+when [left arrow v] key pressed
+point in direction (105 v)
+change x by (-10)
 ```
 
 --- /task ---
@@ -28,12 +28,33 @@ Use blocks similar to the ones above to make the sprite move to the right `when 
 
 --- hint ---
 
-This is what your code should look like:
+Add blocks to your code so `when the right arrow key is pressed`{:class="blockevents"}, the sprite `points in the direction 75 degrees`{:class="blockmotion"} before `changing the x position by 10`{:class="blockmotion"}
+
+--- /hint ---
+
+--- hint ---
+
+You will need these blocks:
 
 ```blocks
-    when [right arrow v] key pressed
-    point in direction (75 v)
-    change x by (10)
+    
+point in direction (75 v)
+
+when [right arrow v] key pressed
+
+change x by (10)
+```
+
+--- /hint ---
+
+--- hint ---
+
+Your code should look like this:
+
+```blocks
+when [right arrow v] key pressed
+point in direction (75 v)
+change x by (10)
 ```
 
 --- /hint ---
