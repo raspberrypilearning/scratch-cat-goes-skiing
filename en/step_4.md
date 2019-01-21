@@ -18,7 +18,7 @@ Having obstacles to avoid will make your game more challenging, and making them 
 
 Choose a sprite from the library that will serve as an obstacle — it can be anything you think might be found on a ski slope. Add this new sprite.
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
 --- /task ---
 
@@ -26,19 +26,21 @@ Choose a sprite from the library that will serve as an obstacle — it can be an
 
 You now need to add code to the sprite to make it move:
 
-1. `Go to`{:class="blockmotion"} the bottom of the slope and `show`{:class="blocklooks"}
-1. `Glide`{:class="blockmotion"} up the screen
-1. `Hide`{:class="blocklooks"} when it reaches the top
-1. `Wait for 1 second`{:class="blockcontrol"} and then repeat
+1. `Go to`{:class="block3motion"} the bottom of the slope and `show`{:class="block3looks"}
+1. `Glide`{:class="block3motion"} up the screen
+1. `Hide`{:class="block3looks"} when it reaches the top
+1. `Wait for 1 second`{:class="block3control"} and then repeat
 
-```blocks
+![obstacle sprite](images/obstacle_sprite.png)
+
+```blocks3
 when green flag clicked
 forever 
     go to x: (0) y: (-180)
     show
     glide (1) secs to x: (0) y: (180)
     hide
-    wait (1) secs
+    wait (1) seconds
 end
 ```
 

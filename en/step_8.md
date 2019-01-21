@@ -6,30 +6,34 @@ Each time the skier sprite makes it past an obstacle, they should earn points.
 
 --- task ---
 
-`Make a variable`{:class="blockdata"} called `score`{:class="blockdata"} 
+`Make a variable`{:class="block3variables"} called `score`{:class="block3variables"} 
 
 --- /task ---
 
 --- task ---
 
-Add a script to the obstacle sprite to set `score`{:class="blockdata"} to zero at the start of the game.
+Add a script to the obstacle sprite to set `score`{:class="block3variables"} to zero at the start of the game.
 
-[[[generic-scratch-add-variable]]]
+[[[generic-scratch3-add-variable]]]
 
-```blocks
+![obstacle sprite](images/obstacle_sprite.png)
+
+```blocks3
 when green flag clicked
-set [score v] to [0]
++ set [score v] to [0]
 ```
 
 --- /task ---
 
 --- task ---
 
-Change the code so that when the obstacle gets to the top of the screen, it `changes score by 1`{:class="blockdata"}.
+Change the code so that when the obstacle gets to the top of the screen, it `changes score by 1`{:class="block3variables"}.
 
 The updated script for the sprite should look like this:
 
-```blocks
+![obstacle sprite](images/obstacle_sprite.png)
+
+```blocks3
 when green flag clicked
 set [score v] to [0]
 forever 
@@ -38,7 +42,7 @@ forever
     show
     glide (1) secs to x: (obstacle_x) y: (180)
     hide
-    wait (0.5) secs
+    wait (0.5) seconds
 +   change [score v] by (1)
 end
 ```

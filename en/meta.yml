@@ -1,19 +1,10 @@
 title: Scratch Cat goes skiing
 hero_image: images/banner.png
 description: Create a skiing game in which you avoid obstacles
-theme: orange # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2
 listed: true
-ingredient: false
 copyedit: true
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: weather, games
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4.2
-last_tested: 2018-02-01
+version: 4.3
+last_tested: 2019-01-21
 steps: 
 - title: Introduction
 - title: Getting started
@@ -26,3 +17,4 @@ steps:
 - title: Adding a score
 - title: "Challenge: more obstacles"
   challenge: true
+- title: 'What next?'

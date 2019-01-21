@@ -1,3 +1,9 @@
+--- no-print ---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2).
+
+--- /no-print ---
+
 ## Introduction
 
 You are going to use Scratch to create a skiing game in which you have to avoid randomly appearing obstacles to score points.
@@ -6,13 +12,18 @@ You are going to use Scratch to create a skiing game in which you have to avoid 
 
 --- no-print ---
 
-![complete project](images/showcase.gif)
+Click on the green flag to start. Use the left and right arrow keys to control the skier.
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0"></iframe>
+  <img src="images/skiing-final.png">
+</div>
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/showcase_static.gif)
+![complete project](images/skiing-final.png)
 
 --- /print-only ---
 
@@ -28,7 +39,7 @@ title: What you will need
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
