@@ -24,7 +24,7 @@ title: What you will need
 
 ### Hardware
 
-+ A computer
++ A computer capable of running Scratch
 
 ### Software
 
@@ -38,16 +38,24 @@ title: What you will need
 title: What you will learn
 ---
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
-
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}
++ How to control sprites using the keyboard
++ How to draw a backdrop
++ How to animate sprites
++ Use random numbers
 
 --- /collapse ---
+
+--- collapse ---
+---
+title: Additional information for educators
+---
 
 --- no-print ---
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}.
 
 --- /no-print ---
+
+You can [find the solution for this project here](http://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}.
+
+--- /collapse ---

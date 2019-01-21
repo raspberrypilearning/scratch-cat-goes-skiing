@@ -32,14 +32,14 @@ You now need to add code to the sprite to make it move:
 1. `Wait for 1 second`{:class="blockcontrol"} and then repeat
 
 ```blocks
-    when green flag clicked
-    forever 
-        go to x: (0) y: (-180)
-        show
-        glide (1) secs to x: (0) y: (180)
-        hide
-        wait (1) secs
-    end
+when green flag clicked
+forever 
+    go to x: (0) y: (-180)
+    show
+    glide (1) secs to x: (0) y: (180)
+    hide
+    wait (1) secs
+end
 ```
 
 --- /task ---

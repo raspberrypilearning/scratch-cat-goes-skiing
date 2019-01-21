@@ -13,8 +13,8 @@ If the sprite you have chosen has only have one costume, you could choose a cost
 Add the `next costume`{:class="blocklooks"} block before the `show`{:class="blocklooks"}.
 
 ```blocks
-    next costume
-    show
+next costume
+show
 ```
 
 --- /hint ---

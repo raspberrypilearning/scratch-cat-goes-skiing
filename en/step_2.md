@@ -1,34 +1,15 @@
 ## Getting started
 
 --- task ---
+Open the Scratch starter project.
 
-Open the starter project.
+**Online**: open the starter project at [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
 
---- no-print ---
+**Offline**: open the [starter project](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} in the offline editor.
 
---- collapse ---
----
-title: I'm using Scratch online
----
-Open the starter project [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
---- /collapse ---
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
---- collapse ---
----
-title: I'm using Scratch offline
----
-Download the starter project [rpf.io/skiingoff](http://rpf.io/skiingoff), and then open it using the offline Scratch editor.
---- /collapse ---
-
---- /no-print ---
-
---- print-only ---
-
-I'm using Scratch online - [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
-
-I'm using Scratch offline, download the starter project - [rpf.io/skiingoff](http://rpf.io/skiingoff)
-
---- /print-only ---
+In the starter project, you should see a blank backdrop and a skiier sprite.
 
 ![starter projects](images/starter_project.png)
 
@@ -51,9 +32,9 @@ Add code to your skiing cat sprite so that it appears at the top of the slope an
 ![skier on slope](images/skier_on_the_slope.png)
 
 ```blocks
-	when green flag clicked
-	go to x: (0) y: (100)
-	point in direction (90 v)
+when green flag clicked
+go to x: (0) y: (100)
+point in direction (90 v)
 ```
 
 --- /task ---
