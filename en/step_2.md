@@ -9,7 +9,7 @@ Open the Scratch starter project.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a blank backdrop and a skiier sprite.
+In the starter project, you should see a blank backdrop and a skier sprite.
 
 ![starter projects](images/starter_project.png)
 
@@ -21,17 +21,19 @@ Paint a new backdrop for your ski slope: fill the background grey, and add some 
 
 ![ski slope backdrop](images/backdrop.png)
 
-[[[generic-scratch-paint-new-backdrop]]]
+[[[generic-scratch3-paint-new-backdrop]]]
 
 --- /task ---
 
 --- task ---
 
-Add code to your skiing cat sprite so that it appears at the top of the slope and faces downhill `when the flag is clicked`{:class="blockevents"}.
+Add code to your skiing cat sprite so that it appears at the top of the slope and faces downhill `when the flag is clicked`{:class="block3events"}.
 
 ![skier on slope](images/skier_on_the_slope.png)
 
-```blocks
+![skier sprite](images/skier_sprite_small.png)
+
+```blocks3
 when green flag clicked
 go to x: (0) y: (100)
 point in direction (90 v)
@@ -43,6 +45,6 @@ point in direction (90 v)
 
 Save and test your project.
 
-[[[generic-scratch-saving]]]
+[[[generic-scratch3-saving]]]
 
 --- /task ---

@@ -4,17 +4,19 @@ At the moment, the obstacle sprite always appears in the same place on the scree
 
 --- task ---
 
-Make a variable called `obstacle_x`{:class="blockdata"}.
+Make a variable called `obstacle_x`{:class="block3variables"}.
 
-[[[generic-scratch-add-variable]]]
+[[[generic-scratch3-add-variable]]]
 
 --- /task ---
 
 --- task ---
 
-At the start of the `forever loop`{:class="blockcontrol"}, `set obstacle_x`{:class="blockdata"} to a `random number`{:class="blockoperators"}.
+At the start of the `forever loop`{:class="block3control"}, `set obstacle_x`{:class="block3variables"} to a `random number`{:class="block3operators"}.
 
-```blocks
+![obstacle sprite](images/obstacle_sprite.png)
+
+```blocks3
 when green flag clicked
 forever 
 +   set [obstacle_x v] to (pick random (-200) to (200))
@@ -22,7 +24,7 @@ forever
     show
     glide (1) secs to x: (0) y: (180)
     hide
-    wait (1) secs
+    wait (1) seconds
 end
 ```
 
@@ -31,9 +33,11 @@ end
 
 --- task ---
 
-Use the `obstacle_x`{:class="blockdata"} variable in the `go to`{:class="blockmotion"} block and the `glide`{:class="blockmotion"} block.
+Use the `obstacle_x`{:class="block3variables"} variable in the `go to`{:class="block3motion"} block and the `glide`{:class="block3motion"} block.
 
-```blocks
+![obstacle sprite](images/obstacle_sprite.png)
+
+```blocks3
 when green flag clicked
 forever 
     set [obstacle_x v] to (pick random (-200) to (200))
@@ -41,7 +45,7 @@ forever
     show
     glide (1) secs to x: (obstacle_x :: variables +) y: (180)
     hide
-    wait (1) secs
+    wait (1) seconds
 end
 ```
 
