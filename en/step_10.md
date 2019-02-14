@@ -62,7 +62,7 @@ if (!("scramble" in Array.prototype)) {
 	    
     var quiz = [
         {
-            "question"      :   "Q1: Which of the following scripts would make a sprite point to the right and move in that direction when the right arrow key is pressed??",
+            "question"      :   "Which of the following scripts would make a sprite point to the right and move in that direction when the right arrow key is pressed??",
             "image"         :   "images/montage-1.png",
             "choices"       :   [
                                     "A",
@@ -71,10 +71,10 @@ if (!("scramble" in Array.prototype)) {
                                     "D"
                                 ],
             "correct"       :   "A",
-            "explanation"   :   "You chose the correct script.",
+            "explanation"   :   "90 degrees is to the right-hand side and so x would be positive",
         },
         {
-            "question"      :   "Q2: In the following script, which block should be added to make the sprite change to it's crash costume when it touches Sprite2?",
+            "question"      :   "In the following script, which block should be added to make the sprite change to "crash" when it touches "Sprite2"?",
             "image"         :   "images/montage-2.png",
             "choices"       :   [
                                     "A",
@@ -83,10 +83,10 @@ if (!("scramble" in Array.prototype)) {
                                     "D"
                                 ],
             "correct"       :   "C",
-            "explanation"   :   "Well done",
+            "explanation"   :   "It must be touching sprite 2"
         },
         {
-            "question"      :   "Q3: Which of the following scripts would move a sprite to the bottom of the screen and give it a random horizontal position, when the flag was clicked.",
+            "question"      :   "Which of the following scripts would move a sprite to the bottom of the screen and give it a random horizontal position, when the flag was clicked.",
             "image"         :   "images/montage-3.png",
             "choices"       :   [
                                     "A",
@@ -95,7 +95,7 @@ if (!("scramble" in Array.prototype)) {
                                     "D"
                                 ],
             "correct"       :   "D",
-            "explanation"   :   "Yeah, well done.",
+            "explanation"   :   "Horizontal position is measured on the "x" axis",
         },
 
     ];
