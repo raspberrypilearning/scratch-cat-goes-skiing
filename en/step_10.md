@@ -70,32 +70,32 @@ if (!("scramble" in Array.prototype)) {
                                     "C",
                                     "D"
                                 ],
-            "correct"       :   "D",
+            "correct"       :   "A",
             "explanation"   :   "You chose the correct script.",
         },
         {
-            "question"      :   "Q2: Who is on the two dollar bill?",
-            "image"         :   "http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/US_%242_obverse-high.jpg/320px-US_%242_obverse-high.jpg",
+            "question"      :   "Q2: In the following script, which block should be added to make the sprite change to it's crash costume when it touches Sprite2?",
+            "image"         :   "images/montage2-.png",
             "choices"       :   [
-                                    "Thomas Jefferson",
-                                    "Dwight D. Eisenhower",
-                                    "Benjamin Franklin",
-                                    "Abraham Lincoln"
+                                    "A,
+                                    "B",
+                                    "C",
+                                    "D"
                                 ],
-            "correct"       :   "Thomas Jefferson",
-            "explanation"   :   "The two dollar bill is seldom seen in circulation. As a result, some businesses are confused when presented with the note.",
+            "correct"       :   "C",
+            "explanation"   :   "Well done",
         },
         {
-            "question"      :   "Q3: What event began on April 12, 1861?",
-            "image"         :   "",
+            "question"      :   "Q3: Which of the following scripts would move a sprite to the bottom of the screen and give it a random horizontal position, when the flag was clicked.",
+            "image"         :   "images/montage-3.png",
             "choices"       :   [
-                                    "First manned flight",
-                                    "California became a state",
-                                    "American Civil War began",
-                                    "Declaration of Independence"
+                                    "A,
+                                    "B",
+                                    "C",
+                                    "D"
                                 ],
-            "correct"       :   "American Civil War began",
-            "explanation"   :   "South Carolina came under attack when Confederate soldiers attacked Fort Sumter. The war lasted until April 9th 1865.",
+            "correct"       :   "D",
+            "explanation"   :   "Yeah, well done.",
         },
 
     ];
@@ -342,7 +342,7 @@ quiz = shuffle(quiz);
 		.qnumber 												{ font-size:25px; font-weight:bold; font-style:italic; vertical-align:bottom; }
 		.number 												{ font-size:25px; font-weight:bold; font-style:normal; vertical-align:inherit; padding-right:10px; }
 		.score 													{ width:100%; display:inline-block; margin:30px 0; font-size:100px; text-align:center; }
-		img.question-image 										{ width:100%; height:auto; display:block; max-width:250px; margin:10px auto; border:1px solid #ccc; }
+		img.question-image 										{ width:100%; height:auto; display:block; max-width:705px; margin:10px auto; border:1px solid #ccc; }
 		#choice-block 											{ display:block; list-style:none; margin:0; padding:0; cursor: pointer; }
 	/*	#submitbutton 											{ cursor:pointer; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; } */
 	/*	#submitbutton:hover 									{ background:#7b8da6; } */
