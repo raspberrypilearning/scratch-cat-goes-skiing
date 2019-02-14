@@ -339,7 +339,8 @@ quiz = shuffle(quiz);
 		div#frame h2 											{ width:auto; border-bottom:1px solid #bdbdbd; padding:0 0 5px 0; font-size:30px; }
 		h3.question 											{ font-weight:normal; margin:20px 0; padding:0; font-style:italic; display:block; }
 		p.pager 												{ margin:5px 0 5px; color:#999; text-align:right; }
-		.qnumber 												{ font-size:25px; font-weight:bold; font-style:italic; vertical-align:bottom; }
+/*		.qnumber 												{ font-size:25px; font-weight:bold; font-style:italic; vertical-align:bottom; } */
+
 		.number 												{ font-size:25px; font-weight:bold; font-style:normal; vertical-align:inherit; padding-right:10px; }
 		.score 													{ width:100%; display:inline-block; margin:30px 0; font-size:100px; text-align:center; }
 		img.question-image 										{ width:100%; height:auto; display:block; max-width:705px; margin:10px auto; border:1px solid #ccc; }
