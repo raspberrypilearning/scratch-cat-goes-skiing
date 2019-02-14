@@ -75,7 +75,7 @@ if (!("scramble" in Array.prototype)) {
         },
         {
             "question"      :   "Q2: In the following script, which block should be added to make the sprite change to it's crash costume when it touches Sprite2?",
-            "image"         :   "images/montage2-.png",
+            "image"         :   "images/montage-2.png",
             "choices"       :   [
                                     "A",
                                     "B",
@@ -104,7 +104,7 @@ if (!("scramble" in Array.prototype)) {
 //quiz.forEach(function(q){ return q.choices.scramble()});
 
 //use this for ECMA script 6
-quiz.forEach(q => q.choices.scramble());
+//quiz.forEach(q => q.choices.scramble());
 //console.log(quiz[0].choices);
 		
 quiz = shuffle(quiz);
