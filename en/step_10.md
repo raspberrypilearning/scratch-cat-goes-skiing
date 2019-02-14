@@ -77,7 +77,7 @@ if (!("scramble" in Array.prototype)) {
             "question"      :   "Q2: In the following script, which block should be added to make the sprite change to it's crash costume when it touches Sprite2?",
             "image"         :   "images/montage2-.png",
             "choices"       :   [
-                                    "A,
+                                    "A",
                                     "B",
                                     "C",
                                     "D"
