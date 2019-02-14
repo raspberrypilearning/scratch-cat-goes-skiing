@@ -62,16 +62,16 @@ if (!("scramble" in Array.prototype)) {
 	    
     var quiz = [
         {
-            "question"      :   "Q1: Who came up with the theory of relativity?",
-            "image"         :   "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/220px-Albert_Einstein_Head.jpg",
+            "question"      :   "Q1: Which of the following scripts would make a sprite point to the right and move in that direction when the right arrow key is pressed??",
+            "image"         :   "images/montage-1.png",
             "choices"       :   [
-                                    "Sir Isaac Newton",
-                                    "Nicolaus Copernicus",
-                                    "Albert Einstein",
-                                    "Ralph Waldo Emmerson"
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D"
                                 ],
-            "correct"       :   "Albert Einstein",
-            "explanation"   :   "Albert Einstein drafted the special theory of relativity in 1905.",
+            "correct"       :   "D",
+            "explanation"   :   "You chose the correct script.",
         },
         {
             "question"      :   "Q2: Who is on the two dollar bill?",
