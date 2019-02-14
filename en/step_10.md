@@ -89,7 +89,7 @@ if (!("scramble" in Array.prototype)) {
             "question"      :   "Q3: Which of the following scripts would move a sprite to the bottom of the screen and give it a random horizontal position, when the flag was clicked.",
             "image"         :   "images/montage-3.png",
             "choices"       :   [
-                                    "A,
+                                    "A",
                                     "B",
                                     "C",
                                     "D"
