@@ -371,3 +371,5 @@ quiz = shuffle(quiz);
 </div> -->
 </body>
 </html>
+
+*This quiz may not work in Internet Explorer. If you can't see the quiz then please try using another browser.*
