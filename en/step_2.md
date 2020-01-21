@@ -1,6 +1,7 @@
 ## Getting started
 
 --- task ---
+
 Open the Scratch starter project.
 
 **Online**: open the starter project at [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
