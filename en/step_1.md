@@ -28,7 +28,6 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 --- /print-only ---
 
 --- collapse ---
-
 ---
 title: What you will need
 ---
@@ -48,7 +47,6 @@ The starter project can be found [here](http://rpf.io/p/en/scratch-cat-goes-skii
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: What you will learn
 ---
