@@ -1,18 +1,18 @@
-## Controlling the skier
+## Bestuur de skiër
 
-You will use the left and right arrow keys to control the skier sprite, making it go left and right across the slope.
+Je gebruikt de linker- en rechter-pijltjestoetsen om de skiër sprite te besturen, waardoor deze links en rechts over de helling skiet.
 
-![skier moving](images/skier_moving.gif)
+![bewegende skiër](images/skier_moving.gif)
 
 --- task ---
 
-First, make the skier move and point to the left. Your code needs to:
+Laat de skiër eerst bewegen en naar links wijzen. Je code moet:
 
-1. Start `when the left arrow key is pressed`{:class="block3events"}
-1. Change the angle the sprite is `pointed`{:class="block3motion"}
-1. Move the sprite to the left by `changing x`{:class="block3motion"}
+1. Starten `wanneer de linker-pijltjestoets wordt ingedrukt`{:class="block3events"}
+1. De hoek waarin de sprite `wijst`{:class="block3motion"} veranderen
+1. De sprite naar links laten bewegen door `verander x met`{:class="block3motion"}
 
-![skier sprite](images/skier_sprite_small.png)
+![skiër sprite](images/skier_sprite_small.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -24,19 +24,19 @@ change x by (-10)
 
 --- task ---
 
-Use blocks similar to the ones above to make the sprite move to the right `when the right arrow key is pressed`{:class="block3events"}.
+Gebruik blokken zoals hierboven om de sprite naar rechts te laten bewegen `wanneer de rechter-pijltjestoets is ingedrukt`{:class="block3events"}.
 
 --- hints ---
 
 --- hint ---
 
-Add blocks to your code so `when the right arrow key is pressed`{:class="block3events"}, the sprite `points in the direction 75 degrees`{:class="block3motion"} before `changing the x position by 10`{:class="block3motion"}
+Voeg blokken aan je code toe zodat `wanneer rechter-pijltjestoets is ingedrukt`{:class="block3events"}, de sprite zich `richt naar 75 graden`{:class="block3motion"} voordat `verander x met 10`{:class="block3motion:}
 
 --- /hint ---
 
 --- hint ---
 
-You will need these blocks:
+Je hebt deze blokken nodig:
 
 ```blocks3
 
@@ -51,9 +51,9 @@ change x by (10)
 
 --- hint ---
 
-Your code should look like this:
+Je code zou er als volgt uit moeten zien:
 
-![skier sprite](images/skier_sprite_small.png)
+![skiër sprite](images/skier_sprite_small.png)
 
 ```blocks3
 when [right arrow v] key pressed
@@ -69,6 +69,6 @@ change x by (10)
 
 --- task ---
 
-Test your program
+Test je programma
 
 --- /task ---
