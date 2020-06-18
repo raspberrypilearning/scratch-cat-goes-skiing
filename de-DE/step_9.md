@@ -1,14 +1,14 @@
-## Challenge: adding more obstacles
+## Herausforderung: Hinzufügen weiterer Hindernisse
 
-Add more sprites from the library as obstacles to make your game trickier!
+Füge weitere Figuren aus der Bibliothek als Hindernisse hinzu, um dein Spiel schwieriger zu machen!
 
-![more obstacles](images/skiing-final.png)
+![mehr Hindernisse](images/skiing-final.png)
 
-When you add a new obstacle, you will need to think about:
+Wenn du ein neues Hindernis hinzufügst, musst du über Folgendes nachdenken:
 
-1. Which sprite to use
-1. What happens when the skier crashes into it
-1. Whether to increase the score (and by how much) when the skier makes it past
+1. Welche Figur soll verwendet werden?
+1. Was passiert, wenn der Skifahrer darauf stößt?
+1. Soll die Punktzahl erhöht werden (und um wie viel), wenn der Skifahrer vorbei zieht?
 
-If you need help, go back to the step in this project where you created the first obstacle.
+Wenn du Hilfe benötigst, kehre zu dem Schritt in diesem Projekt zurück, in dem du das erste Hindernis erstellt hast.
 
