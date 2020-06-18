@@ -1,22 +1,22 @@
-## Adding an obstacle
+## Een obstakel toevoegen
 
-Having obstacles to avoid will make your game more challenging, and making them appear at bottom of the screen and travel upwards will create a sense of movement.
+Je spel wordt spannender door obstakels te hebben, en ze onderaan het scherm tevoorschijn te laten komen en ze omhoog te laten bewegen waardoor je het idee krijgt dat ze bewegen.
 
 --- no-print ---
 
-![obstacle](images/skier_obstacle_moving.gif)
+![obstakel](images/skier_obstacle_moving.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![obstacle](images/skier_obstacle.png)
+![obstakel](images/skier_obstacle.png)
 
 --- /print-only ---
 
 --- task ---
 
-Choose a sprite from the library that will serve as an obstacle — it can be anything you think might be found on a ski slope. Add this new sprite.
+Kies een sprite uit de bibliotheek die kan dienen als obstakel — het kan alles zijn waarvan jij vindt dat het op een skihelling thuishoort. Voeg de nieuwe sprite toe.
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,14 +24,14 @@ Choose a sprite from the library that will serve as an obstacle — it can be an
 
 --- task ---
 
-You now need to add code to the sprite to make it move:
+Nu moet je code toevoegen om je sprite te laten bewegen:
 
-1. `Go to`{:class="block3motion"} the bottom of the slope and `show`{:class="block3looks"}
-1. `Glide`{:class="block3motion"} up the screen
-1. `Hide`{:class="block3looks"} when it reaches the top
-1. `Wait for 1 second`{:class="block3control"} and then repeat
+1. `Ga naar`{:class="block3motion"} de onderkant van de helling en `verschijn`{:class="block3looks"}
+1. `Schuif`{:class="block3motion"} het speelveld op
+1. `Verdwijn`{:class="block3looks"} wanneer het boven aan de helling is
+1. `Wacht 1 sec`{:class="block3control"} en herhaal
 
-![obstacle sprite](images/obstacle_sprite.png)
+![obstakel sprite](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
