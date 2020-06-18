@@ -1,31 +1,31 @@
 ---
-title: Scratch Cat goes skiing
+title: Scratch Katze geht Skifahren
 hero_image: images/banner.png
-description: Create a skiing game in which you avoid obstacles
+description: Erstelle ein Skispiel, in dem du Hindernissen ausweichst
 listed: true
 copyedit: true
 version: 4.3
 last_tested: 2019-01-21
 steps:
   - 
-    title: Introduction
+    title: Einleitung
   - 
-    title: Getting started
+    title: Erste Schritte
   - 
-    title: Controlling the skier
+    title: Den Skifahrer kontrollieren
   - 
-    title: Adding an obstacle
+    title: Ein Hindernis hinzufügen
   - 
-    title: "Challenge: change the obstacle"
+    title: "Herausforderung: das Hindernis verändern"
     challenge: true
   - 
-    title: Random obstacle
+    title: Zufälliges Hindernis
   - 
-    title: Crashing
+    title: Einen Unfall bauen
   - 
-    title: Adding a score
+    title: Eine Punktzahl hinzufügen
   - 
-    title: "Challenge: more obstacles"
+    title: "Herausforderung: Mehr Hindernisse"
     challenge: true
   - 
-    title: 'What next?'
+    title: 'Was kommt als Nächstes?'
