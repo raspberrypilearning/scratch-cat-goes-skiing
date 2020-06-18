@@ -1,22 +1,22 @@
-## Adding a score
+## Eine Punktzahl hinzufügen
 
-Each time the skier sprite makes it past an obstacle, they should earn points.
+Jedes Mal, wenn die Skifahrer-Figur ein Hindernis überwindet, sollte sie Punkte sammeln.
 
-![score](images/score.png)
+![Punktestand](images/score.png)
 
 --- task ---
 
-`Make a variable`{:class="block3variables"} called `score`{:class="block3variables"}
+Erstelle eine `Neue Variable`{:class="block3variables"} mit dem Namen `Punkte`{:class="block3variables"}
 
 --- /task ---
 
 --- task ---
 
-Add a script to the obstacle sprite to set `score`{:class="block3variables"} to zero at the start of the game.
+Füge der Hindernis-Figur ein Skript hinzu, um die `Punkte`{:class="block3variables"} zu Beginn des Spiels auf Null zu setzen.
 
 [[[generic-scratch3-add-variable]]]
 
-![obstacle sprite](images/obstacle_sprite.png)
+![Hindernis-Figur](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -27,11 +27,11 @@ when green flag clicked
 
 --- task ---
 
-Change the code so that when the obstacle gets to the top of the screen, it `changes score by 1`{:class="block3variables"}.
+Ändere den Code so, dass wenn das Hindernis an den oberen Rand des Bildschirms gelangt, `Punktzahl um 1 geändert`{:class="block3variables"} wird.
 
-The updated script for the sprite should look like this:
+Das aktualisierte Skript für die Figur sollte folgendermaßen aussehen:
 
-![obstacle sprite](images/obstacle_sprite.png)
+![Hindernis-Figur](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -51,6 +51,6 @@ end
 
 --- task ---
 
-Play the game, see how many points you can score.
+Spiele das Spiel und prüfe, wie viele Punkte du erzielen kannst.
 
 --- /task ---
