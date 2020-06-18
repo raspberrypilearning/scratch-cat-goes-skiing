@@ -1,3 +1,3 @@
-obstacle_x
+Hindernis_x
 
-score
+Punktestand
