@@ -1,14 +1,14 @@
-## Crashing
+## Einen Unfall bauen
 
-If the skier crashes into an obstacle, it should fall over and the game should end.
+Wenn der Skifahrer gegen ein Hindernis stößt, sollte er umfallen und das Spiel sollte enden.
 
-![skier crashed](images/skier_crash.png)
+![Skifahrer abgestürzt](images/skier_crash.png)
 
 --- task ---
 
-Change the code for the skier sprite to `wait until`{:class="block3control"} it is `touching`{:class="block3sensing"} the obstacle, and to then `stop all`{:class="block3control"}.
+Ändere den Code für die Skifahrer-Figur auf `warte bis`{:class="block3control"} ` wird Hindernis berührt?`{:class="block3sensing"} und dann `stoppe alles`{:class="block3control"}.
 
-![skier sprite](images/skier_sprite_small.png)
+![Skifahrer-Figur](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -20,11 +20,11 @@ stop [all v]
 
 --- task ---
 
-When the skier crashes, you should also `switch costume to fallenover`{:class="block3looks"}.
+Wenn der Skifahrer abstürzt, solltest du auch `wechsle zu Kostüm abgestürzt`{:class="block3looks"} (Kostüm 2) verwenden.
 
-The updated code should look like this:
+Der aktualisierte Code sollte folgendermaßen aussehen:
 
-![skier sprite](images/skier_sprite_small.png)
+![Skifahrer-Figur](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -37,17 +37,17 @@ stop [all v]
 
 --- task ---
 
-Save and test your code. When the skier hits the obstacle, the costume should change and the game should stop.
+Speichere und teste deinen Code. Wenn der Skifahrer auf das Hindernis trifft, sollte sich das Kostüm ändern und das Spiel anhalten.
 
 --- /task ---
 
-However, there is a now problem with your game: the next time you run it, the skier will still be wearing the `fallenover`{:class="block3looks"} costume.
+Es gibt jedoch ein Problem mit deinem Spiel: Wenn du es das nächste Mal ausführst, trägt der Skifahrer immer noch das Kostüm `abgestürzt`{:class="block3looks"}.
 
 --- task ---
 
-Edit the skier's so that their costume changes back to `skiing`{:class="block3looks"} when the game starts by `switching the costume to skiing`{:class="block3looks"}.
+Bearbeite den Skifahrer so, dass sein Kostüm wieder auf `Ski fahren`{:class="block3looks"} wechselt, wenn das Spiel beginnt, durch `wechsle zu Kostüm Ski fahren`{:class="block3looks"} (Kostüm 1).
 
-![skier sprite](images/skier_sprite_small.png)
+![Skifahrer-Figur](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
