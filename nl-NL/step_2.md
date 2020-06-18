@@ -1,28 +1,28 @@
-## Getting started
+## Aan de slag
 
 --- task ---
 
-Open the Scratch starter project.
+Open het Scratch startproject.
 
-**Online**: open the starter project at [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
+**Online**: open het startproject op [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Als je een Scratch-account hebt, kun je een kopie maken door op **Remix** te klikken.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} in the offline editor.
+**Offline**: open het [startproject](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} in de offline editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Als je de Scratch offline editor wilt downloaden en installeren dan kun je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a blank backdrop and a skier sprite.
+In het startproject zou je een blanco achtergrond en een skiër sprite moeten zien.
 
-![starter projects](images/starter_project.png)
+![start projecten](images/starter_project.png)
 
 --- /task ---
 
 --- task ---
 
-Paint a new backdrop for your ski slope: fill the background grey, and add some straight lines.
+Teken een nieuwe achtergrond voor je skihelling: vul de achtergrond op met grijs en voeg wat rechte lijnen toe.
 
-![ski slope backdrop](images/backdrop.png)
+![skihelling achtergrond](images/backdrop.png)
 
 [[[generic-scratch3-paint-new-backdrop]]]
 
@@ -30,11 +30,11 @@ Paint a new backdrop for your ski slope: fill the background grey, and add some 
 
 --- task ---
 
-Add code to your skiing cat sprite so that it appears at the top of the slope and faces downhill `when the flag is clicked`{:class="block3events"}.
+Voeg code toe aan je skiënde kat sprite zodat hij bovenaan de helling verschijnt en naar beneden kijkt `wanneer op de groene vlag wordt geklikt`{:class="block3events"}.
 
-![skier on slope](images/skier_on_the_slope.png)
+![skiër op helling](images/skier_on_the_slope.png)
 
-![skier sprite](images/skier_sprite_small.png)
+![skiër sprite](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -46,7 +46,7 @@ point in direction (90 v)
 
 --- task ---
 
-Save and test your project.
+Sla je project op en test het.
 
 [[[generic-scratch3-saving]]]
 
