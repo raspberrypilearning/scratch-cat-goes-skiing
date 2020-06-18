@@ -1,0 +1,3 @@
+obstacle_x
+
+अंग
