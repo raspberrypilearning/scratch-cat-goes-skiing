@@ -1,31 +1,31 @@
 ---
-title: Scratch Cat goes skiing
+title: Scratch kat gaat skiën
 hero_image: images/banner.png
-description: Create a skiing game in which you avoid obstacles
+description: Maak een ski spel waarbij je obstakels moet ontwijken
 listed: true
 copyedit: true
 version: 4.3
 last_tested: 2019-01-21
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: Getting started
+    title: Wat heb je nodig
   - 
-    title: Controlling the skier
+    title: Bestuur de skiër
   - 
-    title: Adding an obstacle
+    title: Een obstakel toevoegen
   - 
-    title: "Challenge: change the obstacle"
+    title: "Uitdaging: verander het uiterlijk van het obstakel"
     challenge: true
   - 
-    title: Random obstacle
+    title: Willekeurig obstakel
   - 
-    title: Crashing
+    title: Botsen
   - 
-    title: Adding a score
+    title: Een score toevoegen
   - 
-    title: "Challenge: more obstacles"
+    title: "Uitdaging: meer obstakels toevoegen"
     challenge: true
   - 
-    title: 'What next?'
+    title: 'Wat kun je verder nog doen?'
