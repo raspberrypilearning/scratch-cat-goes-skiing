@@ -1,0 +1,31 @@
+---
+title: स्क्रैच बिल्ली स्कीइंग जाती है
+hero_image: images/banner.png
+description: एक स्कीइंग गेम बनाएं जिसमें आप बाधाओं से बचें
+listed: true
+copyedit: true
+version: 4.3
+last_tested: 2019-01-21
+steps:
+  - 
+    title: परिचय
+  - 
+    title: प्रारंभ करें
+  - 
+    title: स्कीयर को नियंत्रित करना
+  - 
+    title: एक बाधा जोड़ना
+  - 
+    title: "चुनौती: बाधा को बदलें"
+    challenge: true
+  - 
+    title: बेतरतीब बाधा
+  - 
+    title: टकरा जाना
+  - 
+    title: स्कोर (score) जोड़ना
+  - 
+    title: "चुनौती: ज्यादा रुकावटें"
+    challenge: true
+  - 
+    title: 'आगे क्या है?'
