@@ -1,14 +1,14 @@
-## Challenge: adding more obstacles
+## Uitdaging: meer obstakels toevoegen
 
-Add more sprites from the library as obstacles to make your game trickier!
+Voeg meer sprites uit de bibliotheek toe om je spel lastiger te maken!
 
-![more obstacles](images/skiing-final.png)
+![meer obstakels](images/skiing-final.png)
 
-When you add a new obstacle, you will need to think about:
+Als je een nieuw obstakel toevoegt, moet je hierover nadenken:
 
-1. Which sprite to use
-1. What happens when the skier crashes into it
-1. Whether to increase the score (and by how much) when the skier makes it past
+1. Welke sprite je gaat gebruiken
+1. Wat er gebeurt als de skiër er tegen aan botst
+1. Of je de score verhoogt (en met hoeveel punten) als de skiër het ontwijkt
 
-If you need help, go back to the step in this project where you created the first obstacle.
+Als je hulp nodig hebt, ga dan terug naar de stap in dit project waar je het eerste obstakel hebt gemaakt.
 
