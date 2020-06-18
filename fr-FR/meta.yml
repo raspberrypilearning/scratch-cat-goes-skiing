@@ -1,7 +1,7 @@
 ---
-title: Scratch Cat goes skiing
+title: Le chat Scratch fait du ski
 hero_image: images/banner.png
-description: Create a skiing game in which you avoid obstacles
+description: Créer un jeu de ski dans laquelle tu évites des obstacles
 listed: true
 copyedit: true
 version: 4.3
@@ -10,22 +10,22 @@ steps:
   - 
     title: Introduction
   - 
-    title: Getting started
+    title: Pour commencer
   - 
-    title: Controlling the skier
+    title: Contrôler le skieur
   - 
-    title: Adding an obstacle
+    title: Ajouter un obstacle
   - 
-    title: "Challenge: change the obstacle"
+    title: "Défi : changer l'obstacle"
     challenge: true
   - 
-    title: Random obstacle
+    title: Obstacle aléatoire
   - 
-    title: Crashing
+    title: Collision
   - 
-    title: Adding a score
+    title: Ajouter un score
   - 
-    title: "Challenge: more obstacles"
+    title: "Défi : plus d'obstacles"
     challenge: true
   - 
-    title: 'What next?'
+    title: 'Et ensuite ?'
