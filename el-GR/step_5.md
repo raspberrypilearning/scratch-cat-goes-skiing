@@ -1,8 +1,8 @@
-## Challenge: change the obstacle's costume
+## Πρόκληση: Άλλαξε την ενδυμασία του εμποδίου
 
-Can you make the obstacle's costume change each time it appears?
+Μπορείς να κάνεις το εμπόδιο να αλλάζει ενδυμασία κάθε φορά που εμφανίζεται;
 
-If the sprite you have chosen has only have one costume, you could choose a costume from the library, use another sprite or create your own second costume for the one you already have.
+Εάν το αντικείμενο που έχεις επιλέξει έχει μόνο μια ενδυμασία, μπορείς να επιλέξεις μια επιπλέον ενδυμασία από τη βιβλιοθήκη, να χρησιμοποιήσεις ένα άλλο αντικείμενο ή να δημιουργήσεις τη δική σου δεύτερη ενδυμασία για το αντικείμενο που υπάρχει ήδη.
 
 [[[generic-scratch3-add-costume]]]
 
@@ -10,7 +10,7 @@ If the sprite you have chosen has only have one costume, you could choose a cost
 
 --- hint ---
 
-Add the `next costume`{:class="block3looks"} block before the `show`{:class="block3looks"}.
+Πρόσθεσε το μπλοκ `επόμενη ενδυμασία`{:class="block3looks"} πριν από το `εμφανίσου`{:class="block3looks"}.
 
 ```blocks3
 next costume
