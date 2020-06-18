@@ -1,18 +1,18 @@
-## Controlling the skier
+## Den Skifahrer kontrollieren
 
-You will use the left and right arrow keys to control the skier sprite, making it go left and right across the slope.
+Mit den linken und rechten Pfeiltasten steuerst du die Skifahrer-Figur und bewegst sie nach links und rechts über die Piste.
 
-![skier moving](images/skier_moving.gif)
+![Skifahrer in Bewegung](images/skier_moving.gif)
 
 --- task ---
 
-First, make the skier move and point to the left. Your code needs to:
+Bewege zuerst den Skifahrer und zeige nach links. Dein Code muss:
 
-1. Start `when the left arrow key is pressed`{:class="block3events"}
-1. Change the angle the sprite is `pointed`{:class="block3motion"}
-1. Move the sprite to the left by `changing x`{:class="block3motion"}
+1. Starten `Wenn Taste Pfeil nach links gedrückt wird`{: class = "block3events"}
+1. Den Winkel ändern, auf dem die Figur `zeigt`{: class = "block3motion"}
+1. Die Figur nach links bewegen um` x zu ändern`{: class = "block3motion"}
 
-![skier sprite](images/skier_sprite_small.png)
+![Skifahrer-Figur](images/skier_sprite_small.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -24,19 +24,19 @@ change x by (-10)
 
 --- task ---
 
-Use blocks similar to the ones above to make the sprite move to the right `when the right arrow key is pressed`{:class="block3events"}.
+Verwende Blöcke ähnlich wie die, die oben die Figur nach rechts bewegen `Wenn Taste Pfeil nach rechts gedrückt wird`{:class="block3events"}.
 
 --- hints ---
 
 --- hint ---
 
-Add blocks to your code so `when the right arrow key is pressed`{:class="block3events"}, the sprite `points in the direction 75 degrees`{:class="block3motion"} before `changing the x position by 10`{:class="block3motion"}
+Fügen deinem Code Blöcke hinzu, sodass` Wenn Taste Pfeil nach rechts gedrückt wird`{:class="block3events"} deine Figur zuerst auf `setze Richtung auf 75 Grad`{:class="block3motion"} gesetzt wird und danach `ändere x um 10`{:class="block3motion"} steht
 
 --- /hint ---
 
 --- hint ---
 
-You will need these blocks:
+Du wirst diese Blöcke benötigen:
 
 ```blocks3
 
@@ -51,9 +51,9 @@ change x by (10)
 
 --- hint ---
 
-Your code should look like this:
+Dein Code sollte so aussehen:
 
-![skier sprite](images/skier_sprite_small.png)
+![Skifahrer-Figur](images/skier_sprite_small.png)
 
 ```blocks3
 when [right arrow v] key pressed
@@ -69,6 +69,6 @@ change x by (10)
 
 --- task ---
 
-Test your program
+Teste dein Programm
 
 --- /task ---
