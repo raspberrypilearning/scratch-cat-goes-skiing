@@ -27,7 +27,7 @@ when green flag clicked
 
 --- task ---
 
-Ändere den Code so, dass wenn das Hindernis an den oberen Rand des Bildschirms gelangt, `Punktzahl um 1 geändert`{:class="block3variables"} wird.
+Ändere den Code so, dass wenn das Hindernis an den oberen Rand des Bildschirms gelangt, `Punkte um 1 geändert`{:class="block3variables"} wird.
 
 Das aktualisierte Skript für die Figur sollte folgendermaßen aussehen:
 
