@@ -1,3 +1,3 @@
-## What next?
+## Wat kun je verder nog doen?
 
-Take a look at the [Synchronised Swimming](https://projects.raspberrypi.org/en/projects/synchronised-swimming) Scratch project.
+Bekijk het [Synchroonzwemmen](https://projects.raspberrypi.org/en/projects/synchronised-swimming) Scratch project.
