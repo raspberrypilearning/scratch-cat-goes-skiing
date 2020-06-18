@@ -1,6 +1,6 @@
-## Adding an obstacle
+## Ajouter un obstacle
 
-Having obstacles to avoid will make your game more challenging, and making them appear at bottom of the screen and travel upwards will create a sense of movement.
+Avoir des obstacles à éviter rendra ton jeu plus difficile, et les faire apparaître en bas de l'écran et remonter créera une sensation de mouvement.
 
 --- no-print ---
 
@@ -16,7 +16,7 @@ Having obstacles to avoid will make your game more challenging, and making them 
 
 --- task ---
 
-Choose a sprite from the library that will serve as an obstacle — it can be anything you think might be found on a ski slope. Add this new sprite.
+Choisis un sprite dans la bibliothèque qui servira d'obstacle - il peut s'agir de tout ce que tu penses pouvoir trouver sur une piste de ski. Ajoute ce nouveau sprite.
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,14 +24,14 @@ Choose a sprite from the library that will serve as an obstacle — it can be an
 
 --- task ---
 
-You now need to add code to the sprite to make it move:
+Tu dois maintenant ajouter du code au sprite pour le faire bouger :
 
-1. `Go to`{:class="block3motion"} the bottom of the slope and `show`{:class="block3looks"}
-1. `Glide`{:class="block3motion"} up the screen
-1. `Hide`{:class="block3looks"} when it reaches the top
-1. `Wait for 1 second`{:class="block3control"} and then repeat
+1. `Aller vers`{:class="block3motion"} le bas de la pente et `montrer`{:class="block3looks"}
+1. `Glisser`{:class="block3motion"} vers le haut de l'écran
+1. `Cacher`{:class="block3looks"} lorsqu'il atteint le haut
+1. `Attendre 1 seconde`{:class="block3control"} et ensuite répéter
 
-![obstacle sprite](images/obstacle_sprite.png)
+![sprite d'obstacle](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
