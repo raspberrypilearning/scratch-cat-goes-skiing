@@ -1,28 +1,28 @@
-## Getting started
+## Erste Schritte
 
 --- task ---
 
-Open the Scratch starter project.
+Öffne das Scratch Start-Projekt.
 
-**Online**: open the starter project at [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
+**Online**: Öffne das Start-Projekt: [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Wenn du bereits einen Scratch-Account besitzt, kannst du dir durch Klick auf **Remix** eine Kopie anlegen.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} in the offline editor.
+**Offline**: Öffne das [Start-Projekt](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} im Offline-Editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Wenn du den Scratch-Offline-Editor herunterladen und installieren möchtest, findest du diesen unter [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a blank backdrop and a skier sprite.
+Im Starterprojekt solltest du einen leeren Hintergrund und eine Skifahrer-Figur sehen.
 
-![starter projects](images/starter_project.png)
+![Start-Projekt](images/starter_project.png)
 
 --- /task ---
 
 --- task ---
 
-Paint a new backdrop for your ski slope: fill the background grey, and add some straight lines.
+Male einen neuen Hintergrund für deine Skipiste: Fülle den Hintergrund grau und füge einige gerade Linien hinzu.
 
-![ski slope backdrop](images/backdrop.png)
+![Skipisten Kulisse](images/backdrop.png)
 
 [[[generic-scratch3-paint-new-backdrop]]]
 
@@ -30,11 +30,11 @@ Paint a new backdrop for your ski slope: fill the background grey, and add some 
 
 --- task ---
 
-Add code to your skiing cat sprite so that it appears at the top of the slope and faces downhill `when the flag is clicked`{:class="block3events"}.
+Füge deiner Skifahrer-Katzenfigur einen Code hinzu, sodass sie oben auf der Piste und bergab angezeigt wird `wenn Flagge angeklickt wird`{: class="block3events"}.
 
-![skier on slope](images/skier_on_the_slope.png)
+![Skifahrer am Hang](images/skier_on_the_slope.png)
 
-![skier sprite](images/skier_sprite_small.png)
+![Skifahrer-Figur](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -46,7 +46,7 @@ point in direction (90 v)
 
 --- task ---
 
-Save and test your project.
+Speichere und teste dein Projekt.
 
 [[[generic-scratch3-saving]]]
 
