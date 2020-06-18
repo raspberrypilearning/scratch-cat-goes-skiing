@@ -1,10 +1,10 @@
-## Random obstacle
+## Zufälliges Hindernis
 
-At the moment, the obstacle sprite always appears in the same place on the screen, so it's very easy to avoid. To make the game more challenging, obstacles should appear in a different position every time.
+Im Moment wird die Hindernis-Figur immer an derselben Stelle auf dem Bildschirm angezeigt, sodass es sehr leicht zu vermeiden ist. Um das Spiel herausfordernder zu gestalten, sollten Hindernisse jedes Mal an einer anderen Position erscheinen.
 
 --- task ---
 
-Make a variable called `obstacle_x`{:class="block3variables"}.
+Erstelle eine Variable mit dem Namen `Hindernis_x`{:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,9 +12,9 @@ Make a variable called `obstacle_x`{:class="block3variables"}.
 
 --- task ---
 
-At the start of the `forever loop`{:class="block3control"}, `set obstacle_x`{:class="block3variables"} to a `random number`{:class="block3operators"}.
+Zu Beginn der `wiederhole fortlaufend Schleife`{:class="block3control"}, `setze Hindernis_x`{:class="block3variables"} auf eine `Zufallszahl`{:class="block3operators"}.
 
-![obstacle sprite](images/obstacle_sprite.png)
+![Hindernis-Figur](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -33,9 +33,9 @@ end
 
 --- task ---
 
-Use the `obstacle_x`{:class="block3variables"} variable in the `go to`{:class="block3motion"} block and the `glide`{:class="block3motion"} block.
+Verwende die Variable `Hindernis_x`{:class="block3variables"} im Block `gehe zu`{:class="block3motion"} und den Block `gleite in`{:class="block3motion"}.
 
-![obstacle sprite](images/obstacle_sprite.png)
+![Hindernis-Figur](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
