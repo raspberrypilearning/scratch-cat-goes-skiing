@@ -1,14 +1,14 @@
-## Crashing
+## Botsen
 
-If the skier crashes into an obstacle, it should fall over and the game should end.
+Als de skiër tegen een obstakel botst, moet hij vallen en is het spel afgelopen.
 
-![skier crashed](images/skier_crash.png)
+![gevallen skiër](images/skier_crash.png)
 
 --- task ---
 
-Change the code for the skier sprite to `wait until`{:class="block3control"} it is `touching`{:class="block3sensing"} the obstacle, and to then `stop all`{:class="block3control"}.
+Verander de code voor de skiër sprite zodat hij `wacht tot`{:class="block3control"} hij het obstakel `raakt`{:class="block3sensing"}, en dan `alles stopt`{:class="block3control"}.
 
-![skier sprite](images/skier_sprite_small.png)
+![skiër sprite](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -20,11 +20,11 @@ stop [all v]
 
 --- task ---
 
-When the skier crashes, you should also `switch costume to fallenover`{:class="block3looks"}.
+Wanneer de skiër botst, moet je ook het blok `verander uiterlijk`{:class="block3looks"} veranderen naar gevallen.
 
-The updated code should look like this:
+De aangepaste code zou er zo uit moeten zien:
 
-![skier sprite](images/skier_sprite_small.png)
+![skiër sprite](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -37,17 +37,17 @@ stop [all v]
 
 --- task ---
 
-Save and test your code. When the skier hits the obstacle, the costume should change and the game should stop.
+Sla je code op en test het. Wanneer de skiër het obstakel raakt, moet het uiterlijk veranderen en het spel stoppen.
 
 --- /task ---
 
-However, there is a now problem with your game: the next time you run it, the skier will still be wearing the `fallenover`{:class="block3looks"} costume.
+Maar er is nu een probleem met je spel: wanneer je het spel weer start, draagt de skiër nog steeds het `gevallen`{:class="block3looks"} uiterlijk.
 
 --- task ---
 
-Edit the skier's so that their costume changes back to `skiing`{:class="block3looks"} when the game starts by `switching the costume to skiing`{:class="block3looks"}.
+Pas de skiër zo aan dat het uiterlijk terug verandert naar `skiën`{:class="block3looks"} wanneer het spel opstart door het uiterlijk naar `skiën`{:class="block3looks} te wijzigen.
 
-![skier sprite](images/skier_sprite_small.png)
+![skiër sprite](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
