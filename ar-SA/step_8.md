@@ -1,22 +1,22 @@
-## Adding a score
+## إضافة النتيجة
 
-Each time the skier sprite makes it past an obstacle, they should earn points.
+في كل مرة الكائن المتزلج يتخطى عقبة، يجب أن يكتسب نقاط.
 
-![score](images/score.png)
+![النتيجة](images/score.png)
 
 --- task ---
 
-`Make a variable`{:class="block3variables"} called `score`{:class="block3variables"}
+`اصنع متغير جديد`{:class="block3variables"} يسمى `النتيجة`{:class="block3variables"}
 
 --- /task ---
 
 --- task ---
 
-Add a script to the obstacle sprite to set `score`{:class="block3variables"} to zero at the start of the game.
+أضف كود برمجي إلى كائن العقبة لتعيين `النتيجة `{:class="block3variables"} إلى الصفر في بداية اللعبة.
 
 [[[generic-scratch3-add-variable]]]
 
-![obstacle sprite](images/obstacle_sprite.png)
+![عقبة](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -27,11 +27,11 @@ when green flag clicked
 
 --- task ---
 
-Change the code so that when the obstacle gets to the top of the screen, it `changes score by 1`{:class="block3variables"}.
+قم بتغيير الكود البرمجي بحيث عندما تصل العائق إلى أعلى الشاشة ، فإنه ` يغير النتيجة بمقدار 1 ` {: class = "block3variables"}.
 
-The updated script for the sprite should look like this:
+يجب أن يبدو االكود البرمجي المحدث للكائن على النحو التالي:
 
-![obstacle sprite](images/obstacle_sprite.png)
+![عقبة](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -51,6 +51,6 @@ end
 
 --- task ---
 
-Play the game, see how many points you can score.
+العب اللعبة ، تعرف على عدد النقاط التي يمكنك تسجيلها.
 
 --- /task ---
