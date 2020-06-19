@@ -9,7 +9,7 @@ Tu utiliseras les touches fléchées gauche et droite pour contrôler le sprite 
 Tout d'abord, fais bouger le skieur et oriente le vers la gauche. Ton code doit :
 
 1. Commencer `quand la touche flèche gauche est enfoncée`{:class="block3events"}
-1. Modifier l'inclinaison du sprite `orienté` {:class="block3motion"}
+1. Modifier l'inclinaison du sprite `orienté`{:class="block3motion"}
 1. Déplacer le sprite vers la gauche en `changeant x`{:class="block3motion"}
 
 ![sprite skieur](images/skier_sprite_small.png)

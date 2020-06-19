@@ -31,7 +31,7 @@ Gebruik blokken zoals hierboven om de sprite naar rechts te laten bewegen `wanne
 
 --- hint ---
 
-Voeg blokken aan je code toe zodat `wanneer rechter-pijltjestoets is ingedrukt`{:class="block3events"}, de sprite zich `richt naar 75 graden`{:class="block3motion"} voordat `verander x met 10`{:class="block3motion:}
+Voeg blokken aan je code toe zodat `wanneer rechter-pijltjestoets is ingedrukt`{:class="block3events"}, de sprite zich `richt naar 75 graden`{:class="block3motion"} voordat `verander x met 10`{:class="block3motion"}
 
 --- /hint ---
 

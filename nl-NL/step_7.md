@@ -45,7 +45,7 @@ Maar er is nu een probleem met je spel: wanneer je het spel weer start, draagt d
 
 --- task ---
 
-Pas de skiër zo aan dat het uiterlijk terug verandert naar `skiën`{:class="block3looks"} wanneer het spel opstart door het uiterlijk naar `skiën`{:class="block3looks} te wijzigen.
+Pas de skiër zo aan dat het uiterlijk terug verandert naar `skiën`{:class="block3looks"} wanneer het spel opstart door het uiterlijk naar `skiën`{:class="block3looks"} te wijzigen.
 
 ![skiër sprite](images/skier_sprite_small.png)
 
