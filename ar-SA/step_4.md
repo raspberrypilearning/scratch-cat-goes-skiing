@@ -1,22 +1,22 @@
-## Adding an obstacle
+## إضافة عقبة
 
-Having obstacles to avoid will make your game more challenging, and making them appear at bottom of the screen and travel upwards will create a sense of movement.
+إن وجود عقبات يجب تجنبها سيجعل لعبتك أكثر تحديًا ، علينا جعلها تظهر في أسفل الشاشة والسفر لأعلى لخلق شعور حركة.
 
 --- no-print ---
 
-![obstacle](images/skier_obstacle_moving.gif)
+![عقبة](images/skier_obstacle_moving.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![obstacle](images/skier_obstacle.png)
+![عقبة](images/skier_obstacle.png)
 
 --- /print-only ---
 
 --- task ---
 
-Choose a sprite from the library that will serve as an obstacle — it can be anything you think might be found on a ski slope. Add this new sprite.
+اختر الكائن الذي سيكون عقبة من المكتبة - يمكن أن يكون أي شيء تعتقد أنه يمكن العثور عليه على منحدر التزلج. أضف هذا الكائن الجديد.
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,14 +24,14 @@ Choose a sprite from the library that will serve as an obstacle — it can be an
 
 --- task ---
 
-You now need to add code to the sprite to make it move:
+تحتاج الآن إلى اضافة كود برمجي للكائنات لجعلها تتحرك:
 
-1. `Go to`{:class="block3motion"} the bottom of the slope and `show`{:class="block3looks"}
-1. `Glide`{:class="block3motion"} up the screen
-1. `Hide`{:class="block3looks"} when it reaches the top
-1. `Wait for 1 second`{:class="block3control"} and then repeat
+1. ` اذهب إلى ` {: class = "block3motion"} أسفل المنحدر ` وعرض ` {: class = "block3looks"}
+1. `انزلاق `{:class="block3motion"} الى أعلى الشاشة
+1. ` إخفاء ` {: class = "block3looks"} عندما تصل إلى القمة
+1. ` انتظر ثانية واحدة ` {: class = "block3control"} ثم كرر
 
-![obstacle sprite](images/obstacle_sprite.png)
+![عقبة](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
