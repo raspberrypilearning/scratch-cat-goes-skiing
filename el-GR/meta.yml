@@ -1,0 +1,21 @@
+---
+title: Η γάτα του Scratch πάει για σκι
+hero_image: images/banner.png
+description: Δημιούργησε ένα παιχνίδι σκι, στο οποίο πρέπει να αποφεύγεις εμπόδια
+listed: true
+copyedit: true
+version: 4.3
+last_tested: 2019-01-21
+steps:
+  - title: Εισαγωγή
+  - title: Ξεκινώντας
+  - title: Ελέγχοντας το σκιέρ
+  - title: Προσθέτοντας ένα εμπόδιο
+  - title: "Πρόκληση: Άλλαξε το εμπόδιο"
+    challenge: true
+  - title: Τυχαίο εμπόδιο
+  - title: Σύγκρουση
+  - title: Προσθήκη βαθμολογίας
+  - title: "Δοκιμασία: περισσότερα εμπόδια"
+    challenge: true
+  - title: 'Τι υπάρχει στη συνέχεια;'

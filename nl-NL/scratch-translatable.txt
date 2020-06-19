@@ -1,0 +1,3 @@
+obstakel_x
+
+score
