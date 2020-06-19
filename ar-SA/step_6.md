@@ -1,10 +1,10 @@
-## Random obstacle
+## عقبة عشوائية
 
-At the moment, the obstacle sprite always appears in the same place on the screen, so it's very easy to avoid. To make the game more challenging, obstacles should appear in a different position every time.
+في الوقت الحالي، كانت العقبة تظهر دائما في نفس المكان على الشاشة، لذا من السهل جدا تجنبها. لجعل اللعبة أكثر تحديًا ، يجب أن تظهر العقبات في مكان مختلف في كل مرة.
 
 --- task ---
 
-Make a variable called `obstacle_x`{:class="block3variables"}.
+أنشئ متغيراً يدعى `العقبة_اكس`{:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,9 +12,9 @@ Make a variable called `obstacle_x`{:class="block3variables"}.
 
 --- task ---
 
-At the start of the `forever loop`{:class="block3control"}, `set obstacle_x`{:class="block3variables"} to a `random number`{:class="block3operators"}.
+في بداية ` الحلقة الابدية ` {: class = "block3control"} ، ` عين العقبة_اكس ` {: class = "block3variables"} إلى ` رقم عشوائي ` {: class = "block3operators"}.
 
-![obstacle sprite](images/obstacle_sprite.png)
+![عقبة](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -33,9 +33,9 @@ end
 
 --- task ---
 
-Use the `obstacle_x`{:class="block3variables"} variable in the `go to`{:class="block3motion"} block and the `glide`{:class="block3motion"} block.
+استخدم ` العقبة_اكس ` {: class = "block3variables"} المتغيرة في قالب ` اذهب إلى ` {: class = "block3motion"} و قالب ` الانزلاق ` {: class = "block3motion"}.
 
-![obstacle sprite](images/obstacle_sprite.png)
+![عقبة](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
