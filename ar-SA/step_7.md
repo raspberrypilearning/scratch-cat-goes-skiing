@@ -1,14 +1,14 @@
-## Crashing
+## الاصطدام
 
-If the skier crashes into an obstacle, it should fall over and the game should end.
+إذا اصطدم المتزلج بعائق ، يجب أن يسقط ويجب أن تنتهي اللعبة.
 
-![skier crashed](images/skier_crash.png)
+![متزلج مصطدم](images/skier_crash.png)
 
 --- task ---
 
-Change the code for the skier sprite to `wait until`{:class="block3control"} it is `touching`{:class="block3sensing"} the obstacle, and to then `stop all`{:class="block3control"}.
+قم بتغيير الكود البرمجي الخاص بلمتزلج الى ` انتظر حتى ` {: class = "block3control"} يتم ` لمس ` {: class = "block3sensing"} العائق ، ثم ` ايقاف الكل ` {: class = "block3control"}.
 
-![skier sprite](images/skier_sprite_small.png)
+![متزلج](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -20,11 +20,11 @@ stop [all v]
 
 --- task ---
 
-When the skier crashes, you should also `switch costume to fallenover`{:class="block3looks"}.
+عندما يتحطم المتزلج ، يجب عليك أيضًا ` تبديل المظهر الى السقوط ` {: class = "block3looks"}.
 
-The updated code should look like this:
+يجب أن الكود البرمجي المحدث كما يلي:
 
-![skier sprite](images/skier_sprite_small.png)
+![متزلج](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -37,17 +37,17 @@ stop [all v]
 
 --- task ---
 
-Save and test your code. When the skier hits the obstacle, the costume should change and the game should stop.
+إختبر واحفظ الكود البرمجي الخاص بك. عندما يضرب التزلج العقبة، يجب أن يتغير المظهر ويجب أن تتوقف اللعبة.
 
 --- /task ---
 
-However, there is a now problem with your game: the next time you run it, the skier will still be wearing the `fallenover`{:class="block3looks"} costume.
+ومع ذلك ، هناك الآن مشكلة في لعبتك: في المرة التالية التي تقوم فيها بتشغيلها ، سيظل المتزلج في مظهر ` السقوط ` {: class = "block3looks"}.
 
 --- task ---
 
-Edit the skier's so that their costume changes back to `skiing`{:class="block3looks"} when the game starts by `switching the costume to skiing`{:class="block3looks"}.
+قم بتحرير المتزلج بحيث يتغير المظهر مرة أخرى إلى `التزلج `{:class="block3looks"} عندما تبدأ اللعبة بواسطة `تحويل المظهر إلى التزلج `{:class="block3looks"}.
 
-![skier sprite](images/skier_sprite_small.png)
+![متزلج](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
