@@ -1,3 +1,3 @@
-## What next?
+## ما التالي؟
 
-Take a look at the [Synchronised Swimming](https://projects.raspberrypi.org/en/projects/synchronised-swimming) Scratch project.
+ألق نظرة على مشروع [السباحة المتزامنة](https://projects.raspberrypi.org/en/projects/synchronised-swimming) في برنامج Scratch.
