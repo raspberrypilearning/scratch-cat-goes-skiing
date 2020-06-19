@@ -1,31 +1,31 @@
 ---
-title: Scratch Cat goes skiing
+title: قطة تذهب للتزلج
 hero_image: images/banner.png
-description: Create a skiing game in which you avoid obstacles
+description: قم بإنشاء لعبة تزلج تتجنب فيها العقبات
 listed: true
 copyedit: true
 version: 4.3
 last_tested: 2019-01-21
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Getting started
+    title: الخطوة الأولى
   - 
-    title: Controlling the skier
+    title: السيطرة على المتزلج
   - 
-    title: Adding an obstacle
+    title: إضافة عقبة
   - 
-    title: "Challenge: change the obstacle"
+    title: "التحدي: تغيير العقبة"
     challenge: true
   - 
-    title: Random obstacle
+    title: عقبة عشوائية
   - 
-    title: Crashing
+    title: الاصطدام
   - 
-    title: Adding a score
+    title: إضافة نتيجة
   - 
-    title: "Challenge: more obstacles"
+    title: "التحدي: عوائق أخرى"
     challenge: true
   - 
-    title: 'What next?'
+    title: 'ما التالي؟'
