@@ -1,8 +1,8 @@
-## Challenge: change the obstacle's costume
+## التحدي: تغيير مظهر العقبة
 
-Can you make the obstacle's costume change each time it appears?
+هل يمكنك تغيير شكل العقبة كلما ظهرت؟
 
-If the sprite you have chosen has only have one costume, you could choose a costume from the library, use another sprite or create your own second costume for the one you already have.
+إذا كان الكائن الذي اخترته يحتوي على مظهر واحد فقط، يمكنك اختيار مظهر من المكتبة، استخدم كائن آخر أو أنشئ المظهر الثاني الخاص بك للكائن الذي تملكه بالفعل.
 
 [[[generic-scratch3-add-costume]]]
 
@@ -10,7 +10,7 @@ If the sprite you have chosen has only have one costume, you could choose a cost
 
 --- hint ---
 
-Add the `next costume`{:class="block3looks"} block before the `show`{:class="block3looks"}.
+أضف ` المظهر التالي ` {: class = "block3looks"} قبل ` العرض ` {: class = "block3looks"}.
 
 ```blocks3
 next costume
