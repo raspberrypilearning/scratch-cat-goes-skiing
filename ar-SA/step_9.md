@@ -1,14 +1,14 @@
-## Challenge: adding more obstacles
+## التحدي: إضافة المزيد من العقبات
 
-Add more sprites from the library as obstacles to make your game trickier!
+أضف المزيد من الكائنات من المكتبة كعقبات لجعل لعبتك اصعب!
 
-![more obstacles](images/skiing-final.png)
+![المزيد من العقبات](images/skiing-final.png)
 
-When you add a new obstacle, you will need to think about:
+عندما تضيف عقبة جديدة ، ستحتاج إلى التفكير في:
 
-1. Which sprite to use
-1. What happens when the skier crashes into it
-1. Whether to increase the score (and by how much) when the skier makes it past
+1. أي كائن يمكن استخدامه
+1. ماذا يحدث عندما يتحطم المتزلج عليها
+1. ما إذا كنت تريد زيادة النتيجة (ومقدارها) عندما يكون المتزوج قد تجاوز العقبة او لا
 
-If you need help, go back to the step in this project where you created the first obstacle.
+إذا كنت بحاجة إلى المساعدة ، فارجع إلى الخطوة في هذا المشروع حيث أنشأت أول عقبة.
 
