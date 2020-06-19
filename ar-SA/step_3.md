@@ -1,18 +1,18 @@
-## Controlling the skier
+## التحكم في المتزلج
 
-You will use the left and right arrow keys to control the skier sprite, making it go left and right across the slope.
+ستستخدم مفتاحي السهمين الأيسر والأيمن للتحكم في الكائن المتزلج ، مما يجعلها تتحرك يمينًا ويسارًا عبر المنحدر.
 
-![skier moving](images/skier_moving.gif)
+![متزلج يتحرك](images/skier_moving.gif)
 
 --- task ---
 
-First, make the skier move and point to the left. Your code needs to:
+أولا، اجعل المتزلج يتحرك أكثر ويشير إلى نقطة اليسار. الكود البرمجي الذي ستحتاجه:
 
-1. Start `when the left arrow key is pressed`{:class="block3events"}
-1. Change the angle the sprite is `pointed`{:class="block3motion"}
-1. Move the sprite to the left by `changing x`{:class="block3motion"}
+1. ابدأ ` عند الضغط على مفتاح السهم الأيسر ` {: class = "block3events"}
+1. قم بتغيير زاوية الكائن الى ` النقطة ` {: class = "block3motion"}
+1. انقل النقش إلى اليسار بتغيير ` بتغيير x ` {: class = "block3motion"}
 
-![skier sprite](images/skier_sprite_small.png)
+![المتزلج](images/skier_sprite_small.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -24,19 +24,19 @@ change x by (-10)
 
 --- task ---
 
-Use blocks similar to the ones above to make the sprite move to the right `when the right arrow key is pressed`{:class="block3events"}.
+استخدم القطع المشابهة لتلك أعلاه لجعل الكائن يتحرك إلى اليمين `عند الضغط على السهم الأيمن `{:class="block3events"}.
 
 --- hints ---
 
 --- hint ---
 
-Add blocks to your code so `when the right arrow key is pressed`{:class="block3events"}, the sprite `points in the direction 75 degrees`{:class="block3motion"} before `changing the x position by 10`{:class="block3motion"}
+أضف الكتل إلى التعليمات البرمجية الخاصة بك حتى ` عند الضغط على مفتاح السهم الأيمن ` {: class = "block3events"} ، يشير الرمز المتحرك ` إلى الاتجاه 75 درجة ` {: class = "block3motion"} قبل ` تغيير الموضع x بمقدار 10 ` {: class = "block3motion"}
 
 --- /hint ---
 
 --- hint ---
 
-You will need these blocks:
+ستحتاج إلى هذه الكتل:
 
 ```blocks3
 
@@ -51,9 +51,9 @@ change x by (10)
 
 --- hint ---
 
-Your code should look like this:
+يجب أن يبدو الكود البرمجي خاصتك بالشكل التالي:
 
-![skier sprite](images/skier_sprite_small.png)
+![المتزلج](images/skier_sprite_small.png)
 
 ```blocks3
 when [right arrow v] key pressed
@@ -69,6 +69,6 @@ change x by (10)
 
 --- task ---
 
-Test your program
+اختبر مشروعك
 
 --- /task ---
