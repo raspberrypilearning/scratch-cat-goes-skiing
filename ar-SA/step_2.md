@@ -1,28 +1,28 @@
-## Getting started
+## الخطوة الأولى
 
 --- task ---
 
-Open the Scratch starter project.
+افتح مشروع جديد من برنامج سكراتش.
 
-**Online**: open the starter project at [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
+**متصل بالانترنت**: افتح المشروع الاولي من هنا [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+اذا كنت تملك حساب على منصة Scratch فيمكنك عمل نسخة بالضغط على **Remix**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} in the offline editor.
+**دون اتصال بالانترنت**: افتح [المشروع الاولي](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} عبر المحرر الموجود على جهازك.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+اذا كنت تحتاج تنزيل و تنصيب محرر Scratch للعمل دون اتصال بالانترنت, فيمكنك ايجاده على الرابط [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a blank backdrop and a skier sprite.
+في المشروع الاولي ، من المفترض أن ترى خلفية فارغة مع الكائن المتزلج.
 
-![starter projects](images/starter_project.png)
+![المشاريع الاولية](images/starter_project.png)
 
 --- /task ---
 
 --- task ---
 
-Paint a new backdrop for your ski slope: fill the background grey, and add some straight lines.
+ارسم خلفية جديدة لمنحدر التزلج الخاص بك: املأ الخلفية باللون الرمادي وأضف بعض الخطوط المستقيمة.
 
-![ski slope backdrop](images/backdrop.png)
+![خلفية منحدر التزلج](images/backdrop.png)
 
 [[[generic-scratch3-paint-new-backdrop]]]
 
@@ -30,11 +30,11 @@ Paint a new backdrop for your ski slope: fill the background grey, and add some 
 
 --- task ---
 
-Add code to your skiing cat sprite so that it appears at the top of the slope and faces downhill `when the flag is clicked`{:class="block3events"}.
+أضف كود برمجي إلى الكائن المتزلج الخاص بك بحيث يظهر في الاعلى ويواجه المنحدر ` عند النقر على العلم ` {: class = "block3events"}.
 
-![skier on slope](images/skier_on_the_slope.png)
+![متزلج على المنحدر](images/skier_on_the_slope.png)
 
-![skier sprite](images/skier_sprite_small.png)
+![المتزلج](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -46,7 +46,7 @@ point in direction (90 v)
 
 --- task ---
 
-Save and test your project.
+إختبر واحفظ المشروع الخاص بك.
 
 [[[generic-scratch3-saving]]]
 
