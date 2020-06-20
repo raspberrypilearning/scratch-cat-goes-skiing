@@ -1,6 +1,6 @@
-## Random obstacle
+## Obstáculo aleatorio
 
-At the moment, the obstacle sprite always appears in the same place on the screen, so it's very easy to avoid. To make the game more challenging, obstacles should appear in a different position every time.
+Por el momento, el objeto de obstáculo aparece siempre en el mismo lugar en la pantalla, por lo que es muy fácil de evitar. To make the game more challenging, obstacles should appear in a different position every time.
 
 --- task ---
 
