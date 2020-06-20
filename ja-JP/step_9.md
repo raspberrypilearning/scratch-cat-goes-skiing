@@ -1,14 +1,14 @@
-## Challenge: adding more obstacles
+## チャレンジ: 障害物をふやす
 
-Add more sprites from the library as obstacles to make your game trickier!
+ゲームをよりむかしくするために、ライブラリからスプライトを追加しましょう。
 
-![more obstacles](images/skiing-final.png)
+![より多くの障害物](images/skiing-final.png)
 
-When you add a new obstacle, you will need to think about:
+新しい障害物を追加するときは、次のことを考える必要があります：
 
-1. Which sprite to use
-1. What happens when the skier crashes into it
-1. Whether to increase the score (and by how much) when the skier makes it past
+1. どのスクライトを使用するか
+1. スキーヤーが衝突した場合は何が起きるか
+1. スキーヤーが障害物を通過するたびに得点を（どれくらい）増やすか
 
-If you need help, go back to the step in this project where you created the first obstacle.
+助けが必要な場合は、このプロジェクトで最初の障害物を作成したステップに戻ってください。
 
