@@ -1,31 +1,31 @@
 ---
-title: Scratch Cat goes skiing
+title: Scrachネコがスキーに行く
 hero_image: images/banner.png
-description: Create a skiing game in which you avoid obstacles
+description: 障害物をさけるスキーゲームをつくる
 listed: true
 copyedit: true
 version: 4.3
 last_tested: 2019-01-21
 steps:
   - 
-    title: Introduction
+    title: はじめに
   - 
-    title: Getting started
+    title: はじめましょう
   - 
-    title: Controlling the skier
+    title: スキーヤーを操作する
   - 
-    title: Adding an obstacle
+    title: 障害物を付け加える
   - 
-    title: "Challenge: change the obstacle"
+    title: "チャレンジ：障害物をかえる"
     challenge: true
   - 
-    title: Random obstacle
+    title: ランダムな障害物
   - 
-    title: Crashing
+    title: ぶつかった
   - 
-    title: Adding a score
+    title: 得点を追加する
   - 
-    title: "Challenge: more obstacles"
+    title: "チャレンジ：障害物をふやす"
     challenge: true
   - 
-    title: 'What next?'
+    title: '次は何をしましょうか？'
