@@ -16,7 +16,7 @@ Añade un script al objeto de obstáculo para establecer `puntuación`{:class="b
 
 [[[generic-scratch3-add-variable]]]
 
-![obstacle sprite](images/obstacle_sprite.png)
+![objeto de obstáculo](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -29,9 +29,9 @@ when green flag clicked
 
 Change the code so that when the obstacle gets to the top of the screen, it `changes score by 1`{:class="block3variables"}.
 
-The updated script for the sprite should look like this:
+El script actualizado para el objeto debería verse así:
 
-![obstacle sprite](images/obstacle_sprite.png)
+![objeto de obstáculo](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
