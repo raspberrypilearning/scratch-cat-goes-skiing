@@ -1,14 +1,14 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2).
+Esta es la versión **Scratch 3** del proyecto. También hay una [versión Scratch 2 del proyecto](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2).
 
 --- /no-print ---
 
-## Introduction
+## Introducción
 
-You are going to use Scratch to create a skiing game in which you have to avoid randomly appearing obstacles to score points.
+Vas a usar Scratch para crear un juego de esquí en el que para ganar puntos tendrás que evitar los obstáculos aleatorios que vayan apareciendo.
 
-### What you will make
+### Lo que harás
 
 --- no-print ---
 
