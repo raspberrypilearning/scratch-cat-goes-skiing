@@ -1,10 +1,10 @@
-## Random obstacle
+## ランダムな障害物
 
-At the moment, the obstacle sprite always appears in the same place on the screen, so it's very easy to avoid. To make the game more challenging, obstacles should appear in a different position every time.
+今のところ、障害物のスプライトは画面のいつも同じ場所から現れるので、とてもかんたんに避けることができます。 ゲームをよりむつかしくするために、障害物が毎回別の場所から現れるようにする必要があります。
 
 --- task ---
 
-Make a variable called `obstacle_x`{:class="block3variables"}.
+`障害物_x`{:class="block3variables"}という名前の変数をつくります。
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,9 +12,9 @@ Make a variable called `obstacle_x`{:class="block3variables"}.
 
 --- task ---
 
-At the start of the `forever loop`{:class="block3control"}, `set obstacle_x`{:class="block3variables"} to a `random number`{:class="block3operators"}.
+`ずっと`{:class="block3control"}ブロックの最初で`障害物_x`{:class="block3variables"}を`乱数`{:class="block3operators"}に設定します。
 
-![obstacle sprite](images/obstacle_sprite.png)
+![障害物のスプライト](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -33,9 +33,9 @@ end
 
 --- task ---
 
-Use the `obstacle_x`{:class="block3variables"} variable in the `go to`{:class="block3motion"} block and the `glide`{:class="block3motion"} block.
+`行く`{:class="block3motion"}ブロックと`滑って行く`{:class="block3motion"}ブロックの中で変数`障害物_x`{:class="block3variables"}を使います。
 
-![obstacle sprite](images/obstacle_sprite.png)
+![障害物のスプライト](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
