@@ -1,22 +1,22 @@
-## Adding an obstacle
+## 障害物を付け加える
 
-Having obstacles to avoid will make your game more challenging, and making them appear at bottom of the screen and travel upwards will create a sense of movement.
+避けなければならない障害物があると、ゲームがよりむつかしくなり、障害物が画面の下から現れて上方向に移動することで、動いているような感覚が生まれます。
 
 --- no-print ---
 
-![obstacle](images/skier_obstacle_moving.gif)
+![障害物](images/skier_obstacle_moving.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![obstacle](images/skier_obstacle.png)
+![障害物](images/skier_obstacle.png)
 
 --- /print-only ---
 
 --- task ---
 
-Choose a sprite from the library that will serve as an obstacle — it can be anything you think might be found on a ski slope. Add this new sprite.
+ライブラリから障害物になるスプライトを選びます。選ぶスプライトはスキー場にありそうなものなら何でも良いです。 新しいスプライトを追加します。
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,14 +24,14 @@ Choose a sprite from the library that will serve as an obstacle — it can be an
 
 --- task ---
 
-You now need to add code to the sprite to make it move:
+次に、スプライトを動かすためにコードを追加する必要があります：
 
-1. `Go to`{:class="block3motion"} the bottom of the slope and `show`{:class="block3looks"}
-1. `Glide`{:class="block3motion"} up the screen
-1. `Hide`{:class="block3looks"} when it reaches the top
-1. `Wait for 1 second`{:class="block3control"} and then repeat
+1. 斜面の下(のX座標、Y座標)へ`行き`{:class="block3motion"}、`表示`{:class="block3looks"}します。
+1. 画面の上に向かって`滑って行かせ`{:class="block3motion"}(X座標、Y座標を変え)ます。
+1. 上まで行ったら`隠し`{:class="block3looks"}ます。
+1. `1秒待って`{:class="block3control"}から繰り返します。
 
-![obstacle sprite](images/obstacle_sprite.png)
+![障害物のスプライト](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
