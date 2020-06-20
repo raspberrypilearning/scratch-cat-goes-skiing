@@ -1,3 +1,3 @@
-## What next?
+## 次は何をしましょうか？
 
-Take a look at the [Synchronised Swimming](https://projects.raspberrypi.org/en/projects/synchronised-swimming) Scratch project.
+Scratchプロジェクト[アーティスティックスイミング](https://projects.raspberrypi.org/en/projects/synchronised-swimming)を見てください。
