@@ -1,22 +1,22 @@
-## Adding a score
+## 得点を追加する
 
-Each time the skier sprite makes it past an obstacle, they should earn points.
+スキーヤーのスプライトが障害物を通過するたびに、得点を得られるようにする必要があります。
 
-![score](images/score.png)
+![得点](images/score.png)
 
 --- task ---
 
-`Make a variable`{:class="block3variables"} called `score`{:class="block3variables"}
+`得点`{:class="block3variables"}という名前の`変数を作ります`{:class="block3variables"}。
 
 --- /task ---
 
 --- task ---
 
-Add a script to the obstacle sprite to set `score`{:class="block3variables"} to zero at the start of the game.
+スクリプトを障害物のスプライトに追加して、ゲーム開始時に`得点`{:class="block3variables"}をゼロに設定します。
 
 [[[generic-scratch3-add-variable]]]
 
-![obstacle sprite](images/obstacle_sprite.png)
+![障害物のスプライト](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -27,11 +27,11 @@ when green flag clicked
 
 --- task ---
 
-Change the code so that when the obstacle gets to the top of the screen, it `changes score by 1`{:class="block3variables"}.
+コードを変更し、障害物が画面の上部に達したときに、`得点を1ずつ変更します`{:class="block3variables"}
 
-The updated script for the sprite should look like this:
+スプライト用に更新されたスクリプトは次のようになります：
 
-![obstacle sprite](images/obstacle_sprite.png)
+![障害物のスプライト](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -51,6 +51,6 @@ end
 
 --- task ---
 
-Play the game, see how many points you can score.
+ゲームで遊んで、何点取れるか確認してください。
 
 --- /task ---
