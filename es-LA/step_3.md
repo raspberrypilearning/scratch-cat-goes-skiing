@@ -1,4 +1,4 @@
-## Controlling the skier
+## Controlar al esquiador
 
 You will use the left and right arrow keys to control the skier sprite, making it go left and right across the slope.
 
@@ -6,11 +6,11 @@ You will use the left and right arrow keys to control the skier sprite, making i
 
 --- task ---
 
-First, make the skier move and point to the left. Your code needs to:
+Primero, haz que el esquiador se mueva y apunte hacia la izquierda. Tu código necesita:
 
-1. Start `when the left arrow key is pressed`{:class="block3events"}
-1. Change the angle the sprite is `pointed`{:class="block3motion"}
-1. Move the sprite to the left by `changing x`{:class="block3motion"}
+1. Iniciar `cuando se presiona la tecla de flecha izquierda`{:class="block3events"}
+1. Cambiar el ángulo al que el objeto está `apuntando`{:class="block3motion"}
+1. Mover el objeto a la izquierda `al cambiar x`{:class="block3motion"}
 
 ![skier sprite](images/skier_sprite_small.png)
 
