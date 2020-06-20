@@ -1,8 +1,8 @@
-## Challenge: change the obstacle's costume
+## チャレンジ：障害物をかえる
 
-Can you make the obstacle's costume change each time it appears?
+障害物が現れるたびに障害物のコスチュームをかえられますか？
 
-If the sprite you have chosen has only have one costume, you could choose a costume from the library, use another sprite or create your own second costume for the one you already have.
+選んだコスチュームが1つしかない場合は、ライブラリからコスチュームを選ぶか、別のスプライトを使うか、すでに持っているコスチュームで2つめのコスチュームをつくります。
 
 [[[generic-scratch3-add-costume]]]
 
@@ -10,7 +10,7 @@ If the sprite you have chosen has only have one costume, you could choose a cost
 
 --- hint ---
 
-Add the `next costume`{:class="block3looks"} block before the `show`{:class="block3looks"}.
+`表示する`{:class="block3looks"}の前に`次のコスチュームにする`{:class="block3looks}ブロックを追加します。
 
 ```blocks3
 next costume
