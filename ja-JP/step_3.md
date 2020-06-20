@@ -24,19 +24,19 @@ change x by (-10)
 
 --- task ---
 
-Use blocks similar to the ones above to make the sprite move to the right `when the right arrow key is pressed`{:class="block3events"}.
+上と同じようにブロックを使って、`右向き矢印キーが押されたとき`{:class="block3events"}にスプライトを右に動かします。
 
 --- hints ---
 
 --- hint ---
 
-Add blocks to your code so `when the right arrow key is pressed`{:class="block3events"}, the sprite `points in the direction 75 degrees`{:class="block3motion"} before `changing the x position by 10`{:class="block3motion"}
+コードにブロックを追加し、`右向き矢印キーが押されたとき`{:class="block3events"}に、スプライトを`75度に向けて`{:class="block3motion"}`から、x座標を10だけ変える`{:class="block3motion"}ようにします。
 
 --- /hint ---
 
 --- hint ---
 
-You will need these blocks:
+次のブロックが必要になります：
 
 ```blocks3
 
@@ -51,9 +51,9 @@ change x by (10)
 
 --- hint ---
 
-Your code should look like this:
+コードは以下のようになります：
 
-![skier sprite](images/skier_sprite_small.png)
+![スキーヤーのスプライト](images/skier_sprite_small.png)
 
 ```blocks3
 when [right arrow v] key pressed
@@ -69,6 +69,6 @@ change x by (10)
 
 --- task ---
 
-Test your program
+プログラムを試してみましょう。
 
 --- /task ---
