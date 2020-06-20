@@ -1,18 +1,18 @@
-## Controlling the skier
+## スキーヤーを操作する
 
-You will use the left and right arrow keys to control the skier sprite, making it go left and right across the slope.
+左右の矢印キーを使ってスキーヤーのスプライトを操作し、斜面を左右に移動します。
 
-![skier moving](images/skier_moving.gif)
+![スキーヤーの移動](images/skier_moving.gif)
 
 --- task ---
 
-First, make the skier move and point to the left. Your code needs to:
+まず、スキーヤーを動かして左を向かせます。 コードは、以下のようになっている必要があります：
 
-1. Start `when the left arrow key is pressed`{:class="block3events"}
-1. Change the angle the sprite is `pointed`{:class="block3motion"}
-1. Move the sprite to the left by `changing x`{:class="block3motion"}
+1. `左向き矢印キーが押されたとき`{:class="block3events"}に
+1. スプライトが`向けられている`{:class="block3motion"}角度を変える
+1. `x座標を変えて`{:class="block3motion"}スプライトを左に移動する
 
-![skier sprite](images/skier_sprite_small.png)
+![スキーヤーのスプライト](images/skier_sprite_small.png)
 
 ```blocks3
 when [left arrow v] key pressed
