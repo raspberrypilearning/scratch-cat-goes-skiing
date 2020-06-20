@@ -1,18 +1,18 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2).
+これはプロジェクトの**Scratch 3**バージョンです。 [Scratch 2バージョンのプロジェクト](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2)もあります。
 
 --- /no-print ---
 
-## Introduction
+## はじめに
 
-You are going to use Scratch to create a skiing game in which you have to avoid randomly appearing obstacles to score points.
+Scratchを使って、ランダムに現れる障害物を避けて得点するスキーゲームをつくります。
 
-### What you will make
+### 作るもの
 
 --- no-print ---
 
-Click on the green flag to start. Use the left and right arrow keys to control the skier.
+緑の旗（はた）をクリックしてスタートします。 左右の矢印キーを使ってスキーヤーを操作します。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,52 +23,52 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 
 --- print-only ---
 
-![complete project](images/skiing-final.png)
+![完成したプロジェクト](images/skiing-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: 必要なもの
 ---
 
-### Hardware
+### ハードウェア
 
-+ A computer capable of running Scratch
++ Scratchを実行できるコンピュータ
 
-### Software
+### ソフトウェア
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3（[オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"}）
 
-### Downloads
+### ダウンロード
 
-The starter project can be found [here](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}.
+基本（きほん）のプロジェクトは [こちら](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}にあります。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 学ぶこと
 ---
 
-+ How to control sprites using the keyboard
-+ How to draw a backdrop
-+ How to animate sprites
-+ Use random numbers
++ キーボードを使ってスプライトを操作する方法
++ 背景を描（えが）く方法
++ スプライトを動かす方法
++ 乱数（らんすう）を使う方法
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 教育者向けの追加情報
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、[印刷用バージョン](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_ blank"}を使用してください。
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}.
+[完成したプロジェクトはこちらに](http://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}あります 。
 
 --- /collapse ---
