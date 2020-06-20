@@ -1,14 +1,14 @@
-## Crashing
+## ぶつかった
 
-If the skier crashes into an obstacle, it should fall over and the game should end.
+スキーヤーが障害物にぶつかったら、転倒してゲームを終了する必要があります。
 
-![skier crashed](images/skier_crash.png)
+![スキーヤーがぶつかった](images/skier_crash.png)
 
 --- task ---
 
-Change the code for the skier sprite to `wait until`{:class="block3control"} it is `touching`{:class="block3sensing"} the obstacle, and to then `stop all`{:class="block3control"}.
+スキーヤーのスクリプトのコードを変えて、スキーヤーが障害物に`触れる`{:class="block3sensing"}まで`待って`{:class="block3control"}、`すべて止めます`{:class="block3control"}。
 
-![skier sprite](images/skier_sprite_small.png)
+![スキーヤーのスクリプト](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -20,11 +20,11 @@ stop [all v]
 
 --- task ---
 
-When the skier crashes, you should also `switch costume to fallenover`{:class="block3looks"}.
+スキーヤーがぶつかったら、`転倒したコスチュームに切り替える`{:class="block3looks"}必要もあります。
 
-The updated code should look like this:
+更新したコードは次のようになります：
 
-![skier sprite](images/skier_sprite_small.png)
+![スキーヤーのスプライト](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -37,17 +37,17 @@ stop [all v]
 
 --- task ---
 
-Save and test your code. When the skier hits the obstacle, the costume should change and the game should stop.
+コードを保存して試します。 スキーヤーが障害物に当たった場合、コスチュームが変わり、ゲームが終了する必要があります。
 
 --- /task ---
 
-However, there is a now problem with your game: the next time you run it, the skier will still be wearing the `fallenover`{:class="block3looks"} costume.
+ただし、ゲームに問題があります。次にゲームを実行するとき、スキーヤーはまだ`転倒`{:class="block3looks"}コスチュームのままです。
 
 --- task ---
 
-Edit the skier's so that their costume changes back to `skiing`{:class="block3looks"} when the game starts by `switching the costume to skiing`{:class="block3looks"}.
+スキーヤーのコードを編集して、ゲームを開始するときに`コスチュームをスキーにする`{:class="block3looks"}でコスチュームが`スキー`{:class="block3looks"}に戻るようにします。
 
-![skier sprite](images/skier_sprite_small.png)
+![スキーヤーのスプライト](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
