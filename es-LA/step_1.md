@@ -12,7 +12,7 @@ Vas a usar Scratch para crear un juego de esquí en el que para ganar puntos ten
 
 --- no-print ---
 
-Click on the green flag to start. Use the left and right arrow keys to control the skier.
+Haz clic en la bandera verde para empezar. Para controlar al esquiador usa la tecla de flecha izquierda y derecha.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,52 +23,52 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 
 --- print-only ---
 
-![complete project](images/skiing-final.png)
+![proyecto completo](images/skiing-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Lo que necesitarás
 ---
 
 ### Hardware
 
-+ A computer capable of running Scratch
++ Un computador capaz de ejecutar Scratch
 
 ### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (ya sea [en línea](http://rpf.io/scratchon){:target="_blank"} o [sin conexión](http://rpf.io/scratchoff) {:target="_blank"})
 
-### Downloads
+### Descargas
 
-The starter project can be found [here](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}.
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ How to control sprites using the keyboard
-+ How to draw a backdrop
-+ How to animate sprites
-+ Use random numbers
+Puedes encontrar el proyecto de iniciación [aquí](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Lo que vas a aprender
+---
+
++ Cómo controlar los objetos al usar el teclado
++ Cómo dibujar un fondo
++ Cómo animar objetos
++ Usar números aleatorios
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Información adicional para educadores
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}.
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}.
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}.
+Puedes encontrar el [proyecto completo aquí](http://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}.
 
 --- /collapse ---
