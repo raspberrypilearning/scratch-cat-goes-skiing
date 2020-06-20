@@ -1,6 +1,6 @@
-## Adding a score
+## Añadir una puntuación
 
-Each time the skier sprite makes it past an obstacle, they should earn points.
+Cada vez que el objeto esquiador supere un obstáculo, deberían ganar puntos.
 
 ![score](images/score.png)
 
@@ -12,7 +12,7 @@ Each time the skier sprite makes it past an obstacle, they should earn points.
 
 --- task ---
 
-Add a script to the obstacle sprite to set `score`{:class="block3variables"} to zero at the start of the game.
+Añade un script al objeto de obstáculo para establecer `puntuación`{:class="block3variables"} a cero al comienzo del juego.
 
 [[[generic-scratch3-add-variable]]]
 
