@@ -8,7 +8,7 @@ If the skier crashes into an obstacle, it should fall over and the game should e
 
 Change the code for the skier sprite to `wait until`{:class="block3control"} it is `touching`{:class="block3sensing"} the obstacle, and to then `stop all`{:class="block3control"}.
 
-![skier sprite](images/skier_sprite_small.png)
+![objeto esquiador](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -20,11 +20,11 @@ stop [all v]
 
 --- task ---
 
-When the skier crashes, you should also `switch costume to fallenover`{:class="block3looks"}.
+Cuando el esquiador choca, también deberías `cambiar el disfraz a caído`{:class="block3looks"}.
 
-The updated code should look like this:
+El código actualizado debería verse así:
 
-![skier sprite](images/skier_sprite_small.png)
+![objeto esquiador](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -37,7 +37,7 @@ stop [all v]
 
 --- task ---
 
-Save and test your code. When the skier hits the obstacle, the costume should change and the game should stop.
+Guarda y prueba tu código. Cuando el esquiador golpea el obstáculo, el traje debería cambiar y el juego terminar.
 
 --- /task ---
 
@@ -47,7 +47,7 @@ However, there is a now problem with your game: the next time you run it, the sk
 
 Edit the skier's so that their costume changes back to `skiing`{:class="block3looks"} when the game starts by `switching the costume to skiing`{:class="block3looks"}.
 
-![skier sprite](images/skier_sprite_small.png)
+![objeto esquiador](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
