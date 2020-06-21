@@ -1,10 +1,10 @@
-## Random obstacle
+## 隨機障礙物
 
-At the moment, the obstacle sprite always appears in the same place on the screen, so it's very easy to avoid. To make the game more challenging, obstacles should appear in a different position every time.
+此刻，障礙物精靈始終出現在屏幕上的同一位置，因此很容易避開。 為了使遊戲更具挑戰性，障礙物每次都應出現在不同的位置。
 
 --- task ---
 
-Make a variable called `obstacle_x`{:class="block3variables"}.
+創建一個名為` 障礙物_X`{:class =“ block3variables”}的變量 。
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,9 +12,9 @@ Make a variable called `obstacle_x`{:class="block3variables"}.
 
 --- task ---
 
-At the start of the `forever loop`{:class="block3control"}, `set obstacle_x`{:class="block3variables"} to a `random number`{:class="block3operators"}.
+在`永遠循環` {:class =“ block3control”}開始時，`設置障礙物_X ` {:class =“ block3variables”}並設為`隨機數` {:class =“ block3operators”}。
 
-![obstacle sprite](images/obstacle_sprite.png)
+![障礙物精靈](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -33,9 +33,9 @@ end
 
 --- task ---
 
-Use the `obstacle_x`{:class="block3variables"} variable in the `go to`{:class="block3motion"} block and the `glide`{:class="block3motion"} block.
+在`去` {:class =“ block3motion”}程式塊和`滑行` {:class =“ block3motion”}程式塊中，使用` 障礙物_X` 的變量{:class =“ block3variables”}。
 
-![obstacle sprite](images/obstacle_sprite.png)
+![障礙物精靈](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
