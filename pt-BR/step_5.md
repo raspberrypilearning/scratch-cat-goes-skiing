@@ -1,8 +1,8 @@
-## Challenge: change the obstacle's costume
+## Desafio: Mude a fantasia do obstáculo
 
-Can you make the obstacle's costume change each time it appears?
+Você consegue fazer a fantasia do obstáculo mudar cada vez que ele aparecer?
 
-If the sprite you have chosen has only have one costume, you could choose a costume from the library, use another sprite or create your own second costume for the one you already have.
+Se o ator que você escolheu tiver apenas uma fantasia, você pode escolher uma fantasia da biblioteca, usar outro ator ou criar sua própria segunda fantasia para aquele que você já tem.
 
 [[[generic-scratch3-add-costume]]]
 
@@ -10,7 +10,7 @@ If the sprite you have chosen has only have one costume, you could choose a cost
 
 --- hint ---
 
-Add the `next costume`{:class="block3looks"} block before the `show`{:class="block3looks"}.
+Adicione o bloco de `próxima fantasia`{:class="block3looks"} antes do `mostrar`{:class="block3look"}.
 
 ```blocks3
 next costume
