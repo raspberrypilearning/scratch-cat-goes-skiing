@@ -12,7 +12,7 @@ Crea una variable que se llame `obstaculo_x`{:class="block3variables"}.
 
 --- task ---
 
-At the start of the `forever loop`{:class="block3control"}, `set obstacle_x`{:class="block3variables"} to a `random number`{:class="block3operators"}.
+Al comienzo del `bucle para siempre`{:class="block3control"}, `fijar obstaculo_x`{:class="block3variables"} a un `número aleatorio`{:class="block3operators"}.
 
 ![objeto de obstáculo](images/obstacle_sprite.png)
 
