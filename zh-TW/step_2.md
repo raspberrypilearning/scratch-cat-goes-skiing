@@ -1,28 +1,28 @@
-## Getting started
+## 準備開始
 
 --- task ---
 
-Open the Scratch starter project.
+打開Scratch初始專案。
 
-**Online**: open the starter project at [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
+**線上版** ：在[ rpf.io/skiingon中打開初始專案](http://rpf.io/skiingon) {:target =“ _ blank”}。
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+如果你有 Scratch 帳戶，你就可以直接**改編**專案。
 
-**Offline**: open the [starter project](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} in the offline editor.
+**離線版** ：在離線編輯器中打開[ 起始項目](http://rpf.io/p/en/scratch-cat-goes-skiing-go) {:target =“ _ blank”}。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+如果你需要 Scratch 離線版編輯器，可以連結到 [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}。
 
-In the starter project, you should see a blank backdrop and a skier sprite.
+在初始專案中，您應該看到一個空白的背景和一個滑雪者精靈。
 
-![starter projects](images/starter_project.png)
+![初始專案](images/starter_project.png)
 
 --- /task ---
 
 --- task ---
 
-Paint a new backdrop for your ski slope: fill the background grey, and add some straight lines.
+為你的滑雪坡道繪製一個新的背景：填充背景灰色，並添加一些直線。
 
-![ski slope backdrop](images/backdrop.png)
+![滑雪坡背景](images/backdrop.png)
 
 [[[generic-scratch3-paint-new-backdrop]]]
 
@@ -30,11 +30,11 @@ Paint a new backdrop for your ski slope: fill the background grey, and add some 
 
 --- task ---
 
-Add code to your skiing cat sprite so that it appears at the top of the slope and faces downhill `when the flag is clicked`{:class="block3events"}.
+將程式添加到你的滑雪貓精靈，以便` 在點擊旗幟時` {:class =“ block3events”}，貓精靈會顯示在斜坡的頂部並面向下坡。
 
-![skier on slope](images/skier_on_the_slope.png)
+![滑雪者在斜坡上](images/skier_on_the_slope.png)
 
-![skier sprite](images/skier_sprite_small.png)
+![滑雪貓精靈](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -46,7 +46,7 @@ point in direction (90 v)
 
 --- task ---
 
-Save and test your project.
+保存並測試你的專案。
 
 [[[generic-scratch3-saving]]]
 
