@@ -1,8 +1,8 @@
 ## Controlar al esquiador
 
-You will use the left and right arrow keys to control the skier sprite, making it go left and right across the slope.
+Utilizarás la tecla de flecha izquierda y derecha para controlar el objeto esquiador, moviéndolo a la izquierda y a la derecha por la pista.
 
-![esquiador en movimiento](images/skier_moving.gif)
+![esquiador en movimiento](imágenes/skier_moving.gif)
 
 --- task ---
 
@@ -15,9 +15,9 @@ Primero, haz que el esquiador se mueva y apunte hacia la izquierda. Tu código n
 ![objeto esquiador](images/skier_sprite_small.png)
 
 ```blocks3
-when [left arrow v] key pressed
-point in direction (105 v)
-change x by (-10)
+al presionar la tecla [flecha izquierda v] 
+apuntar en dirección (105 v)
+cambiar x en (-10)
 ```
 
 --- /task ---
@@ -40,11 +40,11 @@ Necesitarás estos bloques:
 
 ```blocks3
 
-point in direction (75 v)
+apunta en dirección (75 v)
 
-when [right arrow v] key pressed
+al presionar la tecla [flecha derecha v]
 
-change x by (10)
+cambiar x en (10)
 ```
 
 --- /hint ---
@@ -56,9 +56,9 @@ Tu código debería verse así:
 ![objeto esquiador](images/skier_sprite_small.png)
 
 ```blocks3
-when [right arrow v] key pressed
-point in direction (75 v)
-change x by (10)
+al presionar la tecla [flecha derecha v]
+apunta en dirección (75 v)
+cambiar x en (10)
 ```
 
 --- /hint ---
