@@ -1,14 +1,14 @@
-## Challenge: adding more obstacles
+## 挑戰：增加更多的障礙物
 
-Add more sprites from the library as obstacles to make your game trickier!
+從圖庫中添加更多精靈作為障礙物，使你的遊戲更加刺激！
 
-![more obstacles](images/skiing-final.png)
+![更多障礙物](images/skiing-final.png)
 
-When you add a new obstacle, you will need to think about:
+添加新障礙物時，你需要考慮：
 
-1. Which sprite to use
-1. What happens when the skier crashes into it
-1. Whether to increase the score (and by how much) when the skier makes it past
+1. 使用哪個精靈
+1. 滑雪者撞上後會發生什麼事
+1. 滑雪者閃過時是否增加分數(以及增加多少)
 
-If you need help, go back to the step in this project where you created the first obstacle.
+如果需要幫助，請返回該專案中創建第一個障礙物的地方。
 
