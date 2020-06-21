@@ -1,14 +1,14 @@
-## Crashing
+## Batendo
 
-If the skier crashes into an obstacle, it should fall over and the game should end.
+Se o esquiador bater em um obstáculo, ele deve cair e o jogo deve terminar.
 
-![skier crashed](images/skier_crash.png)
+![esquiador batido](images/skier_crash.png)
 
 --- task ---
 
-Change the code for the skier sprite to `wait until`{:class="block3control"} it is `touching`{:class="block3sensing"} the obstacle, and to then `stop all`{:class="block3control"}.
+Altere o código do ator do esquiador para `esperar até`{:class="block3control"} estar `tocando`{:class="block3sensing"} o obstáculo, e então `pare todos`{:class="block3control"}.
 
-![skier sprite](images/skier_sprite_small.png)
+![ator esquiador](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -20,11 +20,11 @@ stop [all v]
 
 --- task ---
 
-When the skier crashes, you should also `switch costume to fallenover`{:class="block3looks"}.
+Quando o esquiador cair, você também deve `mudar de fantasia para caído`{:class="block3look"}.
 
-The updated code should look like this:
+O código atualizado deve ficar assim:
 
-![skier sprite](images/skier_sprite_small.png)
+![ator esquiador](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -37,17 +37,17 @@ stop [all v]
 
 --- task ---
 
-Save and test your code. When the skier hits the obstacle, the costume should change and the game should stop.
+Salve e teste seu código. Quando o esquiador bater em um obstáculo, a fantasia deve mudar e o jogo deve parar.
 
 --- /task ---
 
-However, there is a now problem with your game: the next time you run it, the skier will still be wearing the `fallenover`{:class="block3looks"} costume.
+No entanto, agora há um problema com seu jogo: na próxima vez que você o executar, o esquiador ainda estará com a fantasia de `caído`{:class="block3looks"}.
 
 --- task ---
 
-Edit the skier's so that their costume changes back to `skiing`{:class="block3looks"} when the game starts by `switching the costume to skiing`{:class="block3looks"}.
+Edite o esquiador para `mudar a fantasia para esquiando`, para que sua fantasia volte para `esquiando`{:class="block3looks"} quando o jogo começar{:class="block3look"}.
 
-![skier sprite](images/skier_sprite_small.png)
+![ator esquiador](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
