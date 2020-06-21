@@ -17,15 +17,15 @@ Al comienzo del `bucle para siempre`{:class="block3control"}, `fijar obstaculo_x
 ![objeto de obstáculo](images/obstacle_sprite.png)
 
 ```blocks3
-when green flag clicked
-forever 
-+   set [obstacle_x v] to (pick random (-200) to (200))
-    go to x: (0) y: (-180)
-    show
-    glide (1) secs to x: (0) y: (180)
-    hide
-    wait (1) seconds
-end
+al presionar la bandera verde
+por siempre 
++   establecer [obstáculo_x v] to (número al azar (-200) to (200))
+    ir a x: (0) y: (-180)
+    mostrar
+    deslizar en (1) segs a x: (0) y: (180)
+    ocultar
+    esperar (1) segundos
+fin
 ```
 
 
@@ -33,20 +33,20 @@ end
 
 --- task ---
 
-Use the `obstacle_x`{:class="block3variables"} variable in the `go to`{:class="block3motion"} block and the `glide`{:class="block3motion"} block.
+Usa la variable `obstáculo_x`{:class="block3variables"} en el bloque `ir a`{:class="block3motion"} y el bloque `deslizar en`{:class="block3motion"}.
 
 ![objeto de obstáculo](images/obstacle_sprite.png)
 
 ```blocks3
-when green flag clicked
-forever 
-    set [obstacle_x v] to (pick random (-200) to (200))
-    go to x: (obstacle_x :: variables +) y: (-180)
-    show
-    glide (1) secs to x: (obstacle_x :: variables +) y: (180)
-    hide
-    wait (1) seconds
-end
+al presionar la bandera verde
+por siempre 
+    establecer [obstáculo_x v] to (número al azar (-200) to (200))
+    ir a x: (0) y: (-180)
+    mostrar
+    deslizar en (1) segs a x: (0) y: (180)
+    ocultar
+    esperar (1) segundos
+fin
 ```
 
 --- /task ---
