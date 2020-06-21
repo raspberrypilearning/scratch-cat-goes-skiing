@@ -1,6 +1,6 @@
 ## Añadir un obstáculo
 
-Having obstacles to avoid will make your game more challenging, and making them appear at bottom of the screen and travel upwards will create a sense of movement.
+Para hacer que tu juego sea más desafiante agrégale obstáculos que deban evitar y si quieres crear una sensación de movimiento tienen que ir apareciendo desde la parte inferior de la pantalla hacia arriba.
 
 --- no-print ---
 
@@ -34,14 +34,14 @@ Ahora tienes que añadir código al objeto para que se mueva:
 ![objeto de obstáculo](images/obstacle_sprite.png)
 
 ```blocks3
-when green flag clicked
-forever 
-    go to x: (0) y: (-180)
-    show
-    glide (1) secs to x: (0) y: (180)
-    hide
-    wait (1) seconds
-end
+al presionar la bandera verde
+por siempre 
+    ir a x: (0) y: (-180)
+    mostrar
+    deslizar en (1) segs a x: (0) y: (180)
+    ocultar
+    esperar (1) segundos
+fin
 ```
 
 --- /task ---
