@@ -1,18 +1,18 @@
-## Controlling the skier
+## Controlando o esquiador
 
-You will use the left and right arrow keys to control the skier sprite, making it go left and right across the slope.
+Você vai usar as setas para a esquerda e para a direita para controlar o ator do esquiador, fazendo-o ir para a esquerda e para a direita através da pista.
 
-![skier moving](images/skier_moving.gif)
+![esquiador em movimento](images/skier_moving.gif)
 
 --- task ---
 
-First, make the skier move and point to the left. Your code needs to:
+Primeiro, faça o esquiador se mover e apontar para a esquerda. Seu código precisa:
 
-1. Start `when the left arrow key is pressed`{:class="block3events"}
-1. Change the angle the sprite is `pointed`{:class="block3motion"}
-1. Move the sprite to the left by `changing x`{:class="block3motion"}
+1. Começar `quando a tecla da seta para a esquerda estiver pressionada`{:class="block3events"}
+1. Mudar o ângulo em que o ator está `apontado`{:class="block3motion"}
+1. Mover o ator para a esquerda `alterando x`{:class="block3motion"}
 
-![skier sprite](images/skier_sprite_small.png)
+![ator esquiador](images/skier_sprite_small.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -24,19 +24,19 @@ change x by (-10)
 
 --- task ---
 
-Use blocks similar to the ones above to make the sprite move to the right `when the right arrow key is pressed`{:class="block3events"}.
+Use blocos similares aos acima para fazer o ator se mover para a direita `quando a tecla da seta para a direita for pressionada`{:class="block3events"}.
 
 --- hints ---
 
 --- hint ---
 
-Add blocks to your code so `when the right arrow key is pressed`{:class="block3events"}, the sprite `points in the direction 75 degrees`{:class="block3motion"} before `changing the x position by 10`{:class="block3motion"}
+Adicione blocos ao seu código, para `quando a tecla da seta para a direita estiver pressionada`{:class="block3events"}, o ator `aponte 75 graus nessa direção`{:class="block3motion"} antes de `alterar a posição x em 10`{:class="block3motion"}
 
 --- /hint ---
 
 --- hint ---
 
-You will need these blocks:
+Você precisará destes blocos:
 
 ```blocks3
 
@@ -51,9 +51,9 @@ change x by (10)
 
 --- hint ---
 
-Your code should look like this:
+Seu código deve ficar assim:
 
-![skier sprite](images/skier_sprite_small.png)
+![ator esquiador](images/skier_sprite_small.png)
 
 ```blocks3
 when [right arrow v] key pressed
@@ -69,6 +69,6 @@ change x by (10)
 
 --- task ---
 
-Test your program
+Teste seu programa
 
 --- /task ---
