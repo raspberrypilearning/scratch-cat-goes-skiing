@@ -45,16 +45,16 @@ Sin embargo, ahora hay un problema con tu juego: la próxima vez que lo ejecutes
 
 --- task ---
 
-Edit the skier's so that their costume changes back to `skiing`{:class="block3looks"} when the game starts by `switching the costume to skiing`{:class="block3looks"}.
+Edita el esquiador para que sus disfraces vuelvan a cambiar a `esquiar`{:class="block3looks"} para que cuando el juego comience abra en `cambiar disfraz a esquiar`{:class="block3looks"}.
 
 ![objeto esquiador](images/skier_sprite_small.png)
 
 ```blocks3
-when green flag clicked
-+ switch costume to (skiing v)
-wait until <touching [Tree2 v] ?>
-switch costume to (fallenover v)
-stop [all v]
+al presionar la bandera verde
++ cambiar disfraz a (esquiar v)
+esperar hasta que <touching [Tree2 v] ?>
++ cambiar disfraz a (caído v)
+detener [todos v]
 ```
 
 --- /task ---
