@@ -1,22 +1,22 @@
-## Adding a score
+## 增加得分
 
-Each time the skier sprite makes it past an obstacle, they should earn points.
+每次滑雪者精靈閃過障礙物，他們都應獲得分數。
 
-![score](images/score.png)
+![得分](images/score.png)
 
 --- task ---
 
-`Make a variable`{:class="block3variables"} called `score`{:class="block3variables"}
+建立一個新`變量`{:class="block3variables"} 稱為 `得分`{:class="block3variables"}。
 
 --- /task ---
 
 --- task ---
 
-Add a script to the obstacle sprite to set `score`{:class="block3variables"} to zero at the start of the game.
+將腳本添加到障礙物精靈以設置`得分` {:class =“ block3variables”}，得分在遊戲開始時為零。
 
 [[[generic-scratch3-add-variable]]]
 
-![obstacle sprite](images/obstacle_sprite.png)
+![障礙物精靈](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -27,11 +27,11 @@ when green flag clicked
 
 --- task ---
 
-Change the code so that when the obstacle gets to the top of the screen, it `changes score by 1`{:class="block3variables"}.
+更改程式，以便當障礙物到達屏幕頂部時，`得分從0變成1 ` {:class =“ block3variables”}。
 
-The updated script for the sprite should look like this:
+精靈的更新腳本應如下所示：
 
-![obstacle sprite](images/obstacle_sprite.png)
+![障礙物精靈](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -51,6 +51,6 @@ end
 
 --- task ---
 
-Play the game, see how many points you can score.
+玩遊戲，看看可以得到多少分。
 
 --- /task ---
