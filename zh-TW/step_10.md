@@ -1,3 +1,3 @@
-## What next?
+## 然後呢？
 
-Take a look at the [Synchronised Swimming](https://projects.raspberrypi.org/en/projects/synchronised-swimming) Scratch project.
+看看[水上芭蕾](https://projects.raspberrypi.org/en/projects/synchronised-swimming)Scratch專案。
