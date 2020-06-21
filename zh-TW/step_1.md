@@ -1,18 +1,18 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2).
+這個專案是 **Scratch 3** 版本。 另外還有 [Scratch 2](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2) 版本。
 
 --- /no-print ---
 
-## Introduction
+## 介紹
 
-You are going to use Scratch to create a skiing game in which you have to avoid randomly appearing obstacles to score points.
+你將使用Scratch製作一款滑雪遊戲，在這種遊戲中，你必須避開隨機出現的障礙來得分。
 
-### What you will make
+### 你將會做出
 
 --- no-print ---
 
-Click on the green flag to start. Use the left and right arrow keys to control the skier.
+點擊綠旗開始， 使用左右方向鍵控制滑雪者。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,52 +23,52 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 
 --- print-only ---
 
-![complete project](images/skiing-final.png)
+![完成專案](images/skiing-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: 你會用到
 ---
 
-### Hardware
+### 硬體
 
-+ A computer capable of running Scratch
++ 能夠運行Scratch的電腦
 
-### Software
+### 軟體
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([線上版](http://rpf.io/scratchon){:target="_blank"} 或 [離線版](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### 下載
 
-The starter project can be found [here](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}.
+起始項目可在[此處](http://rpf.io/p/en/scratch-cat-goes-skiing-go) {：target =“ _ blank”}找到。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 你會學到
 ---
 
-+ How to control sprites using the keyboard
-+ How to draw a backdrop
-+ How to animate sprites
-+ Use random numbers
++ 如何使用鍵盤控制精靈
++ 如何繪製背景
++ 如何製作精靈動畫
++ 使用隨機數
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 給教師的其它資訊
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}.
+如果您需要列印此專案內容，請下載 [列印版本](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target =“_ blank”}。
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}.
+你可以在這裡找到[已經完成的專案](http://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}。
 
 --- /collapse ---
