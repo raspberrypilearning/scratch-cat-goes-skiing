@@ -1,8 +1,8 @@
-## Challenge: change the obstacle's costume
+## 挑戰：改變障礙物的造型
 
-Can you make the obstacle's costume change each time it appears?
+你能否在每次出現障礙物時改變其造型？
 
-If the sprite you have chosen has only have one costume, you could choose a costume from the library, use another sprite or create your own second costume for the one you already have.
+如果你選擇的精靈只有一個造型，則可以從圖庫中選擇一個造型，使用另一個精靈或為已經擁有的造型創建第二個造型。
 
 [[[generic-scratch3-add-costume]]]
 
@@ -10,7 +10,7 @@ If the sprite you have chosen has only have one costume, you could choose a cost
 
 --- hint ---
 
-Add the `next costume`{:class="block3looks"} block before the `show`{:class="block3looks"}.
+在顯示前添加`下一個造型` `程式{:class =“ block3looks”}塊` {:class =“ block3looks”}。
 
 ```blocks3
 next costume
