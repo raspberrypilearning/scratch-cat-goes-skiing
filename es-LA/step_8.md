@@ -2,11 +2,11 @@
 
 Cada vez que el objeto esquiador supere un obstáculo, deberían ganar puntos.
 
-![score](images/score.png)
+![puntuación](images/score.png)
 
 --- task ---
 
-`Make a variable`{:class="block3variables"} called `score`{:class="block3variables"}
+`Haz una variable`{:class="block3variables"} que se llame `puntuación`{:class="block3variables"}
 
 --- /task ---
 
@@ -19,38 +19,38 @@ Añade un script al objeto de obstáculo para establecer `puntuación`{:class="b
 ![objeto de obstáculo](images/obstacle_sprite.png)
 
 ```blocks3
-when green flag clicked
-+ set [score v] to [0]
+al hacer clic en la bandera verde
++ establecer [puntuación v] a [0]
 ```
 
 --- /task ---
 
 --- task ---
 
-Change the code so that when the obstacle gets to the top of the screen, it `changes score by 1`{:class="block3variables"}.
+Cambia el código para que cuando el obstáculo llegue a la parte superior de la pantalla, `cambiar puntuación a 1`{:class="block3variables"}.
 
 El script actualizado para el objeto debería verse así:
 
 ![objeto de obstáculo](images/obstacle_sprite.png)
 
 ```blocks3
-when green flag clicked
-set [score v] to [0]
-forever 
-    set [obstacle_x v] to (pick random (-200) to (200))
-    go to x: (obstacle_x) y: (-180)
-    show
-    glide (1) secs to x: (obstacle_x) y: (180)
-    hide
-    wait (0.5) seconds
-+   change [score v] by (1)
-end
+al hacer clic en la bandera verde
++ establecer [puntuación v] a [0]
+por siempre 
+    establecer [obstáculo_x v] to (número al azar (-200) to (200))
+    ir a x: (0) y: (-180)
+    mostrar
+    deslizar en (1) segs a x: (0) y: (180)
+    ocultar
+    esperar (0.5) segundos
++   cambiar [puntuación v] en (1)
+fin
 ```
 
 --- /task ---
 
 --- task ---
 
-Play the game, see how many points you can score.
+Empieza el juego, mira cuántos puntos puedes anotar.
 
 --- /task ---
