@@ -1,0 +1,21 @@
+---
+title: El gato de Scratch va a esquiar
+hero_image: images/banner.png
+description: Crea un juego de esquí en el que tendrás que evitar obstáculos
+listed: true
+copyedit: true
+version: 4.3
+last_tested: 2019-01-21
+steps:
+  - title: Introducción
+  - title: Comenzar
+  - title: Controlar al esquiador
+  - title: Añadir un obstáculo
+  - title: "Desafío: Cambia el obstáculo"
+    challenge: true
+  - title: Obstáculo aleatorio
+  - title: Chocar
+  - title: Añadir una puntuación
+  - title: "Desafío: Más obstáculos"
+    challenge: true
+  - title: '¿Qué sigue?'

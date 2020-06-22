@@ -1,0 +1,3 @@
+obstaculo_x
+
+pontuação

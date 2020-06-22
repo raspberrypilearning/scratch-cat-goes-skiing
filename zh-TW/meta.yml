@@ -1,0 +1,21 @@
+---
+title: Scratch 貓去滑雪
+hero_image: images/banner.png
+description: 創建一個挑戰避開障礙物的滑雪遊戲
+listed: true
+copyedit: true
+version: 4.3
+last_tested: 2019-01-21
+steps:
+  - title: 介紹
+  - title: 開始
+  - title: 控制滑雪者
+  - title: 增加障礙
+  - title: "挑戰：改變障礙"
+    challenge: true
+  - title: 隨機障礙
+  - title: 撞翻
+  - title: 增加得分
+  - title: "挑戰: 更多的障礙"
+    challenge: true
+  - title: '然後呢？'
