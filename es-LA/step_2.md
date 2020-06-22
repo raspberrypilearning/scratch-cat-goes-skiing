@@ -37,9 +37,9 @@ Añade código a tu objeto gato esquí para que aparezca en la parte superior de
 ![objeto esquiador](images/skier_sprite_small.png)
 
 ```blocks3
-when green flag clicked
-go to x: (0) y: (100)
-point in direction (90 v)
+al presionar la bandera verde
+ir a x: (0) y: (100)
+apuntar en dirección (90 v)
 ```
 
 --- /task ---
