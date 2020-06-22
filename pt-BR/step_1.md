@@ -29,7 +29,7 @@ Clique na bandeira verde para começar. Use as setas para a esquerda e para a di
 
 --- collapse ---
 ---
-título: O que você precisará
+title: O que você precisará
 ---
 
 ### Hardware
@@ -60,7 +60,7 @@ title: O que você vai aprender
 
 --- collapse ---
 ---
-informações adicionais para educadores
+title: Informações adicionais para educadores
 ---
 
 --- no-print ---

@@ -2,7 +2,7 @@
 
 Utilizarás la tecla de flecha izquierda y derecha para controlar el objeto esquiador, moviéndolo a la izquierda y a la derecha por la pista.
 
-![esquiador en movimiento](imágenes/skier_moving.gif)
+![esquiador en movimiento](images/skier_moving.gif)
 
 --- task ---
 

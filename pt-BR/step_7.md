@@ -20,7 +20,7 @@ stop [all v]
 
 --- task ---
 
-Quando o esquiador cair, você também deve `mudar de fantasia para caído`{:class="block3look"}.
+Quando o esquiador cair, você também deve `mudar de fantasia para caído`{:class="block3looks"}.
 
 O código atualizado deve ficar assim:
 
@@ -45,7 +45,7 @@ No entanto, agora há um problema com seu jogo: na próxima vez que você o exec
 
 --- task ---
 
-Edite o esquiador para `mudar a fantasia para esquiando`, para que sua fantasia volte para `esquiando`{:class="block3looks"} quando o jogo começar{:class="block3look"}.
+Edite o esquiador para `mudar a fantasia para esquiando`{:class="block3looks"}, para que sua fantasia volte para `esquiando`{:class="block3looks"} quando o jogo começar.
 
 ![ator esquiador](images/skier_sprite_small.png)
 

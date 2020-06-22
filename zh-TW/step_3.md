@@ -10,7 +10,7 @@
 
 1. `按下左方向鍵`{:class="block3events"}開始
 1. 改變精靈`朝向`{:class="block3motion"}的角度
-1. 通過`更改x` {:class="block3motion"}將精靈向左移動
+1. 通過`更改x`{:class="block3motion"}將精靈向左移動
 
 ![滑雪貓精靈](images/skier_sprite_small.png)
 
@@ -31,7 +31,7 @@ change x by (-10)
 
 --- hint ---
 
-將程式塊添加到你的程式中，以便在`按下右方向鍵時`{:class="block3events"}，在`x位置更改10 之前`{class="block3motion"}，精靈`指向75度`{:class="block3motion"}
+將程式塊添加到你的程式中，以便在`按下右方向鍵時`{:class="block3events"}，在`x位置更改10 之前`{:class="block3motion"}，精靈`指向75度`{:class="block3motion"}
 
 --- /hint ---
 

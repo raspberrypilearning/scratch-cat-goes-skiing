@@ -11,7 +11,7 @@
 
 --- hint ---
 
-`表示する`{:class="block3looks"}の前に`次のコスチュームにする`{:class="block3looks}ブロックを追加します。
+`表示する`{:class="block3looks"}の前に`次のコスチュームにする`{:class="block3looks"}ブロックを追加します。
 
 ```blocks3
 next costume

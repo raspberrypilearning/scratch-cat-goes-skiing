@@ -8,7 +8,7 @@ version: 4.3
 last_tested: 2019-01-21
 steps:
   - title: 介紹
-  - title: 開始
+  - title: 準備開始
   - title: 控制滑雪者
   - title: 增加障礙
   - title: "挑戰：改變障礙"

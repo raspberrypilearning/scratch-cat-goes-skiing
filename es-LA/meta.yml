@@ -11,11 +11,11 @@ steps:
   - title: Comenzar
   - title: Controlar al esquiador
   - title: Añadir un obstáculo
-  - title: "Desafío: Cambia el obstáculo"
+  - title: "Desafío: cambia el obstáculo"
     challenge: true
   - title: Obstáculo aleatorio
   - title: Chocar
   - title: Añadir una puntuación
-  - title: "Desafío: Más obstáculos"
+  - title: "Desafío: más obstáculos"
     challenge: true
   - title: '¿Qué sigue?'

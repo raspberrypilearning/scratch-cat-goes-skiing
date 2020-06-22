@@ -1,4 +1,4 @@
-## Desafio: Mude a fantasia do obstáculo
+## Desafio: mude a fantasia do obstáculo
 
 Você consegue fazer a fantasia do obstáculo mudar cada vez que ele aparecer?
 
@@ -11,7 +11,7 @@ Se o ator que você escolheu tiver apenas uma fantasia, você pode escolher uma 
 
 --- hint ---
 
-Adicione o bloco de `próxima fantasia`{:class="block3looks"} antes do `mostrar`{:class="block3look"}.
+Adicione o bloco de `próxima fantasia`{:class="block3looks"} antes do `mostrar`{:class="block3looks"}.
 
 ```blocks3
 next costume
