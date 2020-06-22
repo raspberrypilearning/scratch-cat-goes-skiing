@@ -8,7 +8,7 @@ Scratch स्टार्टर प्रोजेक्ट खोलें।
 
 यदि आपके पास एक Scratch खाता (account) है तो आप **Remix** पर क्लिक करके प्रतिलिपि (copy) बना सकते हैं |
 
-**ऑफलाइन**: [starter project](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} को ऑफलाइन एडिटर (offline editor) में खोलिये।
+**ऑफलाइन**: [स्टार्टर प्रोजेक्ट](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} को ऑफलाइन एडिटर (offline editor) में खोलिये।
 
 यदि आपको स्क्रैच ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करने की आवश्यकता है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff) {:target="_blank"} पर पा सकते हैं।
 
