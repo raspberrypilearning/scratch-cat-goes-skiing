@@ -1,6 +1,6 @@
 --- no-print ---
 
-यह इस प्रोजेक्ट का **Scratch 3** वर्ज़न (version) है। इस प्रोजेक्ट का एक [ Scratch 2 version of the Project](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2) संस्करण (version) भी है
+यह इस प्रोजेक्ट का **Scratch 3** वर्ज़न (version) है। इस प्रोजेक्ट का[ Scratch 2 वर्ज़न भी है।](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2)
 
 --- /no-print ---
 
@@ -38,11 +38,11 @@ title: आपको किन चीजों की आवश्यकता �
 
 ### सॉफ्टवेयर
 
-+ Scratch 3 (चाहे [online](http://rpf.io/scratchon){:target="_blank"} या [offline](http://rpf.io/scratchoff){:target="_blank"}).
++ Scratch 3 (या तो [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} या [ऑफ़लाइन](http://rpf.io/scratchoff){:target="_blank"})
 
 ### डाउनलोड
 
-स्टार्टर प्रोजेक्ट यहां पाया जा सकता है [here](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} I
+स्टार्टर प्रोजेक्ट [यहाँ पाया जा सकता है](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}|
 
 --- /collapse ---
 
@@ -65,10 +65,10 @@ title: शिक्षकों के लिए अतिरिक्त जा
 
 --- no-print ---
 
-यदि आपको इस परियोजना को प्रिंट करने की आवश्यकता है, तो कृपया  [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}. संस्करण का उपयोग करें ।
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target= "_blank"} का उपयोग करें।
 
 --- /no-print ---
 
-आप इधर [completed project here](http://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"} देख सकते हैं ।
+आप [यहां पूरे प्रोजेक्ट](http://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"} को देख सकते हैं ।
 
 --- /collapse ---
