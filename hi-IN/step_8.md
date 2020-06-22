@@ -6,13 +6,13 @@
 
 --- task ---
 
-` एक चर बनाएं </ 0> {: class = "block3variables"} जिसे <code> स्कोर कहा जाता है </ 0> {: class = "block3variables"} </p>
+` क चर बनाएं`{:class="block3variables"} जिसे ` स्कोर`{:class="block3variables"} कहा जाता है
 
-<p spaces-before="0">--- /task ---</p>
+--- /task ---
 
-<p spaces-before="0">--- task ---</p>
+--- task ---
 
-<p spaces-before="0"><code> स्कोर सेट करने के लिए बाधा स्प्राइट में एक स्क्रिप्ट जोड़ें ` {= खेल की शुरुआत में शून्य पर "class =" block3variables "}।
+` स्कोर सेट करने के लिए बाधा स्प्राइट में एक स्क्रिप्ट जोड़ें ` {= खेल की शुरुआत में शून्य पर "class =" block3variables "}।
 
 [[[generic-scratch3-add-variable]]]
 
