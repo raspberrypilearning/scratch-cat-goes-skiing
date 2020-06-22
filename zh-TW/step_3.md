@@ -69,6 +69,6 @@ change x by (10)
 
 --- task ---
 
-Test your program
+測試你的程式。
 
 --- /task ---
