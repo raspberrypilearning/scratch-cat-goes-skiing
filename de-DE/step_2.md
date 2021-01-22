@@ -12,7 +12,7 @@ Wenn du bereits einen Scratch-Account besitzt, kannst du dir durch Klick auf **R
 
 Wenn du den Scratch-Offline-Editor herunterladen und installieren möchtest, findest du diesen unter [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-Im Starterprojekt solltest du einen leeren Hintergrund und eine Skifahrer-Figur sehen.
+Im Starterprojekt solltest du einen leeres Bühnenbild und eine Skifahrer-Figur sehen.
 
 ![Start-Projekt](images/starter_project.png)
 
@@ -20,7 +20,7 @@ Im Starterprojekt solltest du einen leeren Hintergrund und eine Skifahrer-Figur 
 
 --- task ---
 
-Male einen neuen Hintergrund für deine Skipiste: Fülle den Hintergrund grau und füge einige gerade Linien hinzu.
+Male ein neues Bühnenbild für deine Skipiste: Fülle den Hintergrund grau aus und füge einige gerade Linien hinzu.
 
 ![Skipisten Kulisse](images/backdrop.png)
 
@@ -30,7 +30,7 @@ Male einen neuen Hintergrund für deine Skipiste: Fülle den Hintergrund grau un
 
 --- task ---
 
-Füge deiner Skifahrer-Katzenfigur einen Code hinzu, sodass sie oben auf der Piste und bergab angezeigt wird `wenn Flagge angeklickt wird`{: class="block3events"}.
+Füge deiner Skifahrer-Katzenfigur einen Code hinzu, sodass sie oben auf der Piste angezeigt wird und bergab sieht, `wenn Flagge angeklickt wird`{: class="block3events"}.
 
 ![Skifahrer am Hang](images/skier_on_the_slope.png)
 
