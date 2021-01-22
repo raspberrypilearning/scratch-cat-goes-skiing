@@ -4,7 +4,7 @@
 
 Άνοιξε το αρχικό έργο Scratch.
 
-**Online:** άνοιξε το αρχικό έργο στο [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
+**Σε σύνδεση:** άνοιξε το αρχικό έργο στο [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
 
 Αν έχεις λογαριασμό Scratch μπορείς να κάνεις ένα αντίγραφο, κάνοντας κλικ στο κουμπί **Ανάμειξη**.
 
