@@ -1,10 +1,10 @@
-## Random obstacle
+## Obstáculo aleatorio
 
-At the moment, the obstacle sprite always appears in the same place on the screen, so it's very easy to avoid. To make the game more challenging, obstacles should appear in a different position every time.
+Por el momento, el objeto de obstáculo aparece siempre en el mismo lugar en la pantalla, por lo que es muy fácil de evitar. Para hacer el juego más desafiante, los obstáculos deben aparecer en una posición diferente cada vez.
 
 --- task ---
 
-Make a variable called `obstacle_x`{:class="block3variables"}.
+Crea una variable llamada `obstaculo_x`{:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,9 +12,9 @@ Make a variable called `obstacle_x`{:class="block3variables"}.
 
 --- task ---
 
-At the start of the `forever loop`{:class="block3control"}, `set obstacle_x`{:class="block3variables"} to a `random number`{:class="block3operators"}.
+Al comienzo del `bucle para siempre`{:class="block3control"}, `fijar obstaculo_x`{:class="block3variables"} a un `número aleatorio`{:class="block3operators"}.
 
-![obstacle sprite](images/obstacle_sprite.png)
+![objeto de obstáculo](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -33,9 +33,9 @@ end
 
 --- task ---
 
-Use the `obstacle_x`{:class="block3variables"} variable in the `go to`{:class="block3motion"} block and the `glide`{:class="block3motion"} block.
+Usa la variable `obstaculo_x`{:class="block3variables"} en el bloque `ve a`{:class="block3motion"} y el bloque `deslizar`{:class="block3motion"}.
 
-![obstacle sprite](images/obstacle_sprite.png)
+![objeto de obstáculo](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
