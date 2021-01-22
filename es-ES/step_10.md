@@ -1,3 +1,3 @@
-## What next?
+## ¿Qué viene a continuación?
 
-Take a look at the [Synchronised Swimming](https://projects.raspberrypi.org/en/projects/synchronised-swimming) Scratch project.
+Echa un vistazo al proyecto Scratch [Natación sincronizada](https://projects.raspberrypi.org/en/projects/synchronised-swimming).
