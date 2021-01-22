@@ -32,17 +32,17 @@
 title: Τι θα χρειαστείς
 ---
 
-### Υλικό (Hardware)
+### Υλικό
 
 + Ένας υπολογιστής ικανός να τρέχει το Scratch
 
 ### Λογισμικό
 
-+ Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### Λήψεις
 
-Το αρχικό project μπορεί να βρεθεί [εδώ](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}.
+The starter project can be found [here](https://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}.
 
 --- /collapse ---
 
@@ -69,6 +69,6 @@ title: Πρόσθετες πληροφορίες για εκπαιδευτικο
 
 --- /no-print ---
 
-Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}.
 
 --- /collapse ---
