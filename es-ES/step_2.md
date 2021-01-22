@@ -1,28 +1,28 @@
-## Getting started
+## Primeros pasos
 
 --- task ---
 
-Open the Scratch starter project.
+Abrir el proyecto inicial de Scratch.
 
-**Online**: open the starter project at [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
+**En línea**: abre el proyecto de inicio en [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Si tienes una cuenta de Scratch puedes hacer una copia haciendo clic en **Remix**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} in the offline editor.
+**Sin conexión**: abre el [proyecto de inicio](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} en el editor sin conexión.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necesitas descargar e instalar el editor sin conexión de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a blank backdrop and a skier sprite.
+En el proyecto de inicio, deberías ver un fondo en blanco y un objeto esquiador.
 
-![starter projects](images/starter_project.png)
+![proyectos iniciales](images/starter_project.png)
 
 --- /task ---
 
 --- task ---
 
-Paint a new backdrop for your ski slope: fill the background grey, and add some straight lines.
+Pinta un nuevo fondo para tu pendiente de esquí: llena el gris de fondo y añade algunas líneas rectas.
 
-![ski slope backdrop](images/backdrop.png)
+![fondo de pendiente de esquí](images/backdrop.png)
 
 [[[generic-scratch3-paint-new-backdrop]]]
 
@@ -30,11 +30,11 @@ Paint a new backdrop for your ski slope: fill the background grey, and add some 
 
 --- task ---
 
-Add code to your skiing cat sprite so that it appears at the top of the slope and faces downhill `when the flag is clicked`{:class="block3events"}.
+Añade código a tu objeto gato esquiador para que aparezca en la parte superior de la pendiente mirando hacia abajo `cuando se haga clic en la bandera`{:class="block3events"}.
 
-![skier on slope](images/skier_on_the_slope.png)
+![esquiador en pendiente](images/skier_on_the_slope.png)
 
-![skier sprite](images/skier_sprite_small.png)
+![objeto esquiador](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -46,7 +46,7 @@ point in direction (90 v)
 
 --- task ---
 
-Save and test your project.
+Guarda y prueba tu proyecto.
 
 [[[generic-scratch3-saving]]]
 
