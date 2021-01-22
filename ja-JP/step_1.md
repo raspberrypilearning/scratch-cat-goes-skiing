@@ -38,11 +38,11 @@ title: 必要なもの
 
 ### ソフトウェア
 
-+ Scratch 3（[オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"}）
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### ダウンロード
 
-基本（きほん）のプロジェクトは [こちら](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}にあります。
+The starter project can be found [here](https://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}.
 
 --- /collapse ---
 
@@ -69,6 +69,6 @@ title: 教育者向けの追加情報
 
 --- /no-print ---
 
-[完成したプロジェクトはこちらに](http://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}あります 。
+You can find the [completed project here](https://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}.
 
 --- /collapse ---
