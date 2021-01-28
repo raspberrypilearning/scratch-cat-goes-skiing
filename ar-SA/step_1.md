@@ -38,11 +38,11 @@ title: ما ستحتاج إليه
 
 ### البرامج
 
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
++ برنامج Scratch 3 (سواء أكان [عبر الإنترنت](https://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](https://rpf.io/scratchoff){:target="_blank"})
 
 ### التحميلات
 
-The starter project can be found [here](https://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}.
+يمكن العثور على المشروع الاولي [هنا](https://rpf.io/p/ar-SA/scratch-cat-goes-skiing-go){:target="_blank"}.
 
 --- /collapse ---
 
@@ -69,6 +69,6 @@ title: معلومات إضافية للمعلمين
 
 --- /no-print ---
 
-You can find the [completed project here](https://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}.
+يمكنك الحصول على [المشروع كاملاً من هنا](https://rpf.io/p/ar-SA/scratch-cat-goes-skiing-get){:target="_blank"}.
 
 --- /collapse ---
