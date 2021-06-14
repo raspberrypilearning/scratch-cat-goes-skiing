@@ -4,7 +4,7 @@
 
 Άνοιξε το αρχικό έργο Scratch.
 
-**Online:** άνοιξε το αρχικό έργο στο [scratch.mit.edu/projects/406248191](https://scratch.mit.edu/projects/406248191){:target="_blank"}.
+**Σε σύνδεση:** άνοιξε το αρχικό έργο στο [scratch.mit.edu/projects/406248191](https://scratch.mit.edu/projects/406248191){:target="_blank"}.
 
 Αν έχεις λογαριασμό Scratch μπορείς να κάνεις ένα αντίγραφο, κάνοντας κλικ στο κουμπί **Ανάμειξη**.
 
