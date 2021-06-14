@@ -1,10 +1,10 @@
-## Random obstacle
+## 랜덤 장애물
 
-At the moment, the obstacle sprite always appears in the same place on the screen, so it's very easy to avoid. To make the game more challenging, obstacles should appear in a different position every time.
+지금은 장애물 스프라이트가 항상 같은 곳에서 나타나기 때문에 피하기 쉽습니다. 게임을 좀 더 어렵게 만들기 위해서 장애물이 매번 다른 위치에서 나타나야 합니다.
 
 --- task ---
 
-Make a variable called `obstacle_x`{:class="block3variables"}.
+`장애물_x`{:class="block3variables"}라는 변수를 생성하세요.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,9 +12,9 @@ Make a variable called `obstacle_x`{:class="block3variables"}.
 
 --- task ---
 
-At the start of the `forever loop`{:class="block3control"}, `set obstacle_x`{:class="block3variables"} to a `random number`{:class="block3operators"}.
+`무한 반복하기`{:class="block3control"}의 앞 부분에 `난수`{:class="block3operators"}로 `장애물_x`{:class="block3variables"}를 정하세요.
 
-![obstacle sprite](images/obstacle_sprite.png)
+![장애물 스프라이트](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -33,9 +33,9 @@ end
 
 --- task ---
 
-Use the `obstacle_x`{:class="block3variables"} variable in the `go to`{:class="block3motion"} block and the `glide`{:class="block3motion"} block.
+`장애물_x`{:class="block3variables"} 변수를 `이동하기`{:class="block3motion"} 블럭과 `몇 초 동안 이동하기`{:class="block3motion"} 블럭에서 사용하세요.
 
-![obstacle sprite](images/obstacle_sprite.png)
+![장애물 스프라이트](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
