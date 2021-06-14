@@ -1,28 +1,28 @@
-## Getting started
+## 시작하기
 
 --- task ---
 
-Open the Scratch starter project.
+스크래치 스타터 프로젝트를 엽니다.
 
-**Online**: open the starter project at [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
+**온라인**: [ rpf.io/skiingon ](http://rpf.io/skiingon){: target="_ blank"}에서 스타터 프로젝트 열기.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+스크래치 계정이 있는 경우 ** Remix를 클릭** 하여 복사본을 만들 수 있습니다.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} in the offline editor.
+**오프라인**: [스타터 프로젝트](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}를 오프라인 에디터에서 열기
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}에서 다운 받을 수 있습니다.
 
-In the starter project, you should see a blank backdrop and a skier sprite.
+스타터 프로젝트에 빈 배경과 스키 스프라이트가 있을 겁니다.
 
-![starter projects](images/starter_project.png)
+![스타터 프로젝트](images/starter_project.png)
 
 --- /task ---
 
 --- task ---
 
-Paint a new backdrop for your ski slope: fill the background grey, and add some straight lines.
+스키 슬로프의 배경을 칠해보세요: 배경을 회색으로 칠하고 선도 몇개 그려보세요.
 
-![ski slope backdrop](images/backdrop.png)
+![스키 슬로프 배경](images/backdrop.png)
 
 [[[generic-scratch3-paint-new-backdrop]]]
 
@@ -30,11 +30,11 @@ Paint a new backdrop for your ski slope: fill the background grey, and add some 
 
 --- task ---
 
-Add code to your skiing cat sprite so that it appears at the top of the slope and faces downhill `when the flag is clicked`{:class="block3events"}.
+스키타는 고양이 스프라이트에 코드를 입력해 `초록색 깃발을 클릭했을 때`{:class="block3events"} 고양이가 슬로프를 타고 내려오도록 하세요.
 
-![skier on slope](images/skier_on_the_slope.png)
+![슬로프에 스키 타는 사람](images/skier_on_the_slope.png)
 
-![skier sprite](images/skier_sprite_small.png)
+![스키 타는 사람 스프라이트](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -46,7 +46,7 @@ point in direction (90 v)
 
 --- task ---
 
-Save and test your project.
+프로젝트를 저장하고 테스트해 보세요.
 
 [[[generic-scratch3-saving]]]
 
