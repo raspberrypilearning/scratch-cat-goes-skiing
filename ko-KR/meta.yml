@@ -1,31 +1,31 @@
 ---
-title: Scratch Cat goes skiing
+title: 스키 타는 스크래치 고양이
 hero_image: images/banner.png
-description: Create a skiing game in which you avoid obstacles
+description: 장애물을 피하는 스키 게임 만들기
 listed: true
 copyedit: true
 version: 4.3
 last_tested: 2019-01-21
 steps:
   - 
-    title: Introduction
+    title: 소개
   - 
-    title: Getting started
+    title: 시작하기
   - 
-    title: Controlling the skier
+    title: 스키어 조종하기
   - 
-    title: Adding an obstacle
+    title: 장애물 추가하기
   - 
-    title: "Challenge: change the obstacle"
+    title: "도전 과제: 장애물 바꾸기"
     challenge: true
   - 
-    title: Random obstacle
+    title: 랜덤 장애물
   - 
-    title: Crashing
+    title: 충돌
   - 
-    title: Adding a score
+    title: 점수 추가하기
   - 
-    title: "Challenge: more obstacles"
+    title: "도전 과제: 더 많은 장애물"
     challenge: true
   - 
-    title: 'What next?'
+    title: '도전해 보기'
