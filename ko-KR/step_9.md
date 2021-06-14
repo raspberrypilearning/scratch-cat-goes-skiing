@@ -1,14 +1,14 @@
-## Challenge: adding more obstacles
+## 도전 과제: 더 많은 장애물
 
-Add more sprites from the library as obstacles to make your game trickier!
+라이브러리에서 더 많은 스프라이트를 장애물로 추가하여 게임을 더 까다롭게 만드세요!
 
-![more obstacles](images/skiing-final.png)
+![더 많은 장애물](images/skiing-final.png)
 
-When you add a new obstacle, you will need to think about:
+새로운 장애물을 추가할 때 다음을 고려해야 합니다:
 
-1. Which sprite to use
-1. What happens when the skier crashes into it
-1. Whether to increase the score (and by how much) when the skier makes it past
+1. 사용할 스프라이트
+1. 스키어가 충돌하면 어떻게 될지
+1. 스키어가 지나갈 때 점수를 올릴 지(또는 얼마나 올릴 지)
 
-If you need help, go back to the step in this project where you created the first obstacle.
+도움이 필요하면 장애물을 처음 만든 단계로 돌아가보세요.
 
