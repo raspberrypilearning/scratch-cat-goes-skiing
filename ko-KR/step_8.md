@@ -1,22 +1,22 @@
-## Adding a score
+## 점수 추가하기
 
-Each time the skier sprite makes it past an obstacle, they should earn points.
+스키어 스프라이트가 장애물을 통과할 때마다 점수를 획득해야합니다.
 
-![score](images/score.png)
+![점수](images/score.png)
 
 --- task ---
 
-`Make a variable`{:class="block3variables"} called `score`{:class="block3variables"}
+새로운 `변수`{:class="block3variables"}를 생성하고, `점수`{:class="block3variables"}라는 이름을 붙이세요.
 
 --- /task ---
 
 --- task ---
 
-Add a script to the obstacle sprite to set `score`{:class="block3variables"} to zero at the start of the game.
+장애물 스프라이트에 스크립트를 추가해서 게임 시작시 `점수`를 0으로 설정하세요.
 
 [[[generic-scratch3-add-variable]]]
 
-![obstacle sprite](images/obstacle_sprite.png)
+![장애물 스프라이트](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -27,11 +27,11 @@ when green flag clicked
 
 --- task ---
 
-Change the code so that when the obstacle gets to the top of the screen, it `changes score by 1`{:class="block3variables"}.
+장애물이 화면 상단에 도달하면 `점수를 1만큼 바꾸도록`{:class="block3variables"} 코드를 변경합니다.
 
-The updated script for the sprite should look like this:
+스프라이트의 수정된 스크립트는 다음과 같아야 합니다:
 
-![obstacle sprite](images/obstacle_sprite.png)
+![장애물 스프라이트](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -51,6 +51,6 @@ end
 
 --- task ---
 
-Play the game, see how many points you can score.
+게임을 플레이해서 얼마나 많은 점수를 얻을 수 있는지 확인해보세요.
 
 --- /task ---
