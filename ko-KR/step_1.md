@@ -1,18 +1,18 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2).
+이 프로젝트의 **스크래치 3** 버전입니다. [이 프로젝트의 스크래치 2 버전](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2)도 있습니다.
 
 --- /no-print ---
 
-## Introduction
+## 소개
 
-You are going to use Scratch to create a skiing game in which you have to avoid randomly appearing obstacles to score points.
+여러분은 스크래치로 무작위로 나타나는 장애물을 피하는 스키 게임을 만들 것입니다.
 
-### What you will make
+### 만들 작품
 
 --- no-print ---
 
-Click on the green flag to start. Use the left and right arrow keys to control the skier.
+녹색 깃발을 클릭하여 시작하세요. 스키를 제어하려면 왼쪽 및 오른쪽 화살표 키를 사용하세요.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,52 +23,52 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 
 --- print-only ---
 
-![complete project](images/skiing-final.png)
+![완료 된 프로젝트](images/skiing-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: 준비물
 ---
 
-### Hardware
+### 하드웨어
 
-+ A computer capable of running Scratch
++ 스크래치를 실행할 수 있는 컴퓨터
 
-### Software
+### 소프트웨어
 
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
++ 스크래치 3 ([온라인](https://rpf.io/scratchon) 또는 [오프라인](https://rpf.io/scratchoff))
 
-### Downloads
+### 다운로드
 
-The starter project can be found [here](https://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}.
+스타터 프로젝트는 [여기](https://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}를 클릭하면 열 수 있습니다.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 학습 목표
 ---
 
-+ How to control sprites using the keyboard
-+ How to draw a backdrop
-+ How to animate sprites
-+ Use random numbers
++ 키보드로 스프라이트 제어하기
++ 배경을 그리는 방법
++ 스프라이트를 움직이는 방법
++ 난수 사용하기
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 교육자를 위한 추가 정보
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}.
+이 프로젝트를 인쇄하기 위해서는 [프린트용 버전](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}을 사용해 주십시오.
 
 --- /no-print ---
 
-You can find the [completed project here](https://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}.
+[여기서](https://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"} 완료된 프로젝트를 확인할 수 있습니다.
 
 --- /collapse ---
