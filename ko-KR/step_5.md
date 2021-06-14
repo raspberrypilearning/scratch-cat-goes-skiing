@@ -1,8 +1,8 @@
-## Challenge: change the obstacle's costume
+## 도전 과제: 장애물 모양 바꾸기
 
-Can you make the obstacle's costume change each time it appears?
+장애물이 나타날 때마다 모양이 달라지게 할 수 있나요?
 
-If the sprite you have chosen has only have one costume, you could choose a costume from the library, use another sprite or create your own second costume for the one you already have.
+만약 선택한 스프라이트가 하나의 코스튬 밖에 없다면 라이브러리에서 다른 스프라이트의 코스튬을 고르거나 직접 코스튬을 제작할 수 있습니다.
 
 [[[generic-scratch3-add-costume]]]
 
@@ -10,7 +10,7 @@ If the sprite you have chosen has only have one costume, you could choose a cost
 
 --- hint ---
 
-Add the `next costume`{:class="block3looks"} block before the `show`{:class="block3looks"}.
+`보이기`{:class="block3looks"} 전에 `다음 모양으로 바꾸기`{:class="block3looks"}를 추가하세요.
 
 ```blocks3
 next costume
