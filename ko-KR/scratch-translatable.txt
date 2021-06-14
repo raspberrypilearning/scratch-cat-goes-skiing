@@ -1,3 +1,3 @@
-obstacle_x
+장애물_x
 
-score
+점수
