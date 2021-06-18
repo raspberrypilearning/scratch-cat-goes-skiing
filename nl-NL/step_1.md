@@ -38,11 +38,11 @@ title: Wat heb je nodig
 
 ### Software
 
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([online](https://rpf.io/scratchon){:target="_blank"} of [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-The starter project can be found [here](https://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}.
+Het startproject kan [hier](https://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} gevonden worden.
 
 --- /collapse ---
 
@@ -69,6 +69,6 @@ Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](h
 
 --- /no-print ---
 
-You can find the [completed project here](https://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}.
+Je kunt het [voltooide project hier](https://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"} vinden.
 
 --- /collapse ---
