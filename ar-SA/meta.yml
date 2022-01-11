@@ -7,15 +7,17 @@ copyedit: true
 version: 4.3
 last_tested: 2019-01-21
 steps:
-  - title: المقدمة
-  - title: الخطوة الأولى
-  - title: السيطرة على المتزلج
-  - title: إضافة عقبة
-  - title: "التحدي: تغيير العقبة"
-    challenge: true
-  - title: عقبة عشوائية
-  - title: الاصطدام
-  - title: إضافة نتيجة
-  - title: "التحدي: عوائق أخرى"
-    challenge: true
-  - title: 'ما التالي؟'
+- title: المقدمة
+  completion: engaged
+- title: الخطوة الأولى
+- title: السيطرة على المتزلج
+- title: إضافة عقبة
+- title: 'التحدي: تغيير العقبة'
+  challenge: true
+- title: عقبة عشوائية
+- title: الاصطدام
+  completion: internal
+- title: إضافة نتيجة
+- title: 'التحدي: عوائق أخرى'
+  challenge: true
+- title: ما التالي؟

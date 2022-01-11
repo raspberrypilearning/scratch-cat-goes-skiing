@@ -7,15 +7,17 @@ copyedit: true
 version: 4.3
 last_tested: 2019-01-21
 steps:
-  - title: Introducción
-  - title: Comenzar
-  - title: Controlar al esquiador
-  - title: Añadir un obstáculo
-  - title: "Desafío: cambia el obstáculo"
-    challenge: true
-  - title: Obstáculo aleatorio
-  - title: Chocar
-  - title: Añadir una puntuación
-  - title: "Desafío: más obstáculos"
-    challenge: true
-  - title: '¿Qué sigue?'
+- title: Introducción
+  completion: engaged
+- title: Comenzar
+- title: Controlar al esquiador
+- title: Añadir un obstáculo
+- title: 'Desafío: cambia el obstáculo'
+  challenge: true
+- title: Obstáculo aleatorio
+- title: Chocar
+  completion: internal
+- title: Añadir una puntuación
+- title: 'Desafío: más obstáculos'
+  challenge: true
+- title: "¿Qué sigue?"

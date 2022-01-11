@@ -7,15 +7,17 @@ copyedit: true
 version: 4.3
 last_tested: 2019-01-21
 steps:
-  - title: Introdução
-  - title: Começando
-  - title: Controlando o esquiador
-  - title: Adicionando um obstáculo
-  - title: "Desafio: mude o obstáculo"
-    challenge: true
-  - title: Obstáculo aleatório
-  - title: Batendo
-  - title: Adicionando uma pontuação
-  - title: "Desafio: mais obstáculos"
-    challenge: true
-  - title: 'E agora?'
+- title: Introdução
+  completion: engaged
+- title: Começando
+- title: Controlando o esquiador
+- title: Adicionando um obstáculo
+- title: 'Desafio: mude o obstáculo'
+  challenge: true
+- title: Obstáculo aleatório
+- title: Batendo
+  completion: internal
+- title: Adicionando uma pontuação
+- title: 'Desafio: mais obstáculos'
+  challenge: true
+- title: E agora?
