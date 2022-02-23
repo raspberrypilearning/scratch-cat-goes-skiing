@@ -8,9 +8,9 @@ Abre el proyecto inicial de Scratch.
 
 Si tienes una cuenta Scratch puedes hacer una copia al hacer clic en **Remix**.
 
-**Sin conexión**: abre el [proyecto inicial](http://rpf.io/p/es-LA/scratch-cat-goes-skiing-go){:target=_blank"} en el editor sin conexión.
+**Sin conexión**: abre el [proyecto inicial](https://rpf.io/p/es-LA/scratch-cat-goes-skiing-go){:target=_blank"} en el editor sin conexión.
 
-Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrarlo en [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 En el proyecto de inicio, deberías ver un fondo en blanco y un objeto esquiador.
 
