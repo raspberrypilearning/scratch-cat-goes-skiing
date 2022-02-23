@@ -8,9 +8,9 @@
 
 Wenn du bereits einen Scratch-Account besitzt, kannst du dir durch Klick auf **Remix** eine Kopie anlegen.
 
-**Offline**: Öffne das [Start-Projekt](http://rpf.io/p/de-DE/scratch-cat-goes-skiing-go){:target="_blank"} im Offline-Editor.
+**Offline**: Öffne das [Start-Projekt](https://rpf.io/p/de-DE/scratch-cat-goes-skiing-go){:target="_blank"} im Offline-Editor.
 
-Wenn du den Scratch-Offline-Editor herunterladen und installieren möchtest, findest du diesen unter [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Wenn du den Scratch-Offline-Editor herunterladen und installieren möchtest, findest du diesen unter [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 Im Starterprojekt solltest du einen leeren Hintergrund und eine Skifahrer-Figur sehen.
 

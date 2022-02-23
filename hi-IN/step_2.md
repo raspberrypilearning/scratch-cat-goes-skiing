@@ -4,13 +4,13 @@
 
 Scratch स्टार्टर प्रोजेक्ट खोलें।
 
-**ऑनलाइन**: स्टार्टर प्रोजेक्ट को [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"} पर खोलें।
+**ऑनलाइन**: स्टार्टर प्रोजेक्ट को [rpf.io/skiingon](https://rpf.io/skiingon){:target="_blank"} पर खोलें।
 
 यदि आपके पास एक Scratch खाता (account) है तो आप **Remix** पर क्लिक करके प्रतिलिपि (copy) बना सकते हैं ।
 
-**ऑफलाइन**: [स्टार्टर प्रोजेक्ट](http://rpf.io/p/hi-IN/scratch-cat-goes-skiing-go){:target="_blank"} को ऑफलाइन एडिटर (offline editor) में खोलिये।
+**ऑफलाइन**: [स्टार्टर प्रोजेक्ट](https://rpf.io/p/hi-IN/scratch-cat-goes-skiing-go){:target="_blank"} को ऑफलाइन एडिटर (offline editor) में खोलिये।
 
-यदि आपको स्क्रैच ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करने की आवश्यकता है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} पर पा सकते हैं।
+यदि आपको स्क्रैच ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करने की आवश्यकता है, तो आप इसे [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"} पर पा सकते हैं।
 
 स्टार्टर प्रोजेक्ट में, आपको एक खाली बैकड्रॉप और एक स्कीयर स्प्राइट दिखना चाहिए।
 

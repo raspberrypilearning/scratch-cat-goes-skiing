@@ -8,9 +8,9 @@
 
 Scratchアカウントを持っている場合は、**リミックス**ボタンをクリックしてプロジェクトをコピーできます。
 
-**オフライン**：オフラインエディタで[基本（きほん）のプロジェクト](http://rpf.io/p/ja-JP/scratch-cat-goes-skiing-go){:target="_blank"}を開きます。
+**オフライン**：オフラインエディタで[基本（きほん）のプロジェクト](https://rpf.io/p/ja-JP/scratch-cat-goes-skiing-go){:target="_blank"}を開きます。
 
-[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}からScratchオフラインエディタをダウンロードしてインストールできます。
+[rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}からScratchオフラインエディタをダウンロードしてインストールできます。
 
 基本（きほん）のプロジェクトには、空白の背景とスキーヤーのスプライトがあります。
 

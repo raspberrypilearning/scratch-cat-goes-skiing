@@ -8,9 +8,9 @@ Open het Scratch startproject.
 
 Als je een Scratch-account hebt, kun je een kopie maken door op **Remix** te klikken.
 
-**Offline**: open het [startproject](http://rpf.io/p/nl-NL/scratch-cat-goes-skiing-go){:target="_blank"} in de offline editor.
+**Offline**: open het [startproject](https://rpf.io/p/nl-NL/scratch-cat-goes-skiing-go){:target="_blank"} in de offline editor.
 
-Als je de Scratch offline editor wilt downloaden en installeren dan kun je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Als je de Scratch offline editor wilt downloaden en installeren dan kun je die vinden op [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 In het startproject zou je een blanco achtergrond en een skiër sprite moeten zien.
 

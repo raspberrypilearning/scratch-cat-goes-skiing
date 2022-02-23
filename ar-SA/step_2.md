@@ -8,9 +8,9 @@
 
 اذا كنت تملك حساب على منصة Scratch فيمكنك عمل نسخة بالضغط على **Remix**.
 
-**دون اتصال بالانترنت**: افتح [المشروع الاولي](http://rpf.io/p/ar-SA/scratch-cat-goes-skiing-go){:target="_blank"} عبر المحرر الموجود على جهازك.
+**دون اتصال بالانترنت**: افتح [المشروع الاولي](https://rpf.io/p/ar-SA/scratch-cat-goes-skiing-go){:target="_blank"} عبر المحرر الموجود على جهازك.
 
-اذا كنت تحتاج تنزيل و تنصيب محرر Scratch للعمل دون اتصال بالانترنت, فيمكنك ايجاده على الرابط [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+اذا كنت تحتاج تنزيل و تنصيب محرر Scratch للعمل دون اتصال بالانترنت, فيمكنك ايجاده على الرابط [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 في المشروع الاولي ، من المفترض أن ترى خلفية فارغة مع الكائن المتزلج.
 

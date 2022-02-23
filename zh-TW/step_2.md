@@ -4,13 +4,13 @@
 
 打開Scratch初始專案。
 
-**線上版** ：在[ rpf.io/skiingon中打開初始專案](http://rpf.io/skiingon){:target="_blank”}。
+**線上版** ：在[ rpf.io/skiingon中打開初始專案](https://rpf.io/skiingon){:target="_blank”}。
 
 如果你有 Scratch 帳戶，你就可以直接**改編**專案。
 
-**離線版** ：在離線編輯器中打開[ 起始項目](http://rpf.io/p/zh-TW/scratch-cat-goes-skiing-go){:target="_blank"}。
+**離線版** ：在離線編輯器中打開[ 起始項目](https://rpf.io/p/zh-TW/scratch-cat-goes-skiing-go){:target="_blank"}。
 
-如果你需要 Scratch 離線版編輯器，可以連結到 [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}。
+如果你需要 Scratch 離線版編輯器，可以連結到 [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}。
 
 在初始專案中，您應該看到一個空白的背景和一個滑雪者精靈。
 
