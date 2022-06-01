@@ -1,3 +1,4 @@
+---
 title: Scratch Cat goes skiing
 hero_image: images/banner.png
 description: Create a skiing game in which you avoid obstacles
@@ -5,17 +6,21 @@ listed: true
 copyedit: true
 version: 4.3
 last_tested: 2019-01-21
-steps: 
+steps:
 - title: Introduction
 - title: Getting started
 - title: Controlling the skier
+  completion:
+  - engaged
 - title: Adding an obstacle
-- title: "Challenge: change the obstacle"
+- title: 'Challenge: change the obstacle'
   challenge: true
 - title: Random obstacle
 - title: Crashing
 - title: Adding a score
-- title: "Challenge: more obstacles"
+  completion:
+  - internal
+- title: 'Challenge: more obstacles'
   challenge: true
-- title: "Test yourself"
-- title: 'What next?'
+- title: Test yourself
+- title: What next?

@@ -7,15 +7,19 @@ copyedit: true
 version: 4.3
 last_tested: 2019-01-21
 steps:
-  - title: Inleiding
-  - title: Aan de slag
-  - title: Bestuur de skiër
-  - title: Een obstakel toevoegen
-  - title: "Uitdaging: verander het uiterlijk van het obstakel"
-    challenge: true
-  - title: Willekeurig obstakel
-  - title: Botsen
-  - title: Een score toevoegen
-  - title: "Uitdaging: meer obstakels toevoegen"
-    challenge: true
-  - title: 'Wat kun je verder nog doen?'
+- title: Inleiding
+- title: Aan de slag
+- title: Bestuur de skiër
+  completion:
+  - engaged
+- title: Een obstakel toevoegen
+- title: 'Uitdaging: verander het uiterlijk van het obstakel'
+  challenge: true
+- title: Willekeurig obstakel
+- title: Botsen
+- title: Een score toevoegen
+  completion:
+  - internal
+- title: 'Uitdaging: meer obstakels toevoegen'
+  challenge: true
+- title: Wat kun je verder nog doen?

@@ -7,15 +7,19 @@ copyedit: true
 version: 4.3
 last_tested: 2019-01-21
 steps:
-  - title: 介紹
-  - title: 準備開始
-  - title: 控制滑雪者
-  - title: 增加障礙
-  - title: "挑戰：改變障礙"
-    challenge: true
-  - title: 隨機障礙
-  - title: 撞翻
-  - title: 增加得分
-  - title: "挑戰: 更多的障礙"
-    challenge: true
-  - title: '然後呢？'
+- title: 介紹
+- title: 準備開始
+- title: 控制滑雪者
+  completion:
+  - engaged
+- title: 增加障礙
+- title: 挑戰：改變障礙
+  challenge: true
+- title: 隨機障礙
+- title: 撞翻
+- title: 增加得分
+  completion:
+  - internal
+- title: '挑戰: 更多的障礙'
+  challenge: true
+- title: 然後呢？

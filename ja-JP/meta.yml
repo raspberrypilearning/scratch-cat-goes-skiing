@@ -7,15 +7,19 @@ copyedit: true
 version: 4.3
 last_tested: 2019-01-21
 steps:
-  - title: はじめに
-  - title: はじめましょう
-  - title: スキーヤーを操作する
-  - title: 障害物を付け加える
-  - title: "チャレンジ：障害物をかえる"
-    challenge: true
-  - title: ランダムな障害物
-  - title: ぶつかった
-  - title: 得点を追加する
-  - title: "チャレンジ：障害物をふやす"
-    challenge: true
-  - title: '次は何をしましょうか？'
+- title: はじめに
+- title: はじめましょう
+- title: スキーヤーを操作する
+  completion:
+  - engaged
+- title: 障害物を付け加える
+- title: チャレンジ：障害物をかえる
+  challenge: true
+- title: ランダムな障害物
+- title: ぶつかった
+- title: 得点を追加する
+  completion:
+  - internal
+- title: チャレンジ：障害物をふやす
+  challenge: true
+- title: 次は何をしましょうか？

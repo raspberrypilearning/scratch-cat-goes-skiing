@@ -7,15 +7,19 @@ copyedit: true
 version: 4.3
 last_tested: 2019-01-21
 steps:
-  - title: Einleitung
-  - title: Erste Schritte
-  - title: Den Skifahrer kontrollieren
-  - title: Ein Hindernis hinzufügen
-  - title: "Herausforderung: das Hindernis verändern"
-    challenge: true
-  - title: Zufälliges Hindernis
-  - title: Einen Unfall bauen
-  - title: Eine Punktzahl hinzufügen
-  - title: "Herausforderung: Mehr Hindernisse"
-    challenge: true
-  - title: 'Was kommt als Nächstes?'
+- title: Einleitung
+- title: Erste Schritte
+- title: Den Skifahrer kontrollieren
+  completion:
+  - engaged
+- title: Ein Hindernis hinzufügen
+- title: 'Herausforderung: das Hindernis verändern'
+  challenge: true
+- title: Zufälliges Hindernis
+- title: Einen Unfall bauen
+- title: Eine Punktzahl hinzufügen
+  completion:
+  - internal
+- title: 'Herausforderung: Mehr Hindernisse'
+  challenge: true
+- title: Was kommt als Nächstes?
