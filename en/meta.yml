@@ -8,16 +8,18 @@ version: 4.3
 last_tested: 2019-01-21
 steps:
 - title: Introduction
-  completion: engaged
 - title: Getting started
 - title: Controlling the skier
+  completion:
+  - engaged
 - title: Adding an obstacle
 - title: 'Challenge: change the obstacle'
   challenge: true
 - title: Random obstacle
 - title: Crashing
-  completion: internal
 - title: Adding a score
+  completion:
+  - internal
 - title: 'Challenge: more obstacles'
   challenge: true
 - title: What next?

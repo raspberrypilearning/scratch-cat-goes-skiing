@@ -8,16 +8,18 @@ version: 4.3
 last_tested: 2019-01-21
 steps:
 - title: Introdução
-  completion: engaged
 - title: Começando
 - title: Controlando o esquiador
+  completion:
+  - engaged
 - title: Adicionando um obstáculo
 - title: 'Desafio: mude o obstáculo'
   challenge: true
 - title: Obstáculo aleatório
 - title: Batendo
-  completion: internal
 - title: Adicionando uma pontuação
+  completion:
+  - internal
 - title: 'Desafio: mais obstáculos'
   challenge: true
 - title: E agora?
