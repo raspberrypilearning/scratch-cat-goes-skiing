@@ -13,10 +13,12 @@ steps:
     title: はじめましょう
   - 
     title: スキーヤーを操作する
+    completion:
+      - engaged
   - 
     title: 障害物を付け加える
   - 
-    title: "チャレンジ：障害物をかえる"
+    title: 'チャレンジ：障害物をかえる'
     challenge: true
   - 
     title: ランダムな障害物
@@ -24,8 +26,10 @@ steps:
     title: ぶつかった
   - 
     title: 得点を追加する
+    completion:
+      - internal
   - 
-    title: "チャレンジ：障害物をふやす"
+    title: 'チャレンジ：障害物をふやす'
     challenge: true
   - 
-    title: '次は何をしましょうか？'
+    title: 次は何をしましょうか？
