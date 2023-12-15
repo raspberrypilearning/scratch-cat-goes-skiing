@@ -13,10 +13,12 @@ steps:
     title: Getting started
   - 
     title: Controlling the skier
+    completion:
+      - engaged
   - 
     title: Adding an obstacle
   - 
-    title: "Challenge: change the obstacle"
+    title: 'Challenge: change the obstacle'
     challenge: true
   - 
     title: Random obstacle
@@ -24,8 +26,10 @@ steps:
     title: Crashing
   - 
     title: Adding a score
+    completion:
+      - internal
   - 
-    title: "Challenge: more obstacles"
+    title: 'Challenge: more obstacles'
     challenge: true
   - 
-    title: 'What next?'
+    title: What next?
