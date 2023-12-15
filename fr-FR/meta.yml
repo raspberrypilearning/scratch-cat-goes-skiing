@@ -13,10 +13,12 @@ steps:
     title: Pour commencer
   - 
     title: Contrôler le skieur
+    completion:
+      - engaged
   - 
     title: Ajouter un obstacle
   - 
-    title: "Défi : changer l'obstacle"
+    title: 'Défi : changer l''obstacle'
     challenge: true
   - 
     title: Obstacle aléatoire
@@ -24,8 +26,10 @@ steps:
     title: Collision
   - 
     title: Ajouter un score
+    completion:
+      - internal
   - 
-    title: "Défi : plus d'obstacles"
+    title: 'Défi : plus d''obstacles'
     challenge: true
   - 
-    title: 'Et ensuite ?'
+    title: Et ensuite ?
