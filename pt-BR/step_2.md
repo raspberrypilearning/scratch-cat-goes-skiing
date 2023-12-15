@@ -4,13 +4,13 @@
 
 Abra o projeto inicial do Scratch.
 
-**Online**: abra o projeto inicial em [rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}.
+**Online**: open the starter project at [rpf.io/skiingon](https://rpf.io/skiingon){:target="_blank"}.
 
 Se você tiver uma conta do Scratch, pode fazer uma cópia clicando em **Remix**.
 
-**Offline**: abra o [projeto inicial](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} no editor offline.
+**Offline**: open the [starter project](https://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} in the offline editor.
 
-Se você precisar baixar e instalar o editor offline do Scratch, poderá encontrá-lo em [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 No projeto inicial, você deve ver um cenário em branco e um ator esquiador.
 
