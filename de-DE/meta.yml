@@ -13,10 +13,12 @@ steps:
     title: Erste Schritte
   - 
     title: Den Skifahrer kontrollieren
+    completion:
+      - engaged
   - 
     title: Ein Hindernis hinzufügen
   - 
-    title: "Herausforderung: das Hindernis verändern"
+    title: 'Herausforderung: das Hindernis verändern'
     challenge: true
   - 
     title: Zufälliges Hindernis
@@ -24,8 +26,10 @@ steps:
     title: Einen Unfall bauen
   - 
     title: Eine Punktzahl hinzufügen
+    completion:
+      - internal
   - 
-    title: "Herausforderung: Mehr Hindernisse"
+    title: 'Herausforderung: Mehr Hindernisse'
     challenge: true
   - 
-    title: 'Was kommt als Nächstes?'
+    title: Was kommt als Nächstes?
