@@ -13,10 +13,12 @@ steps:
     title: Primeros pasos
   - 
     title: Controlando al esquiador
+    completion:
+      - engaged
   - 
     title: Añadiendo un obstáculo
   - 
-    title: "Desafío: cambia el obstáculo"
+    title: 'Desafío: cambia el obstáculo'
     challenge: true
   - 
     title: Obstáculo aleatorio
@@ -24,8 +26,10 @@ steps:
     title: Chocando
   - 
     title: Añadir una puntuación
+    completion:
+      - internal
   - 
-    title: "Desafío: ¡Más obstáculos!"
+    title: 'Desafío: ¡Más obstáculos!'
     challenge: true
   - 
     title: '¿Qué viene a continuación?'
