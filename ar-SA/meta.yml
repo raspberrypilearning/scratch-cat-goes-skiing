@@ -13,10 +13,12 @@ steps:
     title: الخطوة الأولى
   - 
     title: السيطرة على المتزلج
+    completion:
+      - engaged
   - 
     title: إضافة عقبة
   - 
-    title: "التحدي: تغيير العقبة"
+    title: 'التحدي: تغيير العقبة'
     challenge: true
   - 
     title: عقبة عشوائية
@@ -24,8 +26,10 @@ steps:
     title: الاصطدام
   - 
     title: إضافة نتيجة
+    completion:
+      - internal
   - 
-    title: "التحدي: عوائق أخرى"
+    title: 'التحدي: عوائق أخرى'
     challenge: true
   - 
-    title: 'ما التالي؟'
+    title: ما التالي؟
