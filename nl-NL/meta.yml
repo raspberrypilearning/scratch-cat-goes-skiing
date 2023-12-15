@@ -13,10 +13,12 @@ steps:
     title: Aan de slag
   - 
     title: Bestuur de skiër
+    completion:
+      - engaged
   - 
     title: Een obstakel toevoegen
   - 
-    title: "Uitdaging: verander het uiterlijk van het obstakel"
+    title: 'Uitdaging: verander het uiterlijk van het obstakel'
     challenge: true
   - 
     title: Willekeurig obstakel
@@ -24,8 +26,10 @@ steps:
     title: Botsen
   - 
     title: Een score toevoegen
+    completion:
+      - internal
   - 
-    title: "Uitdaging: meer obstakels toevoegen"
+    title: 'Uitdaging: meer obstakels toevoegen'
     challenge: true
   - 
-    title: 'Wat kun je verder nog doen?'
+    title: Wat kun je verder nog doen?
