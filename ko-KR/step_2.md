@@ -4,13 +4,13 @@
 
 스크래치 스타터 프로젝트를 엽니다.
 
-**온라인**: [ rpf.io/skiingon ](http://rpf.io/skiingon){: target="_ blank"}에서 스타터 프로젝트 열기.
+**Online**: open the starter project at [rpf.io/skiingon](https://rpf.io/skiingon){:target="_blank"}.
 
 스크래치 계정이 있는 경우 ** Remix를 클릭** 하여 복사본을 만들 수 있습니다.
 
-**오프라인**: [스타터 프로젝트](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}를 오프라인 에디터에서 열기
+**Offline**: open the [starter project](https://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} in the offline editor.
 
-스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}에서 다운 받을 수 있습니다.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 스타터 프로젝트에 빈 배경과 스키 스프라이트가 있을 겁니다.
 
