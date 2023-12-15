@@ -4,13 +4,13 @@
 
 基本（きほん）のScratchプロジェクトを開きます。
 
-**オンライン**：[rpf.io/skiingon](http://rpf.io/skiingon){:target="_blank"}から基本（きほん）のプロジェクトを開きます。
+**Online**: open the starter project at [rpf.io/skiingon](https://rpf.io/skiingon){:target="_blank"}.
 
 Scratchアカウントを持っている場合は、**リミックス**ボタンをクリックしてプロジェクトをコピーできます。
 
-**オフライン**：オフラインエディタで[基本（きほん）のプロジェクト](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}を開きます。
+**Offline**: open the [starter project](https://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} in the offline editor.
 
-[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}からScratchオフラインエディタをダウンロードしてインストールできます。
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 基本（きほん）のプロジェクトには、空白の背景とスキーヤーのスプライトがあります。
 
