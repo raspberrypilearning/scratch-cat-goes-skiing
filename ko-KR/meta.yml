@@ -13,10 +13,12 @@ steps:
     title: 시작하기
   - 
     title: 스키어 조종하기
+    completion:
+      - engaged
   - 
     title: 장애물 추가하기
   - 
-    title: "도전 과제: 장애물 바꾸기"
+    title: '도전 과제: 장애물 바꾸기'
     challenge: true
   - 
     title: 랜덤 장애물
@@ -24,8 +26,10 @@ steps:
     title: 충돌
   - 
     title: 점수 추가하기
+    completion:
+      - internal
   - 
-    title: "도전 과제: 더 많은 장애물"
+    title: '도전 과제: 더 많은 장애물'
     challenge: true
   - 
-    title: '도전해 보기'
+    title: 도전해 보기
