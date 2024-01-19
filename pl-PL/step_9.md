@@ -1,14 +1,14 @@
-## Challenge: adding more obstacles
+## Wyzwanie: więcej przeszkód
 
-Add more sprites from the library as obstacles to make your game trickier!
+Dodaj więcej duszków z biblioteki jako przeszkody, aby sprawić, by twoja gra była lepsza!
 
-![more obstacles](images/skiing-final.png)
+![więcej przeszkód](images/skiing-final.png)
 
-When you add a new obstacle, you will need to think about:
+Dodając nową przeszkodę, musisz pomyśleć o:
 
-1. Which sprite to use
-1. What happens when the skier crashes into it
-1. Whether to increase the score (and by how much) when the skier makes it past
+1. Którego duszka użyć
+1. Co się dzieje, gdy narciarz się rozbije w niego
+1. Określ, czy zwiększyć wynik (i o ile), kiedy narciarz przejedzie
 
-If you need help, go back to the step in this project where you created the first obstacle.
+Jeśli potrzebujesz pomocy, wróć do kroku w tym projekcie, w którym stworzyłeś pierwszą przeszkodę.
 
