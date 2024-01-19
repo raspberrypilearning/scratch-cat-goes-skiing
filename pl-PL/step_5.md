@@ -1,8 +1,8 @@
-## Challenge: change the obstacle's costume
+## Wyzwanie: zmień wygląd przeszkody
 
-Can you make the obstacle's costume change each time it appears?
+Czy potrafisz zmienić wygląd przeszkody za każdym razem, gdy się pojawia?
 
-If the sprite you have chosen has only have one costume, you could choose a costume from the library, use another sprite or create your own second costume for the one you already have.
+Jeśli wybrany duszek ma tylko jeden kostium, możesz wybrać kostium z biblioteki, użyć innego duszka lub stworzyć własny kostium dla tego, który już masz.
 
 [[[generic-scratch3-add-costume]]]
 
@@ -10,7 +10,7 @@ If the sprite you have chosen has only have one costume, you could choose a cost
 
 --- hint ---
 
-Add the `next costume`{:class="block3looks"} block before the `show`{:class="block3looks"}.
+Dodaj `następny kostium`{:class="block3looks"} przed `pokazaniem go`{:class="block3looks"}.
 
 ```blocks3
 next costume
