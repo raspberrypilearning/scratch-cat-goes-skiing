@@ -1,18 +1,18 @@
-## Controlling the skier
+## Kontrolowanie narciarza
 
-You will use the left and right arrow keys to control the skier sprite, making it go left and right across the slope.
+Będziesz używać klawiszy strzałek w lewo i w prawo do kontrolowania duszka narciarza, aby skręcał w lewo i prawo po stoku.
 
-![skier moving](images/skier_moving.gif)
+![narciarz w ruchu](images/skier_moving.gif)
 
 --- task ---
 
-First, make the skier move and point to the left. Your code needs to:
+Najpierw, porusz narciarzem i skieruj go w lewo. Twój kod powinien:
 
-1. Start `when the left arrow key is pressed`{:class="block3events"}
-1. Change the angle the sprite is `pointed`{:class="block3motion"}
-1. Move the sprite to the left by `changing x`{:class="block3motion"}
+1. Rozpocząć `kiedy klawisz strzałka w lewo naciśnięty`{:class="block3events"}
+1. Zmienić kąt pod jakim duszek jest `ustawiony`{:class="block3motion"}
+1. Przesunąć duszka w lewo o `zmiana x`{:class="block3motion"}
 
-![skier sprite](images/skier_sprite_small.png)
+![duszek narciarza](images/skier_sprite_small.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -24,19 +24,19 @@ change x by (-10)
 
 --- task ---
 
-Use blocks similar to the ones above to make the sprite move to the right `when the right arrow key is pressed`{:class="block3events"}.
+Użyj bloków podobnych do powyższych, aby duszek poruszał się w prawo `kiedy klawisz strzałka w prawo jest naciśnięty`{:class="block3events"}.
 
 --- hints ---
 
 --- hint ---
 
-Add blocks to your code so `when the right arrow key is pressed`{:class="block3events"}, the sprite `points in the direction 75 degrees`{:class="block3motion"} before `changing the x position by 10`{:class="block3motion"}
+Dodaj bloki do swojego kodu, aby `po naciśnięciu klawisza strzałki w prawo`{:class="block3events"}, duszek `wskazywał w kierunku 75 stopni`{:class="block3motion"} przed `zmianą pozycji x o 10` {:class="block3motion"}
 
 --- /hint ---
 
 --- hint ---
 
-You will need these blocks:
+Będziesz potrzebował tych bloków:
 
 ```blocks3
 
@@ -51,9 +51,9 @@ change x by (10)
 
 --- hint ---
 
-Your code should look like this:
+Twój kod powinien wyglądać tak:
 
-![skier sprite](images/skier_sprite_small.png)
+![duszek narciarza](images/skier_sprite_small.png)
 
 ```blocks3
 when [right arrow v] key pressed
@@ -69,6 +69,6 @@ change x by (10)
 
 --- task ---
 
-Test your program
+Przetestuj swój program
 
 --- /task ---
