@@ -1,22 +1,22 @@
-## Adding an obstacle
+## Dodawanie przeszkody
 
-Having obstacles to avoid will make your game more challenging, and making them appear at bottom of the screen and travel upwards will create a sense of movement.
+Przeszkody sprawią, że gra będzie trudniejsza, a pojawianie się ich na dole ekranu i podróżowanie w górę stworzy poczucie ruchu.
 
 --- no-print ---
 
-![obstacle](images/skier_obstacle_moving.gif)
+![przeszkoda](images/skier_obstacle_moving.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![obstacle](images/skier_obstacle.png)
+![przeszkoda](images/skier_obstacle.png)
 
 --- /print-only ---
 
 --- task ---
 
-Choose a sprite from the library that will serve as an obstacle — it can be anything you think might be found on a ski slope. Add this new sprite.
+Wybierz z biblioteki duszka, który będzie przeszkodą — może to być wszystko, co Twoim zdaniem można znaleźć na stoku narciarskim. Dodaj wybranego duszka.
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,14 +24,14 @@ Choose a sprite from the library that will serve as an obstacle — it can be an
 
 --- task ---
 
-You now need to add code to the sprite to make it move:
+Teraz musisz dodać kod, aby poruszyć duszka:
 
-1. `Go to`{:class="block3motion"} the bottom of the slope and `show`{:class="block3looks"}
-1. `Glide`{:class="block3motion"} up the screen
-1. `Hide`{:class="block3looks"} when it reaches the top
-1. `Wait for 1 second`{:class="block3control"} and then repeat
+1. `Idź do`{:class="block3motion"} dół stoku i `pokaż`{:class="block3looks"}
+1. `Przesuń`{:class="block3motion"} w górę ekranu
+1. `Ukryj`{:class="block3looks"}, gdy osiągnie górę stoku
+1. `Poczekaj 1 sekundę`{:class="block3control"}, a następnie powtórz
 
-![obstacle sprite](images/obstacle_sprite.png)
+![duszek przeszkoda](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
