@@ -1,18 +1,18 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2).
+To jest wersja projektu korzystająca ze **Scratch 3**. Istnieje również [wersja tego projektu dla Scratch 2](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2).
 
 --- /no-print ---
 
-## Introduction
+## Wprowadzenie
 
-You are going to use Scratch to create a skiing game in which you have to avoid randomly appearing obstacles to score points.
+Za pomocą Scratch stworzysz grę narciarską, w której musisz unikać losowo pojawiających się przeszkód, aby zdobyć punkty.
 
-### What you will make
+### Co stworzysz
 
 --- no-print ---
 
-Click on the green flag to start. Use the left and right arrow keys to control the skier.
+Kliknij na zieloną flagę, aby rozpocząć. Użyj klawiszy strzałka w prawo i strzałka w lewo, aby kontrolować narciarza.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,52 +23,52 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 
 --- print-only ---
 
-![complete project](images/skiing-final.png)
+![skończony projekt](images/skiing-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Czego będziesz potrzebować
 ---
 
-### Hardware
+### Sprzęt
 
-+ A computer capable of running Scratch
++ Komputer, na którym można uruchomić Scratch
 
-### Software
+### Oprogramowanie
 
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([online](https://rpf.io/scratchon){:target="_blank"} lub [offline](https://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### Pliki do pobrania
 
-The starter project can be found [here](https://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}.
+Projekt początkowy można znaleźć [tutaj](https://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Czego się nauczysz
 ---
 
-+ How to control sprites using the keyboard
-+ How to draw a backdrop
-+ How to animate sprites
-+ Use random numbers
++ Jak kontrolować duszka za pomocą klawiatury
++ Jak narysować tło
++ Jak animować duszka
++ Używania liczb losowych
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Dodatkowe informacje dla nauczycieli
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}.
+Jeśli chcesz wydrukować ten projekt, użyj wersji [do druku](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}}.
 
 --- /no-print ---
 
-You can find the [completed project here](https://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}.
+Możesz znaleźć ukończony projekt [tutaj](https://rpf.io/p/en/scratch-cat-goes-skiing-get){:target="_blank"}.
 
 --- /collapse ---
