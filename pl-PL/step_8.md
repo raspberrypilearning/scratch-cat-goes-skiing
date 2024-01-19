@@ -1,22 +1,22 @@
-## Adding a score
+## Dodawanie wyniku
 
-Each time the skier sprite makes it past an obstacle, they should earn points.
+Za każdym razem, gdy duszek narciarza mija przeszkodę, powinien zdobywać punkty.
 
-![score](images/score.png)
+![wynik](images/score.png)
 
 --- task ---
 
-`Make a variable`{:class="block3variables"} called `score`{:class="block3variables"}
+Utwórz nową `zmienną`{:class="block3variables"} nazwaną `wynik`{:class="block3variables"}
 
 --- /task ---
 
 --- task ---
 
-Add a script to the obstacle sprite to set `score`{:class="block3variables"} to zero at the start of the game.
+Dodaj skrypt do duszka na przeszkodzie, aby ustawić `wynik`{:class="block3variables"} do zera na początku gry.
 
 [[[generic-scratch3-add-variable]]]
 
-![obstacle sprite](images/obstacle_sprite.png)
+![duszek przeszkoda](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -27,11 +27,11 @@ when green flag clicked
 
 --- task ---
 
-Change the code so that when the obstacle gets to the top of the screen, it `changes score by 1`{:class="block3variables"}.
+Zmień kod, aby gdy przeszkoda znalazła się na górze ekranu, `zmienia wynik o 1`{:class="block3variables"}.
 
-The updated script for the sprite should look like this:
+Zaktualizowany skrypt dla duszek powinien wyglądać tak:
 
-![obstacle sprite](images/obstacle_sprite.png)
+![duszek przeszkoda](images/obstacle_sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -51,6 +51,6 @@ end
 
 --- task ---
 
-Play the game, see how many points you can score.
+Zagraj w grę, zobacz, ile punktów możesz zdobyć.
 
 --- /task ---
