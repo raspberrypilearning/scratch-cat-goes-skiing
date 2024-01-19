@@ -1,28 +1,28 @@
-## Getting started
+## Zaczynamy
 
 --- task ---
 
-Open the Scratch starter project.
+Otwórz projekt początkowy.
 
-**Online**: open the starter project at [rpf.io/skiingon](https://rpf.io/skiingon){:target="_blank"}.
+**Online**: otwórz projekt początkowy w [rpf.io/skiingon](https://rpf.io/skiingon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Jeśli masz konto Scratch, możesz wykonać kopię klikając **Remiks**.
 
-**Offline**: open the [starter project](https://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} in the offline editor.
+**Offline**: otwórz [projekt początkowy](https://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_ blank"} w edytorze offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
+Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a blank backdrop and a skier sprite.
+W projekcie początkowym powinieneś zobaczyć puste tło i duszka narciarza.
 
-![starter projects](images/starter_project.png)
+![projekt początkowy](images/starter_project.png)
 
 --- /task ---
 
 --- task ---
 
-Paint a new backdrop for your ski slope: fill the background grey, and add some straight lines.
+Namaluj nowe tło dla swojego stoku narciarskiego: wypełnij tło kolorem szarym i dodaj proste linie.
 
-![ski slope backdrop](images/backdrop.png)
+![tło stoku narciarskiego](images/backdrop.png)
 
 [[[generic-scratch3-paint-new-backdrop]]]
 
@@ -30,11 +30,11 @@ Paint a new backdrop for your ski slope: fill the background grey, and add some 
 
 --- task ---
 
-Add code to your skiing cat sprite so that it appears at the top of the slope and faces downhill `when the flag is clicked`{:class="block3events"}.
+Dodaj kod do swojego duszka na nartach, aby pojawił się na szczycie stoku i był skierowany w dół `po kliknięciu flagi`{:class="block3events"}.
 
-![skier on slope](images/skier_on_the_slope.png)
+![narciarz na stoku](images/skier_on_the_slope.png)
 
-![skier sprite](images/skier_sprite_small.png)
+![duszek narciarza](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -46,7 +46,7 @@ point in direction (90 v)
 
 --- task ---
 
-Save and test your project.
+Zapisz i przetestuj swój projekt.
 
 [[[generic-scratch3-saving]]]
 
