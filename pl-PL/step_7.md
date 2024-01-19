@@ -1,14 +1,14 @@
-## Crashing
+## Zderzenia
 
-If the skier crashes into an obstacle, it should fall over and the game should end.
+Jeśli narciarz uderzy w przeszkodę, pownien spaść i gra powinna się zakończyć.
 
-![skier crashed](images/skier_crash.png)
+![narciarz się rozbił](images/skier_crash.png)
 
 --- task ---
 
-Change the code for the skier sprite to `wait until`{:class="block3control"} it is `touching`{:class="block3sensing"} the obstacle, and to then `stop all`{:class="block3control"}.
+Zmień kod dla duszek narciarza na `poczekaj aż`{:class="block3control"}`dotyka`{:class="block3sensing"} przeszkodę, a następnie `zatrzymaj wszystko`{:class="block3control"}.
 
-![skier sprite](images/skier_sprite_small.png)
+![duszek narciarza](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -20,11 +20,11 @@ stop [all v]
 
 --- task ---
 
-When the skier crashes, you should also `switch costume to fallenover`{:class="block3looks"}.
+Kiedy narciarz rozbije sie, powinieneś również `przełączyć kostium na upadek`{:class="block3looks"}.
 
-The updated code should look like this:
+Zaktualizowany kod powinien wyglądać następująco:
 
-![skier sprite](images/skier_sprite_small.png)
+![duszek narciarza](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
@@ -37,17 +37,17 @@ stop [all v]
 
 --- task ---
 
-Save and test your code. When the skier hits the obstacle, the costume should change and the game should stop.
+Zapisz i przetestuj swój kod. Gdy narciarz uderzy w przeszkodę, wygląd duszka powinien się zmienić, a gra powinna się zatrzymać.
 
 --- /task ---
 
-However, there is a now problem with your game: the next time you run it, the skier will still be wearing the `fallenover`{:class="block3looks"} costume.
+Jest jednak problem z twoją grą: następnym razem, gdy ją uruchomisz, narciarz będzie nadal nosił`przewrócony`{:class="block3looks"} Kostium.
 
 --- task ---
 
-Edit the skier's so that their costume changes back to `skiing`{:class="block3looks"} when the game starts by `switching the costume to skiing`{:class="block3looks"}.
+Edytuj narciarza, aby jego kostium zmienił się z powrotem na `jazda na nartach`{:class="block3looks"}, gdy gra rozpoczyna się od `przełączenia kostiumu na jazdę na nartach `{:class="block3looks"}.
 
-![skier sprite](images/skier_sprite_small.png)
+![duszek narciarza](images/skier_sprite_small.png)
 
 ```blocks3
 when green flag clicked
