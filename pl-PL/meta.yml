@@ -1,0 +1,25 @@
+---
+title: Scratch Cat jeździ na nartach
+hero_image: images/banner.png
+description: Utwórz grę narciarską, w której unikasz przeszkód
+listed: true
+copyedit: true
+version: 4.3
+last_tested: 2019-01-21
+steps:
+  - title: Wprowadzenie
+  - title: Zaczynamy
+  - title: Kontrolowanie narciarza
+    completion:
+      - engaged
+  - title: Dodawanie obiektu
+  - title: 'Wyzwanie: zmień przeszkodę'
+    challenge: true
+  - title: Losowa przeszkoda
+  - title: Zderzenia
+  - title: Dodawanie wyniku
+    completion:
+      - internal
+  - title: 'Wyzwanie: więcej przeszkód'
+    challenge: true
+  - title: Co dalej?
