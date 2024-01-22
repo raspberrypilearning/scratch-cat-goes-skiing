@@ -50,9 +50,11 @@ The starter project can be found [here](https://rpf.io/p/en/scratch-cat-goes-ski
 ---
 title: What you will learn
 ---
-- Recall how to use code to respond to key presses
-- Use sensing blocks to detect when sprites touch each other
-- Use random numbers to choose a sprite's position
+
++ How to control sprites using the keyboard
++ How to draw a backdrop
++ How to animate sprites
++ Use random numbers
 
 --- /collapse ---
 

@@ -8,13 +8,13 @@ Each time the skier sprite makes it past an obstacle, they should earn points.
 
 `Make a variable`{:class="block3variables"} called `score`{:class="block3variables"} 
 
-[[[generic-scratch3-add-variable]]]
-
 --- /task ---
 
 --- task ---
 
 Add a script to the obstacle sprite to set `score`{:class="block3variables"} to zero at the start of the game.
+
+[[[generic-scratch3-add-variable]]]
 
 ![obstacle sprite](images/obstacle_sprite.png)
 
