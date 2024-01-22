@@ -65,7 +65,7 @@ title: Dodatkowe informacje dla nauczycieli
 
 --- no-print ---
 
-Jeśli chcesz wydrukować ten projekt, użyj wersji [do druku](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}}.
+Jeśli chcesz wydrukować ten projekt, użyj wersji [do druku](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}.
 
 --- /no-print ---
 
