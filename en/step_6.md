@@ -41,9 +41,9 @@ Use the `obstacle_x`{:class="block3variables"} variable in the `go to`{:class="b
 when green flag clicked
 forever 
     set [obstacle_x v] to (pick random (-200) to (200))
-    go to x: (obstacle_x :: variables +) y: (-180)
++    go to x: (obstacle_x :: variables) y: (-180)
     show
-    glide (1) secs to x: (obstacle_x :: variables +) y: (180)
++    glide (1) secs to x: (obstacle_x :: variables) y: (180)
     hide
     wait (1) seconds
 end
