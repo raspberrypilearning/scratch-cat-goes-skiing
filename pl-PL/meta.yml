@@ -22,4 +22,3 @@ steps:
       - internal
   - title: 'Wyzwanie: więcej przeszkód'
     challenge: true
-  - title: Co dalej?
