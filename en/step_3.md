@@ -27,28 +27,6 @@ change x by (-10)
 Use blocks similar to the ones above to make the sprite move to the right `when the right arrow key is pressed`{:class="block3events"}.
 
 --- hints ---
-
---- hint ---
-
-Add blocks to your code so `when the right arrow key is pressed`{:class="block3events"}, the sprite `points in the direction 75 degrees`{:class="block3motion"} before `changing the x position by 10`{:class="block3motion"}
-
---- /hint ---
-
---- hint ---
-
-You will need these blocks:
-
-```blocks3
-    
-point in direction (75 v)
-
-when [right arrow v] key pressed
-
-change x by (10)
-```
-
---- /hint ---
-
 --- hint ---
 
 Your code should look like this:
@@ -62,8 +40,8 @@ change x by (10)
 ```
 
 --- /hint ---
-
 --- /hints ---
+
 
 --- /task ---
 

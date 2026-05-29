@@ -7,7 +7,6 @@ If the sprite you have chosen has only have one costume, you could choose a cost
 [[[generic-scratch3-add-costume]]]
 
 --- hints ---
-
 --- hint ---
 
 Add the `next costume`{:class="block3looks"} block before the `show`{:class="block3looks"}.
@@ -18,6 +17,6 @@ show
 ```
 
 --- /hint ---
-
 --- /hints ---
+
 
